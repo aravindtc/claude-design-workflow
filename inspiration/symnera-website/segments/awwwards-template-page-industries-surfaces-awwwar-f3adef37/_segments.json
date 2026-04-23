@@ -1,0 +1,229 @@
+{
+  "candidate_id": "awwwards-template-page-industries-surfaces-awwwar-f3adef37",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/template-page-industries-surfaces-q-industrial",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-template-page-industries-surfaces-awwwar-f3adef37/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "nav",
+      "bbox": [
+        0,
+        0,
+        1920,
+        32
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/00-nav.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0635,
+        "color_variance": 0.0,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 60.0,
+        "tension": 0.0,
+        "focal_point": 1.0,
+        "palette_top": [
+          "#E0E0E0"
+        ],
+        "low_signal_flags": [
+          "nav_like",
+          "footer_like",
+          "too_short"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 1,
+      "name": "hero",
+      "bbox": [
+        0,
+        512,
+        1920,
+        548
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/01-hero.png",
+      "heuristic_score": 0.001,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0049,
+        "color_variance": 1.96,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 3.504,
+        "tension": 0.0003,
+        "focal_point": 1.111,
+        "palette_top": [
+          "#F0F0F0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1060,
+        1920,
+        419
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/02-band.png",
+      "heuristic_score": 0.017,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0077,
+        "color_variance": 5.58,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 4.582,
+        "tension": 0.0019,
+        "focal_point": 1.256,
+        "palette_top": [
+          "#F0F0F0",
+          "#404040",
+          "#202020",
+          "#606060",
+          "#A0A0B0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 3,
+      "name": "band",
+      "bbox": [
+        0,
+        1674,
+        1920,
+        463
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/03-band.png",
+      "heuristic_score": 0.024,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0078,
+        "color_variance": 6.27,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 4.147,
+        "tension": 0.0025,
+        "focal_point": 1.321,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#404040",
+          "#606060",
+          "#80A0A0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 4,
+      "name": "band",
+      "bbox": [
+        0,
+        2137,
+        1920,
+        464
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/04-band.png",
+      "heuristic_score": 0.028,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.007,
+        "color_variance": 6.19,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 4.138,
+        "tension": 0.0017,
+        "focal_point": 1.357,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#708080",
+          "#404040",
+          "#80A0A0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 5,
+      "name": "band",
+      "bbox": [
+        0,
+        2798,
+        1920,
+        562
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/05-band.png",
+      "heuristic_score": 0.105,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0071,
+        "color_variance": 12.5,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 3.416,
+        "tension": 0.0043,
+        "focal_point": 2.049,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#404040",
+          "#606060",
+          "#E0E0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 6,
+      "name": "footer",
+      "bbox": [
+        0,
+        3360,
+        1920,
+        561
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/06-footer.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0048,
+        "color_variance": 2.83,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 3.422,
+        "tension": 0.0003,
+        "focal_point": 1.108,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#606060",
+          "#708080"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

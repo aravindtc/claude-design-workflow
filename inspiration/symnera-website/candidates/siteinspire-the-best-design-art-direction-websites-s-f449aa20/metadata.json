@@ -1,0 +1,35 @@
+{
+  "id": "siteinspire-f449aa20",
+  "source": "siteinspire",
+  "url": "https://www.siteinspire.com/websites/category/design-and-art-direction",
+  "title": "The Best Design & Art Direction Websites | Siteinspire",
+  "description": "Discover Design & Art Direction websites A showcase of the web's finest design + talent",
+  "author": null,
+  "tags": "design,development,agencies,freelancers,web design,web development,design inspiration,web design inspiration,web development inspiration,design agencies,development agencies,freelancer agencies",
+  "og_image": "https://assets.siteinspire.com/opengraph-image.png",
+  "screenshot_saved": true,
+  "preview_saved": false,
+  "retrieved_at": "2026-04-23T11:30:37Z",
+  "score": {
+    "total": 0.47,
+    "breakdown": {
+      "aesthetic_match": 0.273,
+      "pattern_match": 0.25,
+      "source_authority": 0.95,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "grid",
+        "minimal",
+        "typographic"
+      ],
+      "pattern": [
+        "grid",
+        "website"
+      ],
+      "avoid": []
+    }
+  }
+}

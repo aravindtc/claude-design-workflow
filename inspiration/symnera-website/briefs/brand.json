@@ -1,0 +1,67 @@
+{
+  "project": "symnera-website",
+  "brand": {
+    "name": "Symnera",
+    "tagline": "Clarity comes before automation.",
+    "industry": "industrial SaaS / digital transformation consultancy",
+    "colors": {
+      "primary": "#101010",
+      "accent": "#CDF35A",
+      "neutral": ["#FFFFFF", "#F4F4F4", "#1A1A1A"]
+    },
+    "typography": {
+      "display": "Alpha Lyrae Medium",
+      "body": "DM Sans"
+    }
+  },
+  "aesthetic": [
+    "editorial",
+    "minimal",
+    "industrial",
+    "grounded",
+    "dark",
+    "lime-accent",
+    "confident",
+    "swiss-grid",
+    "typographic",
+    "b2b",
+    "saas"
+  ],
+  "patterns_wanted": [
+    "hero",
+    "feature-grid",
+    "problem-statement",
+    "method-steps",
+    "testimonial",
+    "pricing",
+    "cta",
+    "full-page"
+  ],
+  "avoid": [
+    "glassmorphism",
+    "gradient blobs",
+    "web3 crypto aesthetic",
+    "playful illustration heavy",
+    "pastel palettes",
+    "generic saas template",
+    "drone-selfie aesthetic",
+    "over-rounded friendly UI"
+  ],
+  "sources": [
+    "awwwards",
+    "siteinspire",
+    "land-book",
+    "godly",
+    "httpster",
+    "dribbble",
+    "behance"
+  ],
+  "max_candidates_per_source": 5,
+  "min_score": 0.4,
+  "approval": {
+    "status": "approved",
+    "approved_at": "2026-04-23T13:30:00Z",
+    "approved_by": "user (in-chat)",
+    "notes": "Symnera brand baseline — dark editorial industrial SaaS with lime accent."
+  }
+}

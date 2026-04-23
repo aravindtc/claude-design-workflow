@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-04-23T14:19:45Z",
+  "brief": {
+    "project": "symnera-website",
+    "brand": {
+      "name": "Symnera",
+      "tagline": "Clarity comes before automation.",
+      "industry": "industrial SaaS / digital transformation consultancy",
+      "colors": {
+        "primary": "#101010",
+        "accent": "#CDF35A",
+        "neutral": [
+          "#FFFFFF",
+          "#F4F4F4",
+          "#1A1A1A"
+        ]
+      },
+      "typography": {
+        "display": "Alpha Lyrae Medium",
+        "body": "DM Sans"
+      }
+    },
+    "aesthetic": [
+      "editorial",
+      "minimal",
+      "industrial",
+      "grounded",
+      "dark",
+      "lime-accent",
+      "confident",
+      "swiss-grid",
+      "typographic",
+      "b2b",
+      "saas"
+    ],
+    "patterns_wanted": [
+      "hero",
+      "feature-grid",
+      "problem-statement",
+      "method-steps",
+      "testimonial",
+      "pricing",
+      "cta",
+      "full-page"
+    ],
+    "avoid": [
+      "glassmorphism",
+      "gradient blobs",
+      "web3 crypto aesthetic",
+      "playful illustration heavy",
+      "pastel palettes",
+      "generic saas template",
+      "drone-selfie aesthetic",
+      "over-rounded friendly UI"
+    ],
+    "sources": [
+      "awwwards",
+      "siteinspire",
+      "land-book",
+      "godly",
+      "httpster",
+      "dribbble",
+      "behance"
+    ],
+    "max_candidates_per_source": 5,
+    "min_score": 0.4,
+    "approval": {
+      "status": "approved",
+      "approved_at": "2026-04-23T13:30:00Z",
+      "approved_by": "user (in-chat)",
+      "notes": "Symnera brand baseline \u2014 dark editorial industrial SaaS with lime accent."
+    }
+  },
+  "candidates": [
+    {
+      "id": "dribbble-2aeb354d",
+      "source": "dribbble",
+      "url": "https://dribbble.com/shots/27050364-stockz-ai-Landing-Page-Scroll-Effects",
+      "title": "Sorry, the page you were looking for doesn't exist. (404)",
+      "description": "stockz.ai Landing Page Scroll Effects designed by Alexander Jorias. Connect with them on Dribbble; the global community for designers and creative ...",
+      "author": null,
+      "tags": [],
+      "og_image": null,
+      "screenshot_saved": true,
+      "preview_saved": false,
+      "retrieved_at": "2026-04-23T14:19:50Z",
+      "discovery_filter": {
+        "source_authority": 0.65,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "dribbble-24b6447d",
+      "source": "dribbble",
+      "url": "https://dribbble.com/shots/27050293-stockz-ai-FinTech-SaaS-Onboarding-Screen-UI",
+      "title": "Sorry, the page you were looking for doesn't exist. (404)",
+      "description": "stockz.ai - FinTech SaaS Onboarding Screen UI designed by Alexander Jorias. Connect with them on Dribbble; the global community for designers and creative ...",
+      "author": null,
+      "tags": [],
+      "og_image": null,
+      "screenshot_saved": true,
+      "preview_saved": false,
+      "retrieved_at": "2026-04-23T14:19:57Z",
+      "discovery_filter": {
+        "source_authority": 0.65,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "dribbble-5c74646d",
+      "source": "dribbble",
+      "url": "https://dribbble.com/shots/27022221-Industrial-Website-Hero-Design",
+      "title": "Industrial Website Hero Design by Oleksii Kosov on Dribbble",
+      "description": "Industrial Website Hero Design designed by Oleksii Kosov. Connect with them on Dribbble; the global community for designers and creative professionals.",
+      "author": null,
+      "tags": [],
+      "og_image": "https://cdn.dribbble.com/userupload/46518377/file/a05d9ff138f408fa8bd2449cd2d8aaba.png?crop=283x123-2918x2100&resize=1600x1200",
+      "screenshot_saved": true,
+      "preview_saved": true,
+      "retrieved_at": "2026-04-23T14:20:07Z",
+      "discovery_filter": {
+        "source_authority": 0.65,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "awwwards-5ffd209d",
+      "source": "awwwards",
+      "url": "https://www.awwwards.com/inspiration/industrial-additive-manufacturing-platform-markforged",
+      "title": "Industrial Additive Manufacturing Platform | Markforged - Awwwards",
+      "description": "    This Website element for your web inspiration was built with \n",
+      "author": null,
+      "tags": "Website Awards, Web Design Inspiration, Webdesign Trends",
+      "og_image": "https://assets.awwwards.com/awards/external/2020/12/5fd1e16d91698082000259.jpg",
+      "screenshot_saved": true,
+      "preview_saved": true,
+      "retrieved_at": "2026-04-23T14:20:29Z",
+      "discovery_filter": {
+        "source_authority": 1.0,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "awwwards-fadadcb0",
+      "source": "awwwards",
+      "url": "https://www.awwwards.com/inspiration/catalog-q-industrial",
+      "title": "Catalog - Awwwards",
+      "description": "    This Q Industrial element for your web inspiration was built with catalog, minimal, sticky, filters, cms, interaction\n",
+      "author": null,
+      "tags": "Website Awards, Web Design Inspiration, Webdesign Trends",
+      "og_image": "https://assets.awwwards.com/awards/element/2024/05/664364d1e95cf680688132.png",
+      "screenshot_saved": true,
+      "preview_saved": true,
+      "retrieved_at": "2026-04-23T14:20:42Z",
+      "discovery_filter": {
+        "source_authority": 1.0,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "awwwards-f3adef37",
+      "source": "awwwards",
+      "url": "https://www.awwwards.com/inspiration/template-page-industries-surfaces-q-industrial",
+      "title": "Template page, Industries & Surfaces - Awwwards",
+      "description": "    This Q Industrial element for your web inspiration was built with webflow, template, layout, navigation, tabs, carousel\n",
+      "author": null,
+      "tags": "Website Awards, Web Design Inspiration, Webdesign Trends",
+      "og_image": "https://assets.awwwards.com/awards/element/2024/05/664364b842a31451992558.png",
+      "screenshot_saved": true,
+      "preview_saved": true,
+      "retrieved_at": "2026-04-23T14:21:10Z",
+      "discovery_filter": {
+        "source_authority": 1.0,
+        "url_accept_reason": "accepted"
+      }
+    },
+    {
+      "id": "awwwards-7a249933",
+      "source": "awwwards",
+      "url": "https://www.awwwards.com/inspiration/the-industrial-grade-paper-shredder-shader-development-studio",
+      "title": "The Industrial Grade Paper Shredder - Awwwards",
+      "description": "    This Shader Development Studio element for your web inspiration was built with industrial, shredder\n",
+      "author": null,
+      "tags": "Website Awards, Web Design Inspiration, Webdesign Trends",
+      "og_image": null,
+      "screenshot_saved": true,
+      "preview_saved": false,
+      "retrieved_at": "2026-04-23T14:21:21Z",
+      "discovery_filter": {
+        "source_authority": 1.0,
+        "url_accept_reason": "accepted"
+      }
+    }
+  ],
+  "discovery": {
+    "total_raw": 18,
+    "accepted": 8,
+    "rejected": 10,
+    "filter_summary": {
+      "not_in_prefer_patterns": 1,
+      "accepted": 8,
+      "rejected:/search": 8,
+      "rejected:/tags/": 1
+    }
+  },
+  "errors": []
+}

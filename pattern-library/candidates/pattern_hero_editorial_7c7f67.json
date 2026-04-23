@@ -1,0 +1,69 @@
+{
+  "id": "pattern_hero_editorial_7c7f67",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/editorial-nueno-digital-fashion-brand",
+  "source_title": "Editorial Layout - Awwwards",
+  "captured_at": "2026-04-23T14:11:22Z",
+  "extracted_at": "2026-04-23T14:22:15Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    1838,
+    1920,
+    300
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/02-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-editorial-layout-awwwards-e35b5b19/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.782,
+  "score_breakdown": {
+    "heuristic": 0.575,
+    "vision": 0.92,
+    "weighted": 0.782
+  },
+  "features_heuristic": {
+    "contrast_ratio": 10.783,
+    "edge_density": 0.063,
+    "color_variance": 100.17,
+    "whitespace_ratio": 0.006,
+    "content_density": 0.994,
+    "aspect": 6.4,
+    "tension": 0.01,
+    "focal_point": 1.23,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#909090",
+      "#9090A0",
+      "#A0A0A0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "This section uses high contrast and bold typography to create a strong visual impact that reflects the brand's confident, editorial style.",
+  "avoid": [
+    "playful illustration heavy",
+    "pastel palettes",
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "confident",
+    "typographic"
+  ]
+}

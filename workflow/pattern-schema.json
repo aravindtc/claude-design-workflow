@@ -1,0 +1,123 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/aravindtc/claude-design-workflow/workflow/pattern-schema.json",
+  "title": "Pattern",
+  "description": "A structured design pattern extracted from a single region of a captured webpage. This is the output of scripts/extract_pattern_signals.py. Raw screenshots are NOT patterns — only regions that pass segmentation + heuristic + (optional) vision scoring become patterns.",
+  "type": "object",
+  "required": ["id", "source", "source_url", "region", "score", "signals", "insight"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Globally unique pattern id, e.g. 'pattern_hero_editorial_01'."
+    },
+    "source": {
+      "type": "string",
+      "description": "Origin site, e.g. 'awwwards', 'dribbble'."
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "source_title": {
+      "type": "string"
+    },
+    "captured_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "extracted_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "region": {
+      "enum": ["hero", "band", "feature-grid", "testimonial", "pricing", "cta", "footer", "unknown"],
+      "description": "Logical region label assigned during segmentation."
+    },
+    "bbox": {
+      "type": "array",
+      "items": { "type": "integer" },
+      "minItems": 4,
+      "maxItems": 4,
+      "description": "[x, y, width, height] in raw screenshot pixel coords."
+    },
+    "segment_image": {
+      "type": "string",
+      "description": "Relative path to the cropped region PNG."
+    },
+    "raw_screenshot": {
+      "type": "string",
+      "description": "Relative path to the full-page screenshot (traceability only)."
+    },
+    "pattern_layer": {
+      "enum": ["visual_language", "composition", "component"],
+      "description": "Which design layer this pattern speaks to."
+    },
+    "score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "score_breakdown": {
+      "type": "object",
+      "properties": {
+        "heuristic": { "type": "number", "minimum": 0, "maximum": 1 },
+        "vision": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "weighted": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "features_heuristic": {
+      "type": "object",
+      "description": "Raw pixel-level features used by the heuristic stage.",
+      "properties": {
+        "contrast_ratio": { "type": "number" },
+        "edge_density": { "type": "number" },
+        "color_variance": { "type": "number" },
+        "whitespace_ratio": { "type": "number" },
+        "content_density": { "type": "number" },
+        "aspect": { "type": "number" },
+        "tension": { "type": "number" },
+        "focal_point": { "type": "number" },
+        "palette_top": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "signals": {
+      "type": "object",
+      "required": ["typography", "composition", "contrast"],
+      "properties": {
+        "typography": {
+          "type": "object",
+          "required": ["scale", "alignment", "density"],
+          "properties": {
+            "scale": { "enum": ["small", "medium", "large", "extreme", "mixed"] },
+            "alignment": { "enum": ["left", "centered", "right", "left_offset", "justified"] },
+            "density": { "enum": ["tight", "normal", "sparse"] }
+          }
+        },
+        "composition": {
+          "type": "object",
+          "required": ["symmetry", "dominant", "balance"],
+          "properties": {
+            "symmetry": { "enum": ["symmetrical", "asymmetrical"] },
+            "dominant": { "enum": ["text", "image", "mixed", "negative_space"] },
+            "balance": { "enum": ["left-heavy", "right-heavy", "centered", "top-heavy", "bottom-heavy"] }
+          }
+        },
+        "contrast": { "enum": ["high", "medium", "low"] },
+        "rhythm": { "enum": ["repetitive", "structured", "loose", "none"] }
+      }
+    },
+    "insight": {
+      "type": "string",
+      "description": "One or two sentences — what makes this pattern interesting or useful."
+    },
+    "avoid": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Cases where this pattern should NOT be used."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

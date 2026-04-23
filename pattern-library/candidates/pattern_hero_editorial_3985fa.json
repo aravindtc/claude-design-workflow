@@ -1,0 +1,70 @@
+{
+  "id": "pattern_hero_editorial_3985fa",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/industrial-additive-manufacturing-platform-markforged",
+  "source_title": "Industrial Additive Manufacturing Platform | Markforged - Awwwards",
+  "captured_at": "2026-04-23T14:20:29Z",
+  "extracted_at": "2026-04-23T14:22:30Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    282,
+    1920,
+    719
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/01-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.781,
+  "score_breakdown": {
+    "heuristic": 0.572,
+    "vision": 0.92,
+    "weighted": 0.781
+  },
+  "features_heuristic": {
+    "contrast_ratio": 248.0,
+    "edge_density": 0.0435,
+    "color_variance": 118.75,
+    "whitespace_ratio": 0.001,
+    "content_density": 0.999,
+    "aspect": 2.67,
+    "tension": 0.0148,
+    "focal_point": 1.329,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#202020",
+      "#F0F000",
+      "#202030"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "text",
+      "balance": "left-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The bold typography paired with a high contrast background makes for a striking hero section, aligning well with the brand's industrial and confident aesthetic.",
+  "avoid": [
+    "generic saas template",
+    "over-rounded friendly UI"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial",
+    "lime-accent",
+    "confident",
+    "typographic"
+  ]
+}

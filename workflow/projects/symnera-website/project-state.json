@@ -1,0 +1,43 @@
+{
+  "project_id": "symnera-website",
+  "created_at": "2026-04-23T00:00:00Z",
+  "updated_at": "2026-04-23T00:00:00Z",
+  "current_stage": "07-design-system",
+  "stages": {
+    "01-project-setup":        { "status": "completed", "entered_at": "2026-04-21T00:00:00Z", "completed_at": "2026-04-21T00:00:00Z" },
+    "02-inspiration-analysis": { "status": "completed", "entered_at": "2026-04-21T00:00:00Z", "completed_at": "2026-04-21T00:00:00Z" },
+    "03-creative-direction":   { "status": "completed", "entered_at": "2026-04-21T00:00:00Z", "completed_at": "2026-04-21T00:00:00Z" },
+    "04-content-story":        { "status": "completed", "entered_at": "2026-04-21T00:00:00Z", "completed_at": "2026-04-21T00:00:00Z" },
+    "05-asset-need":           { "status": "pending",   "entered_at": null, "completed_at": null },
+    "06-asset-retrieval":      { "status": "pending",   "entered_at": null, "completed_at": null },
+    "07-design-system":        { "status": "in_progress", "entered_at": "2026-04-21T00:00:00Z", "completed_at": null },
+    "08-figma-build":          { "status": "in_progress", "entered_at": "2026-04-21T00:00:00Z", "completed_at": null },
+    "09-code-build":           { "status": "pending",   "entered_at": null, "completed_at": null },
+    "10-final-qa":             { "status": "pending",   "entered_at": null, "completed_at": null }
+  },
+  "gates": {
+    "creative_direction_approved": true,
+    "asset_briefs_approved": false,
+    "assets_approved": false,
+    "figma_build_approved": false,
+    "project_signed_off": false
+  },
+  "artifacts": {
+    "figma_file_key": "6jslEYMOdzlpTyWwfORtIG",
+    "figma_file_url": "https://www.figma.com/design/6jslEYMOdzlpTyWwfORtIG",
+    "inspiration_file_key": null,
+    "direction_doc_path": null,
+    "content_story_path": null,
+    "brief_dir": "assets/symnera-website/briefs/",
+    "candidates_dir": "assets/symnera-website/candidates/",
+    "approved_dir": "assets/symnera-website/approved/",
+    "image_slots": {}
+  },
+  "history": [
+    {
+      "at": "2026-04-23T00:00:00Z",
+      "event": "state_file_created",
+      "note": "Symnera work was in progress when this state file was introduced; stages 01-04 marked completed retroactively. Stages 05-06 (asset-need, asset-retrieval) are the new pipeline additions and will run next."
+    }
+  ]
+}

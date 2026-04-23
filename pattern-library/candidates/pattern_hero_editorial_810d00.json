@@ -1,0 +1,68 @@
+{
+  "id": "pattern_hero_editorial_810d00",
+  "source": "httpster",
+  "source_url": "https://httpster.net/website/spaces-loversmagazine/",
+  "source_title": "Spaces by Lovers Magazine \u2014 Httpster",
+  "captured_at": "2026-04-23T14:11:41Z",
+  "extracted_at": "2026-04-23T14:23:58Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    0,
+    1920,
+    1616
+  ],
+  "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/00-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/httpster-spaces-by-lovers-magazine-httpster-ca119b25/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.792,
+  "score_breakdown": {
+    "heuristic": 0.706,
+    "vision": 0.85,
+    "weighted": 0.792
+  },
+  "features_heuristic": {
+    "contrast_ratio": 255.0,
+    "edge_density": 0.0992,
+    "color_variance": 109.11,
+    "whitespace_ratio": 0.034,
+    "content_density": 0.966,
+    "aspect": 1.188,
+    "tension": 0.0352,
+    "focal_point": 1.447,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#E0E0E0",
+      "#101010",
+      "#909090"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "text",
+      "balance": "top-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The design uses large, confident typography with strong contrast to make a bold statement, fitting the brand's industrial and editorial aesthetics.",
+  "avoid": [
+    "playful illustration heavy",
+    "pastel palettes"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "confident",
+    "industrial"
+  ]
+}

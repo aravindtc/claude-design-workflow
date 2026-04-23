@@ -1,0 +1,70 @@
+{
+  "id": "pattern_hero_editorial_390c93",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27070066-Hero-Design-Concept-for-Industrial-Engineering-Company",
+  "source_title": "Hero Design Concept for Industrial Engineering Company by Alexander Jorias on Dribbble",
+  "captured_at": "2026-04-23T14:09:30Z",
+  "extracted_at": "2026-04-23T14:23:13Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    243,
+    1920,
+    665
+  ],
+  "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/00-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.774,
+  "score_breakdown": {
+    "heuristic": 0.511,
+    "vision": 0.95,
+    "weighted": 0.774
+  },
+  "features_heuristic": {
+    "contrast_ratio": 18.214,
+    "edge_density": 0.029,
+    "color_variance": 113.35,
+    "whitespace_ratio": 0.004,
+    "content_density": 0.996,
+    "aspect": 2.887,
+    "tension": 0.003,
+    "focal_point": 1.161,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#000000",
+      "#202020",
+      "#E0E0E0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "extreme",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "text",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The design uses bold typography and a dark, high-contrast theme to create a strong first impression. It effectively conveys precision and expertise, fitting for an industrial SaaS brand.",
+  "avoid": [
+    "playful illustration heavy",
+    "pastel palettes",
+    "drone-selfie aesthetic"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial",
+    "confident",
+    "typographic"
+  ]
+}

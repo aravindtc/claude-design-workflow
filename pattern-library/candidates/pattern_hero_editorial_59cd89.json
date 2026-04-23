@@ -1,0 +1,69 @@
+{
+  "id": "pattern_hero_editorial_59cd89",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/product-feature-particles-3d-animation-set",
+  "source_title": "Product Feature - Awwwards",
+  "captured_at": "2026-04-23T14:11:36Z",
+  "extracted_at": "2026-04-23T14:22:35Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    282,
+    1920,
+    1037
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/01-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-product-feature-awwwards-bf18d794/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.759,
+  "score_breakdown": {
+    "heuristic": 0.548,
+    "vision": 0.9,
+    "weighted": 0.759
+  },
+  "features_heuristic": {
+    "contrast_ratio": 17.714,
+    "edge_density": 0.0629,
+    "color_variance": 81.37,
+    "whitespace_ratio": 0.0,
+    "content_density": 1.0,
+    "aspect": 1.851,
+    "tension": 0.0036,
+    "focal_point": 1.082,
+    "palette_top": [
+      "#F0F0F0",
+      "#B0A090",
+      "#000000",
+      "#A08060",
+      "#D0C0B0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The design uses strong typography and a symmetrical composition to create a focused and confident hero section, aligning well with an industrial SaaS aesthetic.",
+  "avoid": [
+    "generic saas template",
+    "over-rounded friendly UI",
+    "playful illustration heavy"
+  ],
+  "tags": [
+    "editorial",
+    "grounded",
+    "dark",
+    "minimal",
+    "industrial"
+  ]
+}

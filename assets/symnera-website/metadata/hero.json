@@ -1,0 +1,245 @@
+{
+  "section": "hero",
+  "brief_path": "assets/symnera-website/briefs/hero.json",
+  "fetched_at": "2026-04-23T10:19:37Z",
+  "queries": [
+    "industrial aerial overhead editorial",
+    "industrial grounded composition minimal",
+    "manufacturing plant aerial overhead muted"
+  ],
+  "sources_used": [
+    "unsplash",
+    "firecrawl"
+  ],
+  "total_found": 22,
+  "candidates": [
+    {
+      "source": "unsplash",
+      "source_id": "kqxO2VtzTjE",
+      "url": "https://unsplash.com/photos/aerial-view-of-industrial-machines-kqxO2VtzTjE",
+      "download_url": "https://images.unsplash.com/photo-1563101564-1f8838d4a77d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw2fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1563101564-1f8838d4a77d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw2fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Pascal Meier on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        4509,
+        3004
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "aerial view of industrial machines",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.8400000000000001,
+      "reason": "+subject(industrial,machines), +comp(aerial), +orient, +license",
+      "file": "06-unsplash-kqxO2VtzTjE.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "ELei0jLDBuk",
+      "url": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-ELei0jLDBuk",
+      "download_url": "https://images.unsplash.com/photo-1601374652216-237daca6ac5d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwyfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1601374652216-237daca6ac5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwyfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Maksym Diachenko on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        5444,
+        3627
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "aerial view of city buildings during daytime",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.7000000000000001,
+      "reason": "+comp(aerial,buildings), +orient, +license",
+      "file": "02-unsplash-ELei0jLDBuk.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "Erf9ow5IgwY",
+      "url": "https://unsplash.com/photos/aerial-photography-of-trains-on-railway-Erf9ow5IgwY",
+      "download_url": "https://images.unsplash.com/photo-1560717470-2e9ce61af35f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1560717470-2e9ce61af35f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Jakub Nawrot on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        3902,
+        2975
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "aerial photography of trains on railway",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(aerial), +orient, +license",
+      "file": "01-unsplash-Erf9ow5IgwY.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "h95UEDGw3j8",
+      "url": "https://unsplash.com/photos/top-view-of-truck-trailers-on-junkyard-h95UEDGw3j8",
+      "download_url": "https://images.unsplash.com/photo-1515136793-db5c3c84729b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwzfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1515136793-db5c3c84729b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwzfHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Mincho Kavaldzhiev on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        4000,
+        3000
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "top view of truck trailers on junkyard",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(top), +orient, +license",
+      "file": "03-unsplash-h95UEDGw3j8.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "5ciFpmAEb3E",
+      "url": "https://unsplash.com/photos/a-street-with-buildings-and-trees-5ciFpmAEb3E",
+      "download_url": "https://images.unsplash.com/photo-1655936072726-68dad2bdbe13?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw0fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1655936072726-68dad2bdbe13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw0fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Ben Griffiths on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        5464,
+        3640
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "a street with buildings and trees",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(buildings), +orient, +license",
+      "file": "04-unsplash-5ciFpmAEb3E.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "uhubt8cEvmg",
+      "url": "https://unsplash.com/photos/aerial-view-of-city-during-night-time-uhubt8cEvmg",
+      "download_url": "https://images.unsplash.com/photo-1630522521616-b5b4cf458621?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw1fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1630522521616-b5b4cf458621?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw1fHxpbmR1c3RyaWFsJTIwYWVyaWFsJTIwb3ZlcmhlYWQlMjBlZGl0b3JpYWx8ZW58MHwwfHx8MTc3NjkzOTU2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Erik Mclean on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        3980,
+        2985
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "aerial view of city during night time",
+      "warnings": [],
+      "query": "industrial aerial overhead editorial",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(aerial), +orient, +license",
+      "file": "05-unsplash-uhubt8cEvmg.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "uoO2vyesXKQ",
+      "url": "https://unsplash.com/photos/two-modern-buildings-viewed-from-below-uoO2vyesXKQ",
+      "download_url": "https://images.unsplash.com/photo-1766243539608-086760828ff4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwyfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1766243539608-086760828ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwyfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Richard Williams on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        5026,
+        3769
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "Two modern buildings viewed from below",
+      "warnings": [],
+      "query": "industrial grounded composition minimal",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(buildings), +orient, +license",
+      "file": "08-unsplash-uoO2vyesXKQ.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "pdaSYsaaFY4",
+      "url": "https://unsplash.com/photos/a-bunch-of-boxes-stacked-on-top-of-each-other-pdaSYsaaFY4",
+      "download_url": "https://images.unsplash.com/photo-1574321616007-352adeda74d2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwzfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1574321616007-352adeda74d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwzfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Denys Nevozhai on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        5334,
+        3599
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "a bunch of boxes stacked on top of each other",
+      "warnings": [],
+      "query": "industrial grounded composition minimal",
+      "fit_score": 0.6400000000000001,
+      "reason": "+comp(top), +orient, +license",
+      "file": "09-unsplash-pdaSYsaaFY4.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "vB4sndccQz0",
+      "url": "https://unsplash.com/photos/red-and-black-rolling-chair-vB4sndccQz0",
+      "download_url": "https://images.unsplash.com/photo-1565621775772-6e3f64cb7a7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw0fHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1565621775772-6e3f64cb7a7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHw0fHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Avi Waxman on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        2664,
+        2296
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "red and black rolling chair",
+      "warnings": [],
+      "query": "industrial grounded composition minimal",
+      "fit_score": 0.32999999999999996,
+      "reason": "-office:chair, +orient, +license",
+      "file": "10-unsplash-vB4sndccQz0.jpg"
+    },
+    {
+      "source": "unsplash",
+      "source_id": "iTIlxyJifaM",
+      "url": "https://unsplash.com/photos/man-in-white-shirt-standing-on-gray-concrete-floor-iTIlxyJifaM",
+      "download_url": "https://images.unsplash.com/photo-1621261229917-0d725219c514?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=85",
+      "preview_url": "https://images.unsplash.com/photo-1621261229917-0d725219c514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzMwOTR8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwZ3JvdW5kZWQlMjBjb21wb3NpdGlvbiUyMG1pbmltYWx8ZW58MHwwfHx8MTc3NjkzOTU2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "attribution": "Photo by Ike Lee on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "dimensions": [
+        4096,
+        2733
+      ],
+      "aspect_ratio": null,
+      "tags": [],
+      "description": "man in white shirt standing on gray concrete floor",
+      "warnings": [],
+      "query": "industrial grounded composition minimal",
+      "fit_score": 0.17999999999999997,
+      "reason": "-people:man, +orient, +license",
+      "file": "07-unsplash-iTIlxyJifaM.jpg"
+    }
+  ],
+  "approval": {
+    "status": "candidates_ready",
+    "approved": [],
+    "rejected": [],
+    "decided_at": null,
+    "by": null
+  },
+  "rescored_at": "2026-04-23T10:31:48Z"
+}

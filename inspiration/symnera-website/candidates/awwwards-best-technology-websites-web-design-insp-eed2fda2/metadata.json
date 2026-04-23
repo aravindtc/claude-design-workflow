@@ -1,0 +1,34 @@
+{
+  "id": "awwwards-eed2fda2",
+  "source": "awwwards",
+  "url": "https://www.awwwards.com/websites/technology/",
+  "title": "Best Technology websites | Web Design Inspiration",
+  "description": "            Examples Of Inspirational Technology Websites. Here is a selection of Awwwards winning Technology\n    ",
+  "author": null,
+  "tags": [],
+  "og_image": "https://assets.awwwards.com/assets/images/share/awwwards.jpg",
+  "screenshot_saved": true,
+  "preview_saved": true,
+  "retrieved_at": "2026-04-23T11:29:20Z",
+  "score": {
+    "total": 0.451,
+    "breakdown": {
+      "aesthetic_match": 0.091,
+      "pattern_match": 0.375,
+      "source_authority": 1.0,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "business"
+      ],
+      "pattern": [
+        "header",
+        "page",
+        "website"
+      ],
+      "avoid": []
+    }
+  }
+}

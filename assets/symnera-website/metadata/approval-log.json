@@ -1,0 +1,18 @@
+{
+  "approvals": [
+    {
+      "section": "hero",
+      "candidate_file": "08-unsplash-uoO2vyesXKQ.jpg",
+      "approved_file": "hero-01-uoO2vyesXKQ.jpg",
+      "source": "unsplash",
+      "source_id": "uoO2vyesXKQ",
+      "description": "Two modern buildings viewed from below",
+      "attribution": "Photo by Jakub Nawrot on Unsplash",
+      "license": "unsplash-license",
+      "license_url": "https://unsplash.com/license",
+      "approved_at": "2026-04-23T12:30:00Z",
+      "approved_by": "user (in-chat)",
+      "notes": "User picked candidate #8 for Symnera hero variant."
+    }
+  ]
+}

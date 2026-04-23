@@ -1,0 +1,27 @@
+{
+  "section": "hero",
+  "need_asset": true,
+  "asset_type": "photo",
+  "role": "primary_anchor",
+  "style": "editorial industrial minimal, grounded composition, muted palette, clean geometry, no people",
+  "mood": ["grounded", "intelligent", "calm", "precise"],
+  "orientation": "landscape",
+  "aspect_ratio": "16:9",
+  "variants": 5,
+  "avoid": [
+    "generic smiling teams",
+    "corporate handshake",
+    "drone-selfie aesthetic",
+    "people faces in foreground",
+    "over-saturated lifestyle cliches",
+    "obvious SaaS office stock"
+  ],
+  "sources": ["unsplash", "pexels", "firecrawl"],
+  "license_requirements": "any",
+  "approval": {
+    "status": "draft",
+    "approved_at": null,
+    "approved_by": null,
+    "notes": "Draft brief for Symnera Hero / Split Lime — the industrial-architecture aerial that pairs with the left content panel. The right half of the hero shows the pictogramme sculpturally now; this brief is for an alternate variant that uses photography instead."
+  }
+}

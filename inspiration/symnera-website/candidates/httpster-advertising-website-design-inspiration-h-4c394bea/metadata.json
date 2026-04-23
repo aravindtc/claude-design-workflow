@@ -1,0 +1,41 @@
+{
+  "id": "httpster-4c394bea",
+  "source": "httpster",
+  "url": "https://httpster.net/type/advertising/",
+  "title": "Advertising Website Design Inspiration | Httpster",
+  "description": "Advertising website design inspiration. Get inspired by our gallery of creative design ideas and great examples of beautiful award-winning sites.",
+  "author": null,
+  "tags": [],
+  "og_image": null,
+  "screenshot_saved": true,
+  "preview_saved": false,
+  "retrieved_at": "2026-04-23T11:31:32Z",
+  "score": {
+    "total": 0.599,
+    "breakdown": {
+      "aesthetic_match": 0.818,
+      "pattern_match": 0.25,
+      "source_authority": 0.7,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "black",
+        "dark",
+        "grid",
+        "industrial",
+        "magazine",
+        "minimal",
+        "software",
+        "type",
+        "typographic"
+      ],
+      "pattern": [
+        "grid",
+        "website"
+      ],
+      "avoid": []
+    }
+  }
+}

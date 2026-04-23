@@ -1,0 +1,69 @@
+{
+  "id": "pattern_feature-grid_editorial_81b51e",
+  "source": "httpster",
+  "source_url": "https://httpster.net/website/softglossary/",
+  "source_title": "softGlossary \u2014 Httpster",
+  "captured_at": "2026-04-23T14:11:57Z",
+  "extracted_at": "2026-04-23T14:13:35Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2685,
+    1920,
+    284
+  ],
+  "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/04-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/httpster-softglossary-httpster-13ab4ac7/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.724,
+  "score_breakdown": {
+    "heuristic": 0.759,
+    "vision": 0.7,
+    "weighted": 0.724
+  },
+  "features_heuristic": {
+    "contrast_ratio": 13.421,
+    "edge_density": 0.0676,
+    "color_variance": 66.87,
+    "whitespace_ratio": 0.035,
+    "content_density": 0.965,
+    "aspect": 6.761,
+    "tension": 0.0552,
+    "focal_point": 1.961,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#D0D0D0",
+      "#E0E0E0",
+      "#D0B0B0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "left-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The section has a strong editorial feel with confident typography and intentional asymmetry, though it leans slightly left-heavy in balance.",
+  "avoid": [
+    "playful illustration heavy",
+    "over-rounded friendly UI"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "industrial",
+    "minimal",
+    "confident",
+    "typographic"
+  ]
+}

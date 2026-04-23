@@ -1,0 +1,326 @@
+{
+  "candidate_id": "awwwards-product-feature-awwwards-bf18d794",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/product-feature-particles-3d-animation-set",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-product-feature-awwwards-bf18d794/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "nav",
+      "bbox": [
+        0,
+        0,
+        1920,
+        49
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/00-nav.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.795,
+        "edge_density": 0.1607,
+        "color_variance": 37.86,
+        "whitespace_ratio": 0.011,
+        "content_density": 0.989,
+        "aspect": 39.184,
+        "tension": 0.0227,
+        "focal_point": 1.157,
+        "palette_top": [
+          "#E0E0E0",
+          "#707070",
+          "#D0D0D0",
+          "#808080",
+          "#C0C0C0"
+        ],
+        "low_signal_flags": [
+          "nav_like",
+          "footer_like",
+          "too_short"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 1,
+      "name": "hero",
+      "bbox": [
+        0,
+        282,
+        1920,
+        1037
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/01-hero.png",
+      "heuristic_score": 0.548,
+      "features": {
+        "contrast_ratio": 17.714,
+        "edge_density": 0.0629,
+        "color_variance": 81.37,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 1.851,
+        "tension": 0.0036,
+        "focal_point": 1.082,
+        "palette_top": [
+          "#F0F0F0",
+          "#B0A090",
+          "#000000",
+          "#A08060",
+          "#D0C0B0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.9,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The design uses strong typography and a symmetrical composition to create a focused and confident hero section, aligning well with an industrial SaaS aesthetic.",
+        "avoid": [
+          "generic saas template",
+          "over-rounded friendly UI",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "grounded",
+          "dark",
+          "minimal",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.759
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1838,
+        1920,
+        301
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/02-band.png",
+      "heuristic_score": 0.622,
+      "features": {
+        "contrast_ratio": 17.714,
+        "edge_density": 0.0743,
+        "color_variance": 99.5,
+        "whitespace_ratio": 0.194,
+        "content_density": 0.806,
+        "aspect": 6.379,
+        "tension": 0.0184,
+        "focal_point": 1.346,
+        "palette_top": [
+          "#F0F0F0",
+          "#101000",
+          "#000000",
+          "#B0A090",
+          "#E0E0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.9,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The section effectively combines large, bold typography with minimalist imagery, aligning well with the brand's industrial and editorial aesthetic.",
+        "avoid": [
+          "web3 crypto aesthetic",
+          "pastel palettes"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "swiss-grid",
+          "b2b"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.789
+    },
+    {
+      "index": 3,
+      "name": "band",
+      "bbox": [
+        0,
+        2139,
+        1920,
+        299
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/03-band.png",
+      "heuristic_score": 0.611,
+      "features": {
+        "contrast_ratio": 17.714,
+        "edge_density": 0.0278,
+        "color_variance": 77.05,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 6.421,
+        "tension": 0.0201,
+        "focal_point": 1.758,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#101000",
+          "#303030",
+          "#404040"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.85,
+        "signals": {
+          "typography": {
+            "scale": "medium",
+            "alignment": "left",
+            "density": "tight"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "right-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The use of abstract shapes against a dark background aligns with the brand's industrial and minimal aesthetic.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.754
+    },
+    {
+      "index": 4,
+      "name": "band",
+      "bbox": [
+        0,
+        2901,
+        1920,
+        399
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/04-band.png",
+      "heuristic_score": 0.538,
+      "features": {
+        "contrast_ratio": 6.889,
+        "edge_density": 0.1073,
+        "color_variance": 89.5,
+        "whitespace_ratio": 0.004,
+        "content_density": 0.996,
+        "aspect": 4.812,
+        "tension": 0.0171,
+        "focal_point": 1.187,
+        "palette_top": [
+          "#F0F0F0",
+          "#F0F0E0",
+          "#202020",
+          "#800020",
+          "#F0E090"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.8,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The design effectively balances strong typography with compelling imagery, maintaining a structured layout that conveys confidence and clarity.",
+        "avoid": [
+          "glassmorphism",
+          "gradient blobs",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "minimal"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.695
+    },
+    {
+      "index": 5,
+      "name": "footer",
+      "bbox": [
+        0,
+        3300,
+        1920,
+        460
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/05-footer.png",
+      "heuristic_score": 0.214,
+      "features": {
+        "contrast_ratio": 23.182,
+        "edge_density": 0.1146,
+        "color_variance": 106.16,
+        "whitespace_ratio": 0.005,
+        "content_density": 0.995,
+        "aspect": 4.174,
+        "tension": 0.034,
+        "focal_point": 1.374,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#000000",
+          "#202020",
+          "#101000"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

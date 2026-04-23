@@ -1,0 +1,67 @@
+{
+  "id": "pattern_feature-grid_editorial_143e89",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/the-industrial-grade-paper-shredder-shader-development-studio",
+  "source_title": "The Industrial Grade Paper Shredder - Awwwards",
+  "captured_at": "2026-04-23T14:21:21Z",
+  "extracted_at": "2026-04-23T14:22:56Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    1838,
+    1920,
+    301
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/02-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.761,
+  "score_breakdown": {
+    "heuristic": 0.702,
+    "vision": 0.8,
+    "weighted": 0.761
+  },
+  "features_heuristic": {
+    "contrast_ratio": 16.533,
+    "edge_density": 0.1159,
+    "color_variance": 99.7,
+    "whitespace_ratio": 0.005,
+    "content_density": 0.995,
+    "aspect": 6.379,
+    "tension": 0.0272,
+    "focal_point": 1.387,
+    "palette_top": [
+      "#F0F0F0",
+      "#202020",
+      "#101010",
+      "#100010",
+      "#302080"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "image",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "This region uses high contrast and a structured layout to highlight various elements, fitting an editorial and grounded aesthetic.",
+  "avoid": [
+    "web3 crypto aesthetic",
+    "pastel palettes"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "minimal"
+  ]
+}

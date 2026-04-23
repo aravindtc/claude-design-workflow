@@ -1,0 +1,68 @@
+{
+  "id": "pattern_feature-grid_editorial_c0c566",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27070066-Hero-Design-Concept-for-Industrial-Engineering-Company",
+  "source_title": "Hero Design Concept for Industrial Engineering Company by Alexander Jorias on Dribbble",
+  "captured_at": "2026-04-23T14:09:30Z",
+  "extracted_at": "2026-04-23T14:23:19Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    1556,
+    1920,
+    338
+  ],
+  "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/01-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.731,
+  "score_breakdown": {
+    "heuristic": 0.703,
+    "vision": 0.75,
+    "weighted": 0.731
+  },
+  "features_heuristic": {
+    "contrast_ratio": 28.333,
+    "edge_density": 0.0648,
+    "color_variance": 83.27,
+    "whitespace_ratio": 0.006,
+    "content_density": 0.994,
+    "aspect": 5.68,
+    "tension": 0.0384,
+    "focal_point": 1.762,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#101010",
+      "#E0E0E0",
+      "#D0D0E0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "medium",
+    "rhythm": "structured"
+  },
+  "insight": "The region effectively combines both text and visuals, showcasing products or services with structured layout and balanced design.",
+  "avoid": [
+    "playful illustration heavy",
+    "pastel palettes",
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "grounded",
+    "b2b",
+    "saas"
+  ]
+}

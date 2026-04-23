@@ -1,0 +1,98 @@
+version: 1
+
+# The design workflow pipeline.
+# Stages run in order. Each stage may produce artifacts required by later stages.
+# Gates are approval checkpoints — a stage with a gate cannot be marked "completed"
+# until the gate is explicitly set to "approved" by the user.
+
+pipeline:
+  - id: 01-project-setup
+    name: Project Setup
+    engine: null
+    produces: [project_metadata]
+    requires: []
+    gate: null
+
+  - id: 02-inspiration-analysis
+    name: Inspiration Analysis
+    engine: inspiration-engine
+    produces: [inspiration_boards, visual_references]
+    requires: [project_metadata]
+    gate: null
+
+  - id: 03-creative-direction
+    name: Creative Direction
+    engine: visual-direction-engine
+    produces: [direction_doc]
+    requires: [inspiration_boards]
+    gate: creative_direction_approved
+
+  - id: 04-content-story
+    name: Content and Story
+    engine: content-story-engine
+    produces: [section_plan, copy_deck]
+    requires: [direction_doc]
+    gate: null
+
+  - id: 05-asset-need
+    name: Asset Need Detection
+    engine: asset-need-engine
+    produces: [asset_briefs]
+    requires: [direction_doc, section_plan]
+    gate: asset_briefs_approved
+
+  - id: 06-asset-retrieval
+    name: Asset Retrieval
+    engine: asset-retrieval-engine
+    produces: [asset_candidates, approved_assets]
+    requires: [asset_briefs_approved]
+    gate: assets_approved
+
+  - id: 07-design-system
+    name: Design System
+    engine: ui-pro-max-adapter
+    produces: [component_library, tokens]
+    requires: [direction_doc]
+    gate: null
+
+  - id: 08-figma-build
+    name: Figma Build
+    engine: outputs/figma
+    produces: [figma_page]
+    requires: [component_library, assets_approved, section_plan]
+    gate: figma_build_approved
+
+  - id: 09-code-build
+    name: Code Build
+    engine: outputs/web
+    produces: [codebase]
+    requires: [figma_build_approved]
+    gate: null
+
+  - id: 10-final-qa
+    name: Final QA
+    engine: null
+    produces: [qa_report]
+    requires: [codebase]
+    gate: project_signed_off
+
+# Approval gates. Every gate is a boolean on project-state.json/gates.
+# Stages referencing a gate cannot exit until the gate is set true.
+gates:
+  creative_direction_approved:
+    description: User approves palette, type, and mood before content/UI work.
+  asset_briefs_approved:
+    description: User approves every asset brief before retrieval runs.
+  assets_approved:
+    description: User picks which retrieved candidates become approved assets.
+  figma_build_approved:
+    description: User signs off on the Figma page before code build.
+  project_signed_off:
+    description: Final QA passed; project delivered.
+
+# Hard ordering rules enforced by state.py gate checks.
+invariants:
+  - "stage 05 cannot start unless stages 03 and 04 are completed and gate 03 is approved"
+  - "stage 06 cannot start unless gate asset_briefs_approved is true"
+  - "stage 08 cannot start unless gate assets_approved is true"
+  - "stage 09 cannot start unless gate figma_build_approved is true"

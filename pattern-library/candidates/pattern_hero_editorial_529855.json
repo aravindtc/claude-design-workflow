@@ -1,0 +1,67 @@
+{
+  "id": "pattern_hero_editorial_529855",
+  "source": "httpster",
+  "source_url": "https://httpster.net/website/spaces-loversmagazine/",
+  "source_title": "Spaces by Lovers Magazine \u2014 Httpster",
+  "captured_at": "2026-04-23T14:11:41Z",
+  "extracted_at": "2026-04-23T14:24:04Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    1616,
+    1920,
+    677
+  ],
+  "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/01-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/httpster-spaces-by-lovers-magazine-httpster-ca119b25/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.741,
+  "score_breakdown": {
+    "heuristic": 0.577,
+    "vision": 0.85,
+    "weighted": 0.741
+  },
+  "features_heuristic": {
+    "contrast_ratio": 255.0,
+    "edge_density": 0.0186,
+    "color_variance": 124.65,
+    "whitespace_ratio": 0.001,
+    "content_density": 0.999,
+    "aspect": 2.836,
+    "tension": 0.013,
+    "focal_point": 1.713,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#505050",
+      "#303030",
+      "#404040"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "symmetrical",
+      "dominant": "text",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "This region effectively uses bold typography and high contrast to create a clear focal point, aligning well with the brand's aesthetic of being editorial and minimal.",
+  "avoid": [
+    "pastel palettes",
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial"
+  ]
+}

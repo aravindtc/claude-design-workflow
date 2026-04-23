@@ -1,0 +1,67 @@
+{
+  "id": "pattern_hero_editorial_3c8f38",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27022221-Industrial-Website-Hero-Design",
+  "source_title": "Industrial Website Hero Design by Oleksii Kosov on Dribbble",
+  "captured_at": "2026-04-23T14:20:07Z",
+  "extracted_at": "2026-04-23T14:23:25Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    243,
+    1920,
+    780
+  ],
+  "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/00-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.748,
+  "score_breakdown": {
+    "heuristic": 0.55,
+    "vision": 0.88,
+    "weighted": 0.748
+  },
+  "features_heuristic": {
+    "contrast_ratio": 15.938,
+    "edge_density": 0.0468,
+    "color_variance": 86.83,
+    "whitespace_ratio": 0.003,
+    "content_density": 0.997,
+    "aspect": 2.462,
+    "tension": 0.0086,
+    "focal_point": 1.223,
+    "palette_top": [
+      "#F0F0F0",
+      "#202020",
+      "#000000",
+      "#6080B0",
+      "#D0D0E0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "image",
+      "balance": "right-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The composition uses a strong visual hierarchy with its large, left-aligned typography and a bold image, which conveys confidence and industrial precision.",
+  "avoid": [
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "minimal",
+    "grounded",
+    "industrial"
+  ]
+}

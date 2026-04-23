@@ -1,0 +1,135 @@
+{
+  "candidate_id": "dribbble-industrial-website-hero-design-oleksii-k-5c74646d",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27022221-Industrial-Website-Hero-Design",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        243,
+        1920,
+        780
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/00-hero.png",
+      "heuristic_score": 0.55,
+      "features": {
+        "contrast_ratio": 15.938,
+        "edge_density": 0.0468,
+        "color_variance": 86.83,
+        "whitespace_ratio": 0.003,
+        "content_density": 0.997,
+        "aspect": 2.462,
+        "tension": 0.0086,
+        "focal_point": 1.223,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#000000",
+          "#6080B0",
+          "#D0D0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.88,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "image",
+            "balance": "right-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The composition uses a strong visual hierarchy with its large, left-aligned typography and a bold image, which conveys confidence and industrial precision.",
+        "avoid": [
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "minimal",
+          "grounded",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.748
+    },
+    {
+      "index": 1,
+      "name": "band",
+      "bbox": [
+        0,
+        1759,
+        1920,
+        338
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/01-band.png",
+      "heuristic_score": 0.449,
+      "features": {
+        "contrast_ratio": 4.554,
+        "edge_density": 0.0609,
+        "color_variance": 58.11,
+        "whitespace_ratio": 0.044,
+        "content_density": 0.956,
+        "aspect": 5.68,
+        "tension": 0.0327,
+        "focal_point": 1.639,
+        "palette_top": [
+          "#F0F0F0",
+          "#A0A0B0",
+          "#C0C0D0",
+          "#C0D0E0",
+          "#102040"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 2,
+      "name": "footer",
+      "bbox": [
+        0,
+        2097,
+        1920,
+        302
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/02-footer.png",
+      "heuristic_score": 0.255,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0977,
+        "color_variance": 96.22,
+        "whitespace_ratio": 0.019,
+        "content_density": 0.981,
+        "aspect": 6.358,
+        "tension": 0.0706,
+        "focal_point": 2.014,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#D0D0E0",
+          "#104050",
+          "#E0F0F0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

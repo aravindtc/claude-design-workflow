@@ -1,0 +1,287 @@
+{
+  "candidate_id": "httpster-softglossary-httpster-13ab4ac7",
+  "source": "httpster",
+  "source_url": "https://httpster.net/website/softglossary/",
+  "raw_screenshot": "inspiration/symnera-website/raw/httpster-softglossary-httpster-13ab4ac7/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1163
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/00-hero.png",
+      "heuristic_score": 0.493,
+      "features": {
+        "contrast_ratio": 1.759,
+        "edge_density": 0.1291,
+        "color_variance": 44.79,
+        "whitespace_ratio": 0.204,
+        "content_density": 0.796,
+        "aspect": 1.651,
+        "tension": 0.0709,
+        "focal_point": 1.647,
+        "palette_top": [
+          "#F0F0F0",
+          "#E0E0E0",
+          "#F0F0E0",
+          "#000000",
+          "#D0D0D0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.8,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "text",
+            "balance": "centered"
+          },
+          "contrast": "medium",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The design uses typographic elements effectively to create a strong focal point and conveys a minimal and editorial aesthetic.",
+        "avoid": [
+          "generic saas template",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "minimal",
+          "grounded",
+          "typographic"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.677
+    },
+    {
+      "index": 1,
+      "name": "band",
+      "bbox": [
+        0,
+        1163,
+        1920,
+        453
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/01-band.png",
+      "heuristic_score": 0.256,
+      "features": {
+        "contrast_ratio": 1.104,
+        "edge_density": 0.0652,
+        "color_variance": 24.69,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 4.238,
+        "tension": 0.0364,
+        "focal_point": 1.744,
+        "palette_top": [
+          "#F0F0F0",
+          "#F0F0E0",
+          "#F0F0D0",
+          "#E0F0D0",
+          "#C0C0B0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1616,
+        1920,
+        677
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/02-band.png",
+      "heuristic_score": 0.214,
+      "features": {
+        "contrast_ratio": 1.037,
+        "edge_density": 0.0483,
+        "color_variance": 32.14,
+        "whitespace_ratio": 0.038,
+        "content_density": 0.962,
+        "aspect": 2.836,
+        "tension": 0.0241,
+        "focal_point": 1.616,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#E0E0E0",
+          "#D0D0D0",
+          "#202020"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 3,
+      "name": "band",
+      "bbox": [
+        0,
+        2376,
+        1920,
+        309
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/03-band.png",
+      "heuristic_score": 0.492,
+      "features": {
+        "contrast_ratio": 2.772,
+        "edge_density": 0.0837,
+        "color_variance": 61.83,
+        "whitespace_ratio": 0.034,
+        "content_density": 0.966,
+        "aspect": 6.214,
+        "tension": 0.0513,
+        "focal_point": 1.81,
+        "palette_top": [
+          "#F0F0F0",
+          "#D0D0D0",
+          "#000000",
+          "#E0D0F0",
+          "#A04020"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.3,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "medium",
+          "rhythm": "none"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The region uses a variety of design elements, suggesting diverse content but lacks a cohesive focus.",
+        "avoid": [
+          "overly diverse elements leading to lack of focus"
+        ],
+        "tags": [
+          "editorial",
+          "minimal"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.377
+    },
+    {
+      "index": 4,
+      "name": "band",
+      "bbox": [
+        0,
+        2685,
+        1920,
+        284
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/04-band.png",
+      "heuristic_score": 0.759,
+      "features": {
+        "contrast_ratio": 13.421,
+        "edge_density": 0.0676,
+        "color_variance": 66.87,
+        "whitespace_ratio": 0.035,
+        "content_density": 0.965,
+        "aspect": 6.761,
+        "tension": 0.0552,
+        "focal_point": 1.961,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#D0D0D0",
+          "#E0E0E0",
+          "#D0B0B0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.65,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "left",
+            "density": "sparse"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "right-heavy"
+          },
+          "contrast": "medium",
+          "rhythm": "loose"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The region combines text and images in a loose, visually engaging manner, though it lacks a strong centralized focus.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes",
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "industrial",
+          "minimal",
+          "dark"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.694
+    },
+    {
+      "index": 5,
+      "name": "footer",
+      "bbox": [
+        0,
+        2969,
+        1920,
+        727
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/05-footer.png",
+      "heuristic_score": 0.218,
+      "features": {
+        "contrast_ratio": 13.421,
+        "edge_density": 0.0749,
+        "color_variance": 73.12,
+        "whitespace_ratio": 0.021,
+        "content_density": 0.979,
+        "aspect": 2.641,
+        "tension": 0.0449,
+        "focal_point": 1.715,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#F0F0E0",
+          "#F0F0C0",
+          "#F0F0D0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

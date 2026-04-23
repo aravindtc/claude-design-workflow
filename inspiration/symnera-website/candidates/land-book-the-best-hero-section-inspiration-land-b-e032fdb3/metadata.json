@@ -1,0 +1,48 @@
+{
+  "id": "land-book-e032fdb3",
+  "source": "land-book",
+  "url": "https://land-book.com/sections/hero",
+  "title": "The best hero section inspiration",
+  "description": "The hero section appears at the top of a website and its goal is to grab attention, engage with the reader and convince them to scroll through the page for more details. The hero section should present crucial information in a visually appealing way, usually through high-quality images, videos, and illustrations.",
+  "author": null,
+  "tags": [],
+  "og_image": "https://cdn.land-book.com/assets/og-image.webp",
+  "screenshot_saved": true,
+  "preview_saved": true,
+  "retrieved_at": "2026-04-23T11:30:47Z",
+  "score": {
+    "total": 0.869,
+    "breakdown": {
+      "aesthetic_match": 1.0,
+      "pattern_match": 0.875,
+      "source_authority": 0.9,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "app",
+        "black",
+        "business",
+        "dark",
+        "green",
+        "magazine",
+        "platform",
+        "saas",
+        "software",
+        "type",
+        "typography"
+      ],
+      "pattern": [
+        "features",
+        "hero",
+        "landing",
+        "page",
+        "pricing",
+        "testimonial",
+        "website"
+      ],
+      "avoid": []
+    }
+  }
+}

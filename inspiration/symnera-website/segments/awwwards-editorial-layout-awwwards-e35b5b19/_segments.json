@@ -1,0 +1,297 @@
+{
+  "candidate_id": "awwwards-editorial-layout-awwwards-e35b5b19",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/editorial-nueno-digital-fashion-brand",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-editorial-layout-awwwards-e35b5b19/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "nav",
+      "bbox": [
+        0,
+        0,
+        1920,
+        49
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/00-nav.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.911,
+        "edge_density": 0.1615,
+        "color_variance": 37.9,
+        "whitespace_ratio": 0.005,
+        "content_density": 0.995,
+        "aspect": 39.184,
+        "tension": 0.0249,
+        "focal_point": 1.166,
+        "palette_top": [
+          "#E0E0E0",
+          "#404040",
+          "#707070",
+          "#C0C0B0",
+          "#D0D0D0"
+        ],
+        "low_signal_flags": [
+          "nav_like",
+          "footer_like",
+          "too_short"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 1,
+      "name": "hero",
+      "bbox": [
+        0,
+        388,
+        1920,
+        910
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/01-hero.png",
+      "heuristic_score": 0.364,
+      "features": {
+        "contrast_ratio": 6.526,
+        "edge_density": 0.0325,
+        "color_variance": 59.6,
+        "whitespace_ratio": 0.005,
+        "content_density": 0.995,
+        "aspect": 2.11,
+        "tension": 0.0052,
+        "focal_point": 1.145,
+        "palette_top": [
+          "#F0F0F0",
+          "#A0A090",
+          "#A0A0A0",
+          "#101010",
+          "#B0A0A0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1838,
+        1920,
+        300
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/02-band.png",
+      "heuristic_score": 0.575,
+      "features": {
+        "contrast_ratio": 10.783,
+        "edge_density": 0.063,
+        "color_variance": 100.17,
+        "whitespace_ratio": 0.006,
+        "content_density": 0.994,
+        "aspect": 6.4,
+        "tension": 0.01,
+        "focal_point": 1.23,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#909090",
+          "#9090A0",
+          "#A0A0A0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.92,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "This section uses high contrast and bold typography to create a strong visual impact that reflects the brand's confident, editorial style.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes",
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "confident",
+          "typographic"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.782
+    },
+    {
+      "index": 3,
+      "name": "band",
+      "bbox": [
+        0,
+        2138,
+        1920,
+        297
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/03-band.png",
+      "heuristic_score": 0.63,
+      "features": {
+        "contrast_ratio": 10.783,
+        "edge_density": 0.0317,
+        "color_variance": 76.02,
+        "whitespace_ratio": 0.016,
+        "content_density": 0.984,
+        "aspect": 6.465,
+        "tension": 0.024,
+        "focal_point": 1.798,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#808070",
+          "#808080",
+          "#E0E0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.75,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The layout effectively uses asymmetry and high contrast to draw attention to the central image, fitting a hero section's purpose.",
+        "avoid": [
+          "web3 crypto aesthetic",
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "typographic"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.702
+    },
+    {
+      "index": 4,
+      "name": "band",
+      "bbox": [
+        0,
+        2901,
+        1920,
+        399
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/04-band.png",
+      "heuristic_score": 0.591,
+      "features": {
+        "contrast_ratio": 254.0,
+        "edge_density": 0.0764,
+        "color_variance": 97.45,
+        "whitespace_ratio": 0.075,
+        "content_density": 0.925,
+        "aspect": 4.812,
+        "tension": 0.0117,
+        "focal_point": 1.184,
+        "palette_top": [
+          "#F0F0F0",
+          "#6000B0",
+          "#000000",
+          "#E0E0E0",
+          "#E0E0D0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.8,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "left-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "This region employs a strong asymmetrical layout with confident and large-scale typography, enhancing its editorial and minimal aesthetic.",
+        "avoid": [
+          "pastel palettes",
+          "generic saas template",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "minimal",
+          "industrial",
+          "grounded",
+          "confident",
+          "swiss-grid"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.716
+    },
+    {
+      "index": 5,
+      "name": "footer",
+      "bbox": [
+        0,
+        3300,
+        1920,
+        460
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/05-footer.png",
+      "heuristic_score": 0.213,
+      "features": {
+        "contrast_ratio": 248.0,
+        "edge_density": 0.0795,
+        "color_variance": 100.8,
+        "whitespace_ratio": 0.007,
+        "content_density": 0.993,
+        "aspect": 4.174,
+        "tension": 0.0363,
+        "focal_point": 1.695,
+        "palette_top": [
+          "#F0F0F0",
+          "#005050",
+          "#002020",
+          "#000000",
+          "#D03030"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

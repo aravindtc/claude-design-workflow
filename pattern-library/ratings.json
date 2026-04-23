@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-04-23T14:35:00Z",
+  "notes": "User ratings on inspiration captures (1–10 scale). Informs future similarity crawls and approved/ curation.",
+  "captures": {
+    "dribbble-hero-design-concept-for-industrial-engin-fd6c84fa": {
+      "rating": null,
+      "source_title": "Hero Design Concept for Industrial Engineering Company by Alexander Jorias",
+      "promoted_patterns": ["pattern_hero_editorial_390c93", "pattern_feature-grid_editorial_c0c566"],
+      "notes": "User-declared anchor: 'I like very much'. Rating not explicitly given."
+    },
+    "dribbble-industrial-website-hero-design-oleksii-k-5c74646d": {
+      "rating": 7,
+      "source_title": "Industrial Website Hero Design by Oleksii K.",
+      "promoted_patterns": ["pattern_hero_editorial_3c8f38"],
+      "rated_at": "2026-04-23T14:35:00Z"
+    },
+    "awwwards-template-page-industries-surfaces-awwwar-f3adef37": {
+      "rating": 6,
+      "source_title": "Template Page Industries Surfaces — Awwwards inspiration",
+      "promoted_patterns": [],
+      "notes": "Capture liked by user but no pattern promoted — segmentation saw mostly empty bands. Awwwards inspiration pages embed showcase in a small frame; our heuristic reads the surrounding chrome as near-empty.",
+      "rated_at": "2026-04-23T14:35:00Z"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pattern_hero_editorial_be3d5a",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27264685-Nicole-Minimal-Editorial-Portfolio-Hero",
+  "source_title": "Nicole | Minimal Editorial Portfolio Hero by Harsh on Dribbble",
+  "captured_at": "2026-04-23T14:09:42Z",
+  "extracted_at": "2026-04-23T14:23:31Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    242,
+    1920,
+    781
+  ],
+  "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/00-hero.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.82,
+  "score_breakdown": {
+    "heuristic": 0.7,
+    "vision": 0.9,
+    "weighted": 0.82
+  },
+  "features_heuristic": {
+    "contrast_ratio": 11.087,
+    "edge_density": 0.0726,
+    "color_variance": 92.62,
+    "whitespace_ratio": 0.002,
+    "content_density": 0.998,
+    "aspect": 2.458,
+    "tension": 0.0332,
+    "focal_point": 1.751,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#C0C0C0",
+      "#D0D0D0",
+      "#B0B0B0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "left_offset",
+      "density": "tight"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "image",
+      "balance": "left-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The use of high contrast and bold typography creates a strong visual impact, fitting the editorial and dark aesthetic desired in the brand brief.",
+  "avoid": [
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "confident"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "awwwards-c454a4c3",
+  "source": "awwwards",
+  "url": "https://www.awwwards.com/websites/minimal/",
+  "title": "Best Minimal Websites | Web Design Inspiration",
+  "description": "            Awesome Minimal Website Designs for Inspiration. Selection of Awwwards winning minimal websites, a design style that emphasizes simplicity and the removal of superfluous elements in a design\n    ",
+  "author": null,
+  "tags": [],
+  "og_image": "https://assets.awwwards.com/assets/images/share/awwwards.jpg",
+  "screenshot_saved": true,
+  "preview_saved": true,
+  "retrieved_at": "2026-04-23T11:28:47Z",
+  "score": {
+    "total": 0.482,
+    "breakdown": {
+      "aesthetic_match": 0.182,
+      "pattern_match": 0.375,
+      "source_authority": 1.0,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "business",
+        "minimal"
+      ],
+      "pattern": [
+        "header",
+        "page",
+        "website"
+      ],
+      "avoid": []
+    }
+  }
+}

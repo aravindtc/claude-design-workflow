@@ -1,0 +1,40 @@
+{
+  "candidate_id": "dribbble-stockz-ai-fintech-saas-onboarding-screen-24b6447d",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27050293-stockz-ai-FinTech-SaaS-Onboarding-Screen-UI",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-stockz-ai-fintech-saas-onboarding-screen-24b6447d/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        315,
+        1920,
+        535
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-stockz-ai-fintech-saas-onboarding-screen-24b6447d/00-hero.png",
+      "heuristic_score": 0.161,
+      "features": {
+        "contrast_ratio": 2.143,
+        "edge_density": 0.0367,
+        "color_variance": 40.2,
+        "whitespace_ratio": 0.004,
+        "content_density": 0.996,
+        "aspect": 3.589,
+        "tension": 0.005,
+        "focal_point": 1.161,
+        "palette_top": [
+          "#F0F0F0",
+          "#60B0E0",
+          "#3080F0",
+          "#0070D0",
+          "#0070E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

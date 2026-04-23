@@ -1,0 +1,68 @@
+{
+  "id": "pattern_feature-grid_editorial_d2a29d",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/product-feature-particles-3d-animation-set",
+  "source_title": "Product Feature - Awwwards",
+  "captured_at": "2026-04-23T14:11:36Z",
+  "extracted_at": "2026-04-23T14:22:40Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    1838,
+    1920,
+    301
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/02-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-product-feature-awwwards-bf18d794/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.789,
+  "score_breakdown": {
+    "heuristic": 0.622,
+    "vision": 0.9,
+    "weighted": 0.789
+  },
+  "features_heuristic": {
+    "contrast_ratio": 17.714,
+    "edge_density": 0.0743,
+    "color_variance": 99.5,
+    "whitespace_ratio": 0.194,
+    "content_density": 0.806,
+    "aspect": 6.379,
+    "tension": 0.0184,
+    "focal_point": 1.346,
+    "palette_top": [
+      "#F0F0F0",
+      "#101000",
+      "#000000",
+      "#B0A090",
+      "#E0E0E0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The section effectively combines large, bold typography with minimalist imagery, aligning well with the brand's industrial and editorial aesthetic.",
+  "avoid": [
+    "web3 crypto aesthetic",
+    "pastel palettes"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "swiss-grid",
+    "b2b"
+  ]
+}

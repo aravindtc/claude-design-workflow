@@ -1,0 +1,165 @@
+{
+  "candidate_id": "dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27264685-Nicole-Minimal-Editorial-Portfolio-Hero",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        242,
+        1920,
+        781
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/00-hero.png",
+      "heuristic_score": 0.7,
+      "features": {
+        "contrast_ratio": 11.087,
+        "edge_density": 0.0726,
+        "color_variance": 92.62,
+        "whitespace_ratio": 0.002,
+        "content_density": 0.998,
+        "aspect": 2.458,
+        "tension": 0.0332,
+        "focal_point": 1.751,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#C0C0C0",
+          "#D0D0D0",
+          "#B0B0B0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.9,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "left_offset",
+            "density": "tight"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "image",
+            "balance": "left-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The use of high contrast and bold typography creates a strong visual impact, fitting the editorial and dark aesthetic desired in the brand brief.",
+        "avoid": [
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "confident"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.82
+    },
+    {
+      "index": 1,
+      "name": "band",
+      "bbox": [
+        0,
+        1861,
+        1920,
+        390
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/01-band.png",
+      "heuristic_score": 0.673,
+      "features": {
+        "contrast_ratio": 9.444,
+        "edge_density": 0.0336,
+        "color_variance": 71.7,
+        "whitespace_ratio": 0.004,
+        "content_density": 0.996,
+        "aspect": 4.923,
+        "tension": 0.0305,
+        "focal_point": 2.375,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#202020",
+          "#303030",
+          "#705040"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.75,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The section uses bold typography and a high-contrast palette to emphasize professionalism and modernity, aligning with the brand's industrial SaaS focus.",
+        "avoid": [
+          "web3 crypto aesthetic",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "minimal",
+          "industrial",
+          "confident"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.719
+    },
+    {
+      "index": 2,
+      "name": "footer",
+      "bbox": [
+        0,
+        2251,
+        1920,
+        303
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/02-footer.png",
+      "heuristic_score": 0.251,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0965,
+        "color_variance": 95.94,
+        "whitespace_ratio": 0.014,
+        "content_density": 0.986,
+        "aspect": 6.337,
+        "tension": 0.0686,
+        "focal_point": 1.956,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#104050",
+          "#D0D0D0",
+          "#D0D0E0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

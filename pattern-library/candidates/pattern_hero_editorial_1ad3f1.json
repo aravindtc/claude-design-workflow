@@ -1,0 +1,66 @@
+{
+  "id": "pattern_hero_editorial_1ad3f1",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/editorial-nueno-digital-fashion-brand",
+  "source_title": "Editorial Layout - Awwwards",
+  "captured_at": "2026-04-23T14:11:22Z",
+  "extracted_at": "2026-04-23T14:22:19Z",
+  "region": "hero",
+  "bbox": [
+    0,
+    2138,
+    1920,
+    297
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/03-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-editorial-layout-awwwards-e35b5b19/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.702,
+  "score_breakdown": {
+    "heuristic": 0.63,
+    "vision": 0.75,
+    "weighted": 0.702
+  },
+  "features_heuristic": {
+    "contrast_ratio": 10.783,
+    "edge_density": 0.0317,
+    "color_variance": 76.02,
+    "whitespace_ratio": 0.016,
+    "content_density": 0.984,
+    "aspect": 6.465,
+    "tension": 0.024,
+    "focal_point": 1.798,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#808070",
+      "#808080",
+      "#E0E0E0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The layout effectively uses asymmetry and high contrast to draw attention to the central image, fitting a hero section's purpose.",
+  "avoid": [
+    "web3 crypto aesthetic",
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "typographic"
+  ]
+}

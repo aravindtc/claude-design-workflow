@@ -1,0 +1,2738 @@
+{
+  "generated_at": "2026-04-23T14:21:45Z",
+  "project": "symnera-website",
+  "input_dir": "inspiration/symnera-website/raw",
+  "use_vision": true,
+  "smoke_test": false,
+  "counts": {
+    "screenshots": 13,
+    "regions": 57,
+    "shortlisted": 26,
+    "promoted": 19
+  },
+  "results": [
+    {
+      "candidate_id": "awwwards-catalog-awwwards-fadadcb0",
+      "source": "awwwards",
+      "regions": 6,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            49
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.852,
+            "edge_density": 0.1603,
+            "color_variance": 37.88,
+            "whitespace_ratio": 0.01,
+            "content_density": 0.99,
+            "aspect": 39.184,
+            "tension": 0.024,
+            "focal_point": 1.17,
+            "palette_top": [
+              "#E0E0E0",
+              "#404040",
+              "#202020",
+              "#303030",
+              "#B0B0B0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            282,
+            1920,
+            1037
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/01-hero.png",
+          "heuristic_score": 0.52,
+          "features": {
+            "contrast_ratio": 248.0,
+            "edge_density": 0.0286,
+            "color_variance": 109.91,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 1.851,
+            "tension": 0.0062,
+            "focal_point": 1.217,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#E0E0E0",
+              "#D0D0D0",
+              "#A0E0C0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.7,
+            "signals": {
+              "typography": {
+                "scale": "medium",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "text",
+                "balance": "centered"
+              },
+              "contrast": "medium",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "This region effectively uses a structured layout with filters and product listings, fitting well within an industrial catalog structure.",
+            "avoid": [
+              "glassmorphism",
+              "gradient blobs",
+              "web3 crypto aesthetic"
+            ],
+            "tags": [
+              "editorial",
+              "industrial",
+              "grounded",
+              "organized"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.628
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1838,
+            1920,
+            301
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/02-band.png",
+          "heuristic_score": 0.595,
+          "features": {
+            "contrast_ratio": 248.0,
+            "edge_density": 0.0524,
+            "color_variance": 118.69,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 6.379,
+            "tension": 0.017,
+            "focal_point": 1.384,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#102030",
+              "#103040",
+              "#100000"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.75,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "This region is visually striking with a dark industrial aesthetic and high contrast, effectively capturing attention.",
+            "avoid": [
+              "glassmorphism",
+              "web3 crypto aesthetic",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "minimal",
+              "industrial",
+              "confident"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.688
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            2139,
+            1920,
+            299
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/03-band.png",
+          "heuristic_score": 0.645,
+          "features": {
+            "contrast_ratio": 248.0,
+            "edge_density": 0.0934,
+            "color_variance": 106.94,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 6.421,
+            "tension": 0.0189,
+            "focal_point": 1.317,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#101010",
+              "#000010",
+              "#202020"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The use of dark tones combined with structured layouts suits an industrial vibe, and the mix of text and image provides a dynamic yet grounded feel.",
+            "avoid": [
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.768
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2901,
+            1920,
+            391
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/04-band.png",
+          "heuristic_score": 0.713,
+          "features": {
+            "contrast_ratio": 28.111,
+            "edge_density": 0.1298,
+            "color_variance": 91.91,
+            "whitespace_ratio": 0.161,
+            "content_density": 0.839,
+            "aspect": 4.91,
+            "tension": 0.0311,
+            "focal_point": 1.237,
+            "palette_top": [
+              "#F0F0F0",
+              "#F0F0E0",
+              "#100000",
+              "#101010",
+              "#100010"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.6,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "image",
+                "balance": "left-heavy"
+              },
+              "contrast": "medium",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The design effectively showcases visual variety with consistent structure, using a mix of scale and imagery to draw attention.",
+            "avoid": [
+              "header-heavy content",
+              "excessive empty space"
+            ],
+            "tags": [
+              "editorial",
+              "grounded",
+              "structured"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.645
+        },
+        {
+          "index": 5,
+          "name": "footer",
+          "bbox": [
+            0,
+            3292,
+            1920,
+            468
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/05-footer.png",
+          "heuristic_score": 0.065,
+          "features": {
+            "contrast_ratio": 1.562,
+            "edge_density": 0.0669,
+            "color_variance": 44.06,
+            "whitespace_ratio": 0.14,
+            "content_density": 0.86,
+            "aspect": 4.103,
+            "tension": 0.014,
+            "focal_point": 1.178,
+            "palette_top": [
+              "#F0F0F0",
+              "#E0E0E0",
+              "#D0D0D0",
+              "#C0C0C0",
+              "#D0D0C0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "awwwards-editorial-layout-awwwards-e35b5b19",
+      "source": "awwwards",
+      "regions": 6,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            49
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.911,
+            "edge_density": 0.1615,
+            "color_variance": 37.9,
+            "whitespace_ratio": 0.005,
+            "content_density": 0.995,
+            "aspect": 39.184,
+            "tension": 0.0249,
+            "focal_point": 1.166,
+            "palette_top": [
+              "#E0E0E0",
+              "#404040",
+              "#707070",
+              "#C0C0B0",
+              "#D0D0D0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            388,
+            1920,
+            910
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/01-hero.png",
+          "heuristic_score": 0.364,
+          "features": {
+            "contrast_ratio": 6.526,
+            "edge_density": 0.0325,
+            "color_variance": 59.6,
+            "whitespace_ratio": 0.005,
+            "content_density": 0.995,
+            "aspect": 2.11,
+            "tension": 0.0052,
+            "focal_point": 1.145,
+            "palette_top": [
+              "#F0F0F0",
+              "#A0A090",
+              "#A0A0A0",
+              "#101010",
+              "#B0A0A0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1838,
+            1920,
+            300
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/02-band.png",
+          "heuristic_score": 0.575,
+          "features": {
+            "contrast_ratio": 10.783,
+            "edge_density": 0.063,
+            "color_variance": 100.17,
+            "whitespace_ratio": 0.006,
+            "content_density": 0.994,
+            "aspect": 6.4,
+            "tension": 0.01,
+            "focal_point": 1.23,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#909090",
+              "#9090A0",
+              "#A0A0A0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.92,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "This section uses high contrast and bold typography to create a strong visual impact that reflects the brand's confident, editorial style.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "confident",
+              "typographic"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.782
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            2138,
+            1920,
+            297
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/03-band.png",
+          "heuristic_score": 0.63,
+          "features": {
+            "contrast_ratio": 10.783,
+            "edge_density": 0.0317,
+            "color_variance": 76.02,
+            "whitespace_ratio": 0.016,
+            "content_density": 0.984,
+            "aspect": 6.465,
+            "tension": 0.024,
+            "focal_point": 1.798,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#808070",
+              "#808080",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.75,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The layout effectively uses asymmetry and high contrast to draw attention to the central image, fitting a hero section's purpose.",
+            "avoid": [
+              "web3 crypto aesthetic",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "typographic"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.702
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2901,
+            1920,
+            399
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/04-band.png",
+          "heuristic_score": 0.591,
+          "features": {
+            "contrast_ratio": 254.0,
+            "edge_density": 0.0764,
+            "color_variance": 97.45,
+            "whitespace_ratio": 0.075,
+            "content_density": 0.925,
+            "aspect": 4.812,
+            "tension": 0.0117,
+            "focal_point": 1.184,
+            "palette_top": [
+              "#F0F0F0",
+              "#6000B0",
+              "#000000",
+              "#E0E0E0",
+              "#E0E0D0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.8,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "left-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "This region employs a strong asymmetrical layout with confident and large-scale typography, enhancing its editorial and minimal aesthetic.",
+            "avoid": [
+              "pastel palettes",
+              "generic saas template",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "minimal",
+              "industrial",
+              "grounded",
+              "confident",
+              "swiss-grid"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.716
+        },
+        {
+          "index": 5,
+          "name": "footer",
+          "bbox": [
+            0,
+            3300,
+            1920,
+            460
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/05-footer.png",
+          "heuristic_score": 0.213,
+          "features": {
+            "contrast_ratio": 248.0,
+            "edge_density": 0.0795,
+            "color_variance": 100.8,
+            "whitespace_ratio": 0.007,
+            "content_density": 0.993,
+            "aspect": 4.174,
+            "tension": 0.0363,
+            "focal_point": 1.695,
+            "palette_top": [
+              "#F0F0F0",
+              "#005050",
+              "#002020",
+              "#000000",
+              "#D03030"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "awwwards-industrial-additive-manufacturing-platfo-5ffd209d",
+      "source": "awwwards",
+      "regions": 4,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            32
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0635,
+            "color_variance": 0.0,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 60.0,
+            "tension": 0.0,
+            "focal_point": 1.0,
+            "palette_top": [
+              "#E0E0E0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            282,
+            1920,
+            719
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/01-hero.png",
+          "heuristic_score": 0.572,
+          "features": {
+            "contrast_ratio": 248.0,
+            "edge_density": 0.0435,
+            "color_variance": 118.75,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 2.67,
+            "tension": 0.0148,
+            "focal_point": 1.329,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#202020",
+              "#F0F000",
+              "#202030"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.92,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "text",
+                "balance": "left-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The bold typography paired with a high contrast background makes for a striking hero section, aligning well with the brand's industrial and confident aesthetic.",
+            "avoid": [
+              "generic saas template",
+              "over-rounded friendly UI"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial",
+              "lime-accent",
+              "confident",
+              "typographic"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.781
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1225,
+            1920,
+            562
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/02-band.png",
+          "heuristic_score": 0.101,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0075,
+            "color_variance": 12.46,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 3.416,
+            "tension": 0.0044,
+            "focal_point": 2.011,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#303040",
+              "#404050",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 3,
+          "name": "footer",
+          "bbox": [
+            0,
+            1787,
+            1920,
+            560
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/03-footer.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0048,
+            "color_variance": 2.82,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 3.429,
+            "tension": 0.0003,
+            "focal_point": 1.11,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#90A0A0",
+              "#B0B0B0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "awwwards-product-feature-awwwards-bf18d794",
+      "source": "awwwards",
+      "regions": 6,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            49
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.795,
+            "edge_density": 0.1607,
+            "color_variance": 37.86,
+            "whitespace_ratio": 0.011,
+            "content_density": 0.989,
+            "aspect": 39.184,
+            "tension": 0.0227,
+            "focal_point": 1.157,
+            "palette_top": [
+              "#E0E0E0",
+              "#707070",
+              "#D0D0D0",
+              "#808080",
+              "#C0C0C0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            282,
+            1920,
+            1037
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/01-hero.png",
+          "heuristic_score": 0.548,
+          "features": {
+            "contrast_ratio": 17.714,
+            "edge_density": 0.0629,
+            "color_variance": 81.37,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 1.851,
+            "tension": 0.0036,
+            "focal_point": 1.082,
+            "palette_top": [
+              "#F0F0F0",
+              "#B0A090",
+              "#000000",
+              "#A08060",
+              "#D0C0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.9,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The design uses strong typography and a symmetrical composition to create a focused and confident hero section, aligning well with an industrial SaaS aesthetic.",
+            "avoid": [
+              "generic saas template",
+              "over-rounded friendly UI",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "grounded",
+              "dark",
+              "minimal",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.759
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1838,
+            1920,
+            301
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/02-band.png",
+          "heuristic_score": 0.622,
+          "features": {
+            "contrast_ratio": 17.714,
+            "edge_density": 0.0743,
+            "color_variance": 99.5,
+            "whitespace_ratio": 0.194,
+            "content_density": 0.806,
+            "aspect": 6.379,
+            "tension": 0.0184,
+            "focal_point": 1.346,
+            "palette_top": [
+              "#F0F0F0",
+              "#101000",
+              "#000000",
+              "#B0A090",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.9,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The section effectively combines large, bold typography with minimalist imagery, aligning well with the brand's industrial and editorial aesthetic.",
+            "avoid": [
+              "web3 crypto aesthetic",
+              "pastel palettes"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "swiss-grid",
+              "b2b"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.789
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            2139,
+            1920,
+            299
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/03-band.png",
+          "heuristic_score": 0.611,
+          "features": {
+            "contrast_ratio": 17.714,
+            "edge_density": 0.0278,
+            "color_variance": 77.05,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 6.421,
+            "tension": 0.0201,
+            "focal_point": 1.758,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#101000",
+              "#303030",
+              "#404040"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "medium",
+                "alignment": "left",
+                "density": "tight"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "right-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The use of abstract shapes against a dark background aligns with the brand's industrial and minimal aesthetic.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.754
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2901,
+            1920,
+            399
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/04-band.png",
+          "heuristic_score": 0.538,
+          "features": {
+            "contrast_ratio": 6.889,
+            "edge_density": 0.1073,
+            "color_variance": 89.5,
+            "whitespace_ratio": 0.004,
+            "content_density": 0.996,
+            "aspect": 4.812,
+            "tension": 0.0171,
+            "focal_point": 1.187,
+            "palette_top": [
+              "#F0F0F0",
+              "#F0F0E0",
+              "#202020",
+              "#800020",
+              "#F0E090"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.8,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The design effectively balances strong typography with compelling imagery, maintaining a structured layout that conveys confidence and clarity.",
+            "avoid": [
+              "glassmorphism",
+              "gradient blobs",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "minimal"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.695
+        },
+        {
+          "index": 5,
+          "name": "footer",
+          "bbox": [
+            0,
+            3300,
+            1920,
+            460
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/05-footer.png",
+          "heuristic_score": 0.214,
+          "features": {
+            "contrast_ratio": 23.182,
+            "edge_density": 0.1146,
+            "color_variance": 106.16,
+            "whitespace_ratio": 0.005,
+            "content_density": 0.995,
+            "aspect": 4.174,
+            "tension": 0.034,
+            "focal_point": 1.374,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#000000",
+              "#202020",
+              "#101000"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "awwwards-template-page-industries-surfaces-awwwar-f3adef37",
+      "source": "awwwards",
+      "regions": 7,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            32
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0635,
+            "color_variance": 0.0,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 60.0,
+            "tension": 0.0,
+            "focal_point": 1.0,
+            "palette_top": [
+              "#E0E0E0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            512,
+            1920,
+            548
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/01-hero.png",
+          "heuristic_score": 0.001,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0049,
+            "color_variance": 1.96,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 3.504,
+            "tension": 0.0003,
+            "focal_point": 1.111,
+            "palette_top": [
+              "#F0F0F0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1060,
+            1920,
+            419
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/02-band.png",
+          "heuristic_score": 0.017,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0077,
+            "color_variance": 5.58,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 4.582,
+            "tension": 0.0019,
+            "focal_point": 1.256,
+            "palette_top": [
+              "#F0F0F0",
+              "#404040",
+              "#202020",
+              "#606060",
+              "#A0A0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            1674,
+            1920,
+            463
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/03-band.png",
+          "heuristic_score": 0.024,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0078,
+            "color_variance": 6.27,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 4.147,
+            "tension": 0.0025,
+            "focal_point": 1.321,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#404040",
+              "#606060",
+              "#80A0A0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2137,
+            1920,
+            464
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/04-band.png",
+          "heuristic_score": 0.028,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.007,
+            "color_variance": 6.19,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 4.138,
+            "tension": 0.0017,
+            "focal_point": 1.357,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#708080",
+              "#404040",
+              "#80A0A0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 5,
+          "name": "band",
+          "bbox": [
+            0,
+            2798,
+            1920,
+            562
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/05-band.png",
+          "heuristic_score": 0.105,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0071,
+            "color_variance": 12.5,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 3.416,
+            "tension": 0.0043,
+            "focal_point": 2.049,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#404040",
+              "#606060",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 6,
+          "name": "footer",
+          "bbox": [
+            0,
+            3360,
+            1920,
+            561
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-template-page-industries-surfaces-awwwar-f3adef37/06-footer.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0048,
+            "color_variance": 2.83,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 3.422,
+            "tension": 0.0003,
+            "focal_point": 1.108,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#606060",
+              "#708080"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "awwwards-the-industrial-grade-paper-shredder-awww-7a249933",
+      "source": "awwwards",
+      "regions": 7,
+      "segments": [
+        {
+          "index": 0,
+          "name": "nav",
+          "bbox": [
+            0,
+            0,
+            1920,
+            49
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/00-nav.png",
+          "heuristic_score": 0.0,
+          "features": {
+            "contrast_ratio": 1.852,
+            "edge_density": 0.1614,
+            "color_variance": 38.03,
+            "whitespace_ratio": 0.007,
+            "content_density": 0.993,
+            "aspect": 39.184,
+            "tension": 0.0245,
+            "focal_point": 1.166,
+            "palette_top": [
+              "#E0E0E0",
+              "#202020",
+              "#303030",
+              "#404040",
+              "#D0D0D0"
+            ],
+            "low_signal_flags": [
+              "nav_like",
+              "footer_like",
+              "too_short"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 1,
+          "name": "hero",
+          "bbox": [
+            0,
+            282,
+            1920,
+            1037
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/01-hero.png",
+          "heuristic_score": 0.34,
+          "features": {
+            "contrast_ratio": 3.875,
+            "edge_density": 0.0682,
+            "color_variance": 53.88,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 1.851,
+            "tension": 0.0166,
+            "focal_point": 1.247,
+            "palette_top": [
+              "#F0F0F0",
+              "#E0E0C0",
+              "#E0D0C0",
+              "#B0B0A0",
+              "#C0C0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1838,
+            1920,
+            301
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/02-band.png",
+          "heuristic_score": 0.702,
+          "features": {
+            "contrast_ratio": 16.533,
+            "edge_density": 0.1159,
+            "color_variance": 99.7,
+            "whitespace_ratio": 0.005,
+            "content_density": 0.995,
+            "aspect": 6.379,
+            "tension": 0.0272,
+            "focal_point": 1.387,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#101010",
+              "#100010",
+              "#302080"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.8,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "image",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "This region uses high contrast and a structured layout to highlight various elements, fitting an editorial and grounded aesthetic.",
+            "avoid": [
+              "web3 crypto aesthetic",
+              "pastel palettes"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "minimal"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.761
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            2139,
+            1920,
+            433
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/03-band.png",
+          "heuristic_score": 0.767,
+          "features": {
+            "contrast_ratio": 11.273,
+            "edge_density": 0.0485,
+            "color_variance": 76.63,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 4.434,
+            "tension": 0.0539,
+            "focal_point": 2.846,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#202020",
+              "#100010",
+              "#000000"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "loose"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The design effectively combines text and images to create a bold yet minimal look, aligning with the brand's industrial and editorial aesthetic.",
+            "avoid": [
+              "glassmorphism",
+              "gradient blobs",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial",
+              "b2b"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.817
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2572,
+            1920,
+            300
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/04-band.png",
+          "heuristic_score": 0.044,
+          "features": {
+            "contrast_ratio": 1.0,
+            "edge_density": 0.0124,
+            "color_variance": 11.44,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 6.4,
+            "tension": 0.0048,
+            "focal_point": 1.477,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#505050",
+              "#505040",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 5,
+          "name": "band",
+          "bbox": [
+            0,
+            3170,
+            1920,
+            398
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/05-band.png",
+          "heuristic_score": 0.644,
+          "features": {
+            "contrast_ratio": 9.185,
+            "edge_density": 0.1153,
+            "color_variance": 87.86,
+            "whitespace_ratio": 0.013,
+            "content_density": 0.987,
+            "aspect": 4.824,
+            "tension": 0.0224,
+            "focal_point": 1.228,
+            "palette_top": [
+              "#F0F0F0",
+              "#C0C0C0",
+              "#203020",
+              "#101010",
+              "#E0E0F0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "This region uses a mix of bold typography and varying image styles to create a visually engaging feature-grid.",
+            "avoid": [
+              "playful illustration heavy",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial",
+              "minimal"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.768
+        },
+        {
+          "index": 6,
+          "name": "footer",
+          "bbox": [
+            0,
+            3568,
+            1920,
+            460
+          ],
+          "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/06-footer.png",
+          "heuristic_score": 0.25,
+          "features": {
+            "contrast_ratio": 28.333,
+            "edge_density": 0.149,
+            "color_variance": 98.22,
+            "whitespace_ratio": 0.002,
+            "content_density": 0.998,
+            "aspect": 4.174,
+            "tension": 0.0576,
+            "focal_point": 1.544,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#F0F0E0",
+              "#001000",
+              "#001010"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dribbble-hero-design-concept-for-industrial-engin-fd6c84fa",
+      "source": "dribbble",
+      "regions": 3,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            243,
+            1920,
+            665
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/00-hero.png",
+          "heuristic_score": 0.511,
+          "features": {
+            "contrast_ratio": 18.214,
+            "edge_density": 0.029,
+            "color_variance": 113.35,
+            "whitespace_ratio": 0.004,
+            "content_density": 0.996,
+            "aspect": 2.887,
+            "tension": 0.003,
+            "focal_point": 1.161,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#000000",
+              "#202020",
+              "#E0E0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.95,
+            "signals": {
+              "typography": {
+                "scale": "extreme",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "text",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The design uses bold typography and a dark, high-contrast theme to create a strong first impression. It effectively conveys precision and expertise, fitting for an industrial SaaS brand.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes",
+              "drone-selfie aesthetic"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial",
+              "confident",
+              "typographic"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.774
+        },
+        {
+          "index": 1,
+          "name": "band",
+          "bbox": [
+            0,
+            1556,
+            1920,
+            338
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/01-band.png",
+          "heuristic_score": 0.703,
+          "features": {
+            "contrast_ratio": 28.333,
+            "edge_density": 0.0648,
+            "color_variance": 83.27,
+            "whitespace_ratio": 0.006,
+            "content_density": 0.994,
+            "aspect": 5.68,
+            "tension": 0.0384,
+            "focal_point": 1.762,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#101010",
+              "#E0E0E0",
+              "#D0D0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.75,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "medium",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The region effectively combines both text and visuals, showcasing products or services with structured layout and balanced design.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "grounded",
+              "b2b",
+              "saas"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.731
+        },
+        {
+          "index": 2,
+          "name": "footer",
+          "bbox": [
+            0,
+            1894,
+            1920,
+            302
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/02-footer.png",
+          "heuristic_score": 0.253,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0981,
+            "color_variance": 96.26,
+            "whitespace_ratio": 0.024,
+            "content_density": 0.976,
+            "aspect": 6.358,
+            "tension": 0.07,
+            "focal_point": 1.958,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#D0D0E0",
+              "#104050",
+              "#C0C0C0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dribbble-industrial-website-hero-design-oleksii-k-5c74646d",
+      "source": "dribbble",
+      "regions": 3,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            243,
+            1920,
+            780
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/00-hero.png",
+          "heuristic_score": 0.55,
+          "features": {
+            "contrast_ratio": 15.938,
+            "edge_density": 0.0468,
+            "color_variance": 86.83,
+            "whitespace_ratio": 0.003,
+            "content_density": 0.997,
+            "aspect": 2.462,
+            "tension": 0.0086,
+            "focal_point": 1.223,
+            "palette_top": [
+              "#F0F0F0",
+              "#202020",
+              "#000000",
+              "#6080B0",
+              "#D0D0E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.88,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "image",
+                "balance": "right-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The composition uses a strong visual hierarchy with its large, left-aligned typography and a bold image, which conveys confidence and industrial precision.",
+            "avoid": [
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "minimal",
+              "grounded",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.748
+        },
+        {
+          "index": 1,
+          "name": "band",
+          "bbox": [
+            0,
+            1759,
+            1920,
+            338
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/01-band.png",
+          "heuristic_score": 0.449,
+          "features": {
+            "contrast_ratio": 4.554,
+            "edge_density": 0.0609,
+            "color_variance": 58.11,
+            "whitespace_ratio": 0.044,
+            "content_density": 0.956,
+            "aspect": 5.68,
+            "tension": 0.0327,
+            "focal_point": 1.639,
+            "palette_top": [
+              "#F0F0F0",
+              "#A0A0B0",
+              "#C0C0D0",
+              "#C0D0E0",
+              "#102040"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 2,
+          "name": "footer",
+          "bbox": [
+            0,
+            2097,
+            1920,
+            302
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-industrial-website-hero-design-oleksii-k-5c74646d/02-footer.png",
+          "heuristic_score": 0.255,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0977,
+            "color_variance": 96.22,
+            "whitespace_ratio": 0.019,
+            "content_density": 0.981,
+            "aspect": 6.358,
+            "tension": 0.0706,
+            "focal_point": 2.014,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#D0D0E0",
+              "#104050",
+              "#E0F0F0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8",
+      "source": "dribbble",
+      "regions": 3,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            242,
+            1920,
+            781
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/00-hero.png",
+          "heuristic_score": 0.7,
+          "features": {
+            "contrast_ratio": 11.087,
+            "edge_density": 0.0726,
+            "color_variance": 92.62,
+            "whitespace_ratio": 0.002,
+            "content_density": 0.998,
+            "aspect": 2.458,
+            "tension": 0.0332,
+            "focal_point": 1.751,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#C0C0C0",
+              "#D0D0D0",
+              "#B0B0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.9,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "left_offset",
+                "density": "tight"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "image",
+                "balance": "left-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The use of high contrast and bold typography creates a strong visual impact, fitting the editorial and dark aesthetic desired in the brand brief.",
+            "avoid": [
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "confident"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.82
+        },
+        {
+          "index": 1,
+          "name": "band",
+          "bbox": [
+            0,
+            1861,
+            1920,
+            390
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/01-band.png",
+          "heuristic_score": 0.673,
+          "features": {
+            "contrast_ratio": 9.444,
+            "edge_density": 0.0336,
+            "color_variance": 71.7,
+            "whitespace_ratio": 0.004,
+            "content_density": 0.996,
+            "aspect": 4.923,
+            "tension": 0.0305,
+            "focal_point": 2.375,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#202020",
+              "#303030",
+              "#705040"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.75,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The section uses bold typography and a high-contrast palette to emphasize professionalism and modernity, aligning with the brand's industrial SaaS focus.",
+            "avoid": [
+              "web3 crypto aesthetic",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "minimal",
+              "industrial",
+              "confident"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.719
+        },
+        {
+          "index": 2,
+          "name": "footer",
+          "bbox": [
+            0,
+            2251,
+            1920,
+            303
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-nicole-minimal-editorial-portfolio-hero--7dc515a8/02-footer.png",
+          "heuristic_score": 0.251,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0965,
+            "color_variance": 95.94,
+            "whitespace_ratio": 0.014,
+            "content_density": 0.986,
+            "aspect": 6.337,
+            "tension": 0.0686,
+            "focal_point": 1.956,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#104050",
+              "#D0D0D0",
+              "#D0D0E0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dribbble-stockz-ai-fintech-saas-onboarding-screen-24b6447d",
+      "source": "dribbble",
+      "regions": 1,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            315,
+            1920,
+            535
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-stockz-ai-fintech-saas-onboarding-screen-24b6447d/00-hero.png",
+          "heuristic_score": 0.161,
+          "features": {
+            "contrast_ratio": 2.143,
+            "edge_density": 0.0367,
+            "color_variance": 40.2,
+            "whitespace_ratio": 0.004,
+            "content_density": 0.996,
+            "aspect": 3.589,
+            "tension": 0.005,
+            "focal_point": 1.161,
+            "palette_top": [
+              "#F0F0F0",
+              "#60B0E0",
+              "#3080F0",
+              "#0070D0",
+              "#0070E0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "dribbble-stockz-ai-landing-page-scroll-effects-by-2aeb354d",
+      "source": "dribbble",
+      "regions": 1,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            314,
+            1920,
+            537
+          ],
+          "segment_image": "inspiration/symnera-website/segments/dribbble-stockz-ai-landing-page-scroll-effects-by-2aeb354d/00-hero.png",
+          "heuristic_score": 0.172,
+          "features": {
+            "contrast_ratio": 1.645,
+            "edge_density": 0.042,
+            "color_variance": 47.83,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 3.575,
+            "tension": 0.0052,
+            "focal_point": 1.133,
+            "palette_top": [
+              "#F0F0F0",
+              "#20E050",
+              "#00E050",
+              "#90F090",
+              "#B0F090"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "httpster-softglossary-httpster-13ab4ac7",
+      "source": "httpster",
+      "regions": 6,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1163
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/00-hero.png",
+          "heuristic_score": 0.493,
+          "features": {
+            "contrast_ratio": 1.759,
+            "edge_density": 0.1291,
+            "color_variance": 44.79,
+            "whitespace_ratio": 0.204,
+            "content_density": 0.796,
+            "aspect": 1.651,
+            "tension": 0.0709,
+            "focal_point": 1.647,
+            "palette_top": [
+              "#F0F0F0",
+              "#E0E0E0",
+              "#F0F0E0",
+              "#000000",
+              "#D0D0D0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.8,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "text",
+                "balance": "centered"
+              },
+              "contrast": "medium",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The design uses typographic elements effectively to create a strong focal point and conveys a minimal and editorial aesthetic.",
+            "avoid": [
+              "generic saas template",
+              "playful illustration heavy"
+            ],
+            "tags": [
+              "editorial",
+              "minimal",
+              "grounded",
+              "typographic"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.677
+        },
+        {
+          "index": 1,
+          "name": "band",
+          "bbox": [
+            0,
+            1163,
+            1920,
+            453
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/01-band.png",
+          "heuristic_score": 0.256,
+          "features": {
+            "contrast_ratio": 1.104,
+            "edge_density": 0.0652,
+            "color_variance": 24.69,
+            "whitespace_ratio": 0.0,
+            "content_density": 1.0,
+            "aspect": 4.238,
+            "tension": 0.0364,
+            "focal_point": 1.744,
+            "palette_top": [
+              "#F0F0F0",
+              "#F0F0E0",
+              "#F0F0D0",
+              "#E0F0D0",
+              "#C0C0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            1616,
+            1920,
+            677
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/02-band.png",
+          "heuristic_score": 0.214,
+          "features": {
+            "contrast_ratio": 1.037,
+            "edge_density": 0.0483,
+            "color_variance": 32.14,
+            "whitespace_ratio": 0.038,
+            "content_density": 0.962,
+            "aspect": 2.836,
+            "tension": 0.0241,
+            "focal_point": 1.616,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#E0E0E0",
+              "#D0D0D0",
+              "#202020"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": null,
+          "promoted": false
+        },
+        {
+          "index": 3,
+          "name": "band",
+          "bbox": [
+            0,
+            2376,
+            1920,
+            309
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/03-band.png",
+          "heuristic_score": 0.492,
+          "features": {
+            "contrast_ratio": 2.772,
+            "edge_density": 0.0837,
+            "color_variance": 61.83,
+            "whitespace_ratio": 0.034,
+            "content_density": 0.966,
+            "aspect": 6.214,
+            "tension": 0.0513,
+            "focal_point": 1.81,
+            "palette_top": [
+              "#F0F0F0",
+              "#D0D0D0",
+              "#000000",
+              "#E0D0F0",
+              "#A04020"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.3,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "medium",
+              "rhythm": "none"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The region uses a variety of design elements, suggesting diverse content but lacks a cohesive focus.",
+            "avoid": [
+              "overly diverse elements leading to lack of focus"
+            ],
+            "tags": [
+              "editorial",
+              "minimal"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.377
+        },
+        {
+          "index": 4,
+          "name": "band",
+          "bbox": [
+            0,
+            2685,
+            1920,
+            284
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/04-band.png",
+          "heuristic_score": 0.759,
+          "features": {
+            "contrast_ratio": 13.421,
+            "edge_density": 0.0676,
+            "color_variance": 66.87,
+            "whitespace_ratio": 0.035,
+            "content_density": 0.965,
+            "aspect": 6.761,
+            "tension": 0.0552,
+            "focal_point": 1.961,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#D0D0D0",
+              "#E0E0E0",
+              "#D0B0B0"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.65,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "left",
+                "density": "sparse"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "mixed",
+                "balance": "right-heavy"
+              },
+              "contrast": "medium",
+              "rhythm": "loose"
+            },
+            "region_guess": "feature-grid",
+            "insight": "The region combines text and images in a loose, visually engaging manner, though it lacks a strong centralized focus.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "industrial",
+              "minimal",
+              "dark"
+            ]
+          },
+          "promoted": false,
+          "weighted_score": 0.694
+        },
+        {
+          "index": 5,
+          "name": "footer",
+          "bbox": [
+            0,
+            2969,
+            1920,
+            727
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-softglossary-httpster-13ab4ac7/05-footer.png",
+          "heuristic_score": 0.218,
+          "features": {
+            "contrast_ratio": 13.421,
+            "edge_density": 0.0749,
+            "color_variance": 73.12,
+            "whitespace_ratio": 0.021,
+            "content_density": 0.979,
+            "aspect": 2.641,
+            "tension": 0.0449,
+            "focal_point": 1.715,
+            "palette_top": [
+              "#F0F0F0",
+              "#101010",
+              "#F0F0E0",
+              "#F0F0C0",
+              "#F0F0D0"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "httpster-spaces-by-lovers-magazine-httpster-ca119b25",
+      "source": "httpster",
+      "regions": 4,
+      "segments": [
+        {
+          "index": 0,
+          "name": "hero",
+          "bbox": [
+            0,
+            0,
+            1920,
+            1616
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/00-hero.png",
+          "heuristic_score": 0.706,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0992,
+            "color_variance": 109.11,
+            "whitespace_ratio": 0.034,
+            "content_density": 0.966,
+            "aspect": 1.188,
+            "tension": 0.0352,
+            "focal_point": 1.447,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#E0E0E0",
+              "#101010",
+              "#909090"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "asymmetrical",
+                "dominant": "text",
+                "balance": "top-heavy"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "The design uses large, confident typography with strong contrast to make a bold statement, fitting the brand's industrial and editorial aesthetics.",
+            "avoid": [
+              "playful illustration heavy",
+              "pastel palettes"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "confident",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.792
+        },
+        {
+          "index": 1,
+          "name": "band",
+          "bbox": [
+            0,
+            1616,
+            1920,
+            677
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/01-band.png",
+          "heuristic_score": 0.577,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0186,
+            "color_variance": 124.65,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 2.836,
+            "tension": 0.013,
+            "focal_point": 1.713,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#505050",
+              "#303030",
+              "#404040"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.85,
+            "signals": {
+              "typography": {
+                "scale": "large",
+                "alignment": "centered",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "text",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "hero",
+            "insight": "This region effectively uses bold typography and high contrast to create a clear focal point, aligning well with the brand's aesthetic of being editorial and minimal.",
+            "avoid": [
+              "pastel palettes",
+              "generic saas template"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "industrial"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.741
+        },
+        {
+          "index": 2,
+          "name": "band",
+          "bbox": [
+            0,
+            2293,
+            1920,
+            676
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/02-band.png",
+          "heuristic_score": 0.743,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0578,
+            "color_variance": 115.07,
+            "whitespace_ratio": 0.001,
+            "content_density": 0.999,
+            "aspect": 2.84,
+            "tension": 0.0416,
+            "focal_point": 2.14,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#101010",
+              "#707070",
+              "#808080"
+            ],
+            "low_signal_flags": []
+          },
+          "vision": {
+            "score_vision": 0.78,
+            "signals": {
+              "typography": {
+                "scale": "mixed",
+                "alignment": "left",
+                "density": "normal"
+              },
+              "composition": {
+                "symmetry": "symmetrical",
+                "dominant": "mixed",
+                "balance": "centered"
+              },
+              "contrast": "high",
+              "rhythm": "structured"
+            },
+            "region_guess": "feature-grid",
+            "insight": "This region effectively combines textual emphasis with visual elements, providing a compelling case for the services offered.",
+            "avoid": [
+              "glassmorphism",
+              "generic saas template",
+              "over-rounded friendly UI"
+            ],
+            "tags": [
+              "editorial",
+              "dark",
+              "grounded",
+              "b2b",
+              "saas"
+            ]
+          },
+          "promoted": true,
+          "weighted_score": 0.765
+        },
+        {
+          "index": 3,
+          "name": "footer",
+          "bbox": [
+            0,
+            2969,
+            1920,
+            727
+          ],
+          "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/03-footer.png",
+          "heuristic_score": 0.198,
+          "features": {
+            "contrast_ratio": 255.0,
+            "edge_density": 0.0379,
+            "color_variance": 121.96,
+            "whitespace_ratio": 0.003,
+            "content_density": 0.997,
+            "aspect": 2.641,
+            "tension": 0.0249,
+            "focal_point": 1.975,
+            "palette_top": [
+              "#F0F0F0",
+              "#000000",
+              "#E0E0E0",
+              "#404040",
+              "#303030"
+            ],
+            "low_signal_flags": [
+              "footer_like"
+            ]
+          },
+          "vision": null,
+          "promoted": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dribbble-20aeea26",
+  "source": "dribbble",
+  "url": "https://dribbble.com/search/industrial",
+  "title": "Browse thousands of Industrial images for design inspiration | Dribbble",
+  "description": "Explore thousands of high-quality industrial images on Dribbble. Your resource to get inspired, discover and connect with designers worldwide.",
+  "author": null,
+  "tags": [],
+  "og_image": "https://cdn.dribbble.com/uploads/68059/original/f95c1a744395b01385a3685ba20daac0.png?1770659618",
+  "screenshot_saved": true,
+  "preview_saved": true,
+  "retrieved_at": "2026-04-23T11:33:09Z",
+  "score": {
+    "total": 0.428,
+    "breakdown": {
+      "aesthetic_match": 0.455,
+      "pattern_match": 0.125,
+      "source_authority": 0.65,
+      "engagement": 0.5,
+      "avoid_penalty": -0.0
+    },
+    "hits": {
+      "aesthetic": [
+        "factory",
+        "industrial",
+        "machinery",
+        "manufacturing",
+        "typography"
+      ],
+      "pattern": [
+        "client"
+      ],
+      "avoid": []
+    }
+  }
+}

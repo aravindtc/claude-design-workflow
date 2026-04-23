@@ -1,0 +1,67 @@
+{
+  "id": "pattern_feature-grid_editorial_bab15e",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/product-feature-particles-3d-animation-set",
+  "source_title": "Product Feature - Awwwards",
+  "captured_at": "2026-04-23T14:11:36Z",
+  "extracted_at": "2026-04-23T14:22:45Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2139,
+    1920,
+    299
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/03-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-product-feature-awwwards-bf18d794/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.754,
+  "score_breakdown": {
+    "heuristic": 0.611,
+    "vision": 0.85,
+    "weighted": 0.754
+  },
+  "features_heuristic": {
+    "contrast_ratio": 17.714,
+    "edge_density": 0.0278,
+    "color_variance": 77.05,
+    "whitespace_ratio": 0.001,
+    "content_density": 0.999,
+    "aspect": 6.421,
+    "tension": 0.0201,
+    "focal_point": 1.758,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#101000",
+      "#303030",
+      "#404040"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "medium",
+      "alignment": "left",
+      "density": "tight"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "right-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The use of abstract shapes against a dark background aligns with the brand's industrial and minimal aesthetic.",
+  "avoid": [
+    "playful illustration heavy",
+    "pastel palettes"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pattern_feature-grid_editorial_fb5820",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/product-feature-particles-3d-animation-set",
+  "source_title": "Product Feature - Awwwards",
+  "captured_at": "2026-04-23T14:11:36Z",
+  "extracted_at": "2026-04-23T14:12:56Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2901,
+    1920,
+    399
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-product-feature-awwwards-bf18d794/04-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-product-feature-awwwards-bf18d794/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.725,
+  "score_breakdown": {
+    "heuristic": 0.538,
+    "vision": 0.85,
+    "weighted": 0.725
+  },
+  "features_heuristic": {
+    "contrast_ratio": 6.889,
+    "edge_density": 0.1073,
+    "color_variance": 89.5,
+    "whitespace_ratio": 0.004,
+    "content_density": 0.996,
+    "aspect": 4.812,
+    "tension": 0.0171,
+    "focal_point": 1.187,
+    "palette_top": [
+      "#F0F0F0",
+      "#F0F0E0",
+      "#202020",
+      "#800020",
+      "#F0E090"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "centered",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The region\u2019s structured layout and high contrast create a compelling and organized presentation, adhering well to the brand\u2019s editorial and minimal aesthetic needs.",
+  "avoid": [
+    "playful illustration heavy",
+    "gradient blobs",
+    "generic saas template"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial"
+  ]
+}

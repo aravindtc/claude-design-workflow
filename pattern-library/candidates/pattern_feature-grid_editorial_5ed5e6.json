@@ -1,0 +1,70 @@
+{
+  "id": "pattern_feature-grid_editorial_5ed5e6",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/editorial-nueno-digital-fashion-brand",
+  "source_title": "Editorial Layout - Awwwards",
+  "captured_at": "2026-04-23T14:11:22Z",
+  "extracted_at": "2026-04-23T14:22:24Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2901,
+    1920,
+    399
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-editorial-layout-awwwards-e35b5b19/04-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-editorial-layout-awwwards-e35b5b19/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.716,
+  "score_breakdown": {
+    "heuristic": 0.591,
+    "vision": 0.8,
+    "weighted": 0.716
+  },
+  "features_heuristic": {
+    "contrast_ratio": 254.0,
+    "edge_density": 0.0764,
+    "color_variance": 97.45,
+    "whitespace_ratio": 0.075,
+    "content_density": 0.925,
+    "aspect": 4.812,
+    "tension": 0.0117,
+    "focal_point": 1.184,
+    "palette_top": [
+      "#F0F0F0",
+      "#6000B0",
+      "#000000",
+      "#E0E0E0",
+      "#E0E0D0"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "left-heavy"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "This region employs a strong asymmetrical layout with confident and large-scale typography, enhancing its editorial and minimal aesthetic.",
+  "avoid": [
+    "pastel palettes",
+    "generic saas template",
+    "playful illustration heavy"
+  ],
+  "tags": [
+    "editorial",
+    "minimal",
+    "industrial",
+    "grounded",
+    "confident",
+    "swiss-grid"
+  ]
+}

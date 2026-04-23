@@ -1,0 +1,66 @@
+{
+  "id": "pattern_feature-grid_editorial_cebf0a",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/catalog-q-industrial",
+  "source_title": "Catalog - Awwwards",
+  "captured_at": "2026-04-23T14:20:42Z",
+  "extracted_at": "2026-04-23T14:22:04Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2139,
+    1920,
+    299
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/03-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-catalog-awwwards-fadadcb0/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.768,
+  "score_breakdown": {
+    "heuristic": 0.645,
+    "vision": 0.85,
+    "weighted": 0.768
+  },
+  "features_heuristic": {
+    "contrast_ratio": 248.0,
+    "edge_density": 0.0934,
+    "color_variance": 106.94,
+    "whitespace_ratio": 0.0,
+    "content_density": 1.0,
+    "aspect": 6.421,
+    "tension": 0.0189,
+    "focal_point": 1.317,
+    "palette_top": [
+      "#F0F0F0",
+      "#000000",
+      "#101010",
+      "#000010",
+      "#202020"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "mixed",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "structured"
+  },
+  "insight": "The use of dark tones combined with structured layouts suits an industrial vibe, and the mix of text and image provides a dynamic yet grounded feel.",
+  "avoid": [
+    "playful illustration heavy"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "candidate_id": "awwwards-industrial-additive-manufacturing-platfo-5ffd209d",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/industrial-additive-manufacturing-platform-markforged",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "nav",
+      "bbox": [
+        0,
+        0,
+        1920,
+        32
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/00-nav.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0635,
+        "color_variance": 0.0,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 60.0,
+        "tension": 0.0,
+        "focal_point": 1.0,
+        "palette_top": [
+          "#E0E0E0"
+        ],
+        "low_signal_flags": [
+          "nav_like",
+          "footer_like",
+          "too_short"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 1,
+      "name": "hero",
+      "bbox": [
+        0,
+        282,
+        1920,
+        719
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/01-hero.png",
+      "heuristic_score": 0.572,
+      "features": {
+        "contrast_ratio": 248.0,
+        "edge_density": 0.0435,
+        "color_variance": 118.75,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 2.67,
+        "tension": 0.0148,
+        "focal_point": 1.329,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#202020",
+          "#F0F000",
+          "#202030"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.92,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "text",
+            "balance": "left-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The bold typography paired with a high contrast background makes for a striking hero section, aligning well with the brand's industrial and confident aesthetic.",
+        "avoid": [
+          "generic saas template",
+          "over-rounded friendly UI"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "industrial",
+          "lime-accent",
+          "confident",
+          "typographic"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.781
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1225,
+        1920,
+        562
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/02-band.png",
+      "heuristic_score": 0.101,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0075,
+        "color_variance": 12.46,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 3.416,
+        "tension": 0.0044,
+        "focal_point": 2.011,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#303040",
+          "#404050",
+          "#E0E0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 3,
+      "name": "footer",
+      "bbox": [
+        0,
+        1787,
+        1920,
+        560
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-industrial-additive-manufacturing-platfo-5ffd209d/03-footer.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.0,
+        "edge_density": 0.0048,
+        "color_variance": 2.82,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 3.429,
+        "tension": 0.0003,
+        "focal_point": 1.11,
+        "palette_top": [
+          "#F0F0F0",
+          "#202020",
+          "#90A0A0",
+          "#B0B0B0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

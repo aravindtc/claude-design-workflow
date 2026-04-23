@@ -1,0 +1,11 @@
+{
+  "project_id": "symnera-website",
+  "generated_at": "2026-04-23T12:00:00Z",
+  "total_sections": 1,
+  "with_assets": 1,
+  "text_only": 0,
+  "briefs": [
+    { "section": "hero", "need_asset": true, "approval": "draft" }
+  ],
+  "notes": "Initial draft — only hero brief created for mini-pipeline test. More briefs (problem, method, testimonial, etc.) to be added once pipeline is validated end-to-end."
+}

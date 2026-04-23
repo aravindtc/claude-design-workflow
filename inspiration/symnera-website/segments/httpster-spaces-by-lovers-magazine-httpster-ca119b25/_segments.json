@@ -1,0 +1,228 @@
+{
+  "candidate_id": "httpster-spaces-by-lovers-magazine-httpster-ca119b25",
+  "source": "httpster",
+  "source_url": "https://httpster.net/website/spaces-loversmagazine/",
+  "raw_screenshot": "inspiration/symnera-website/raw/httpster-spaces-by-lovers-magazine-httpster-ca119b25/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        0,
+        1920,
+        1616
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/00-hero.png",
+      "heuristic_score": 0.706,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0992,
+        "color_variance": 109.11,
+        "whitespace_ratio": 0.034,
+        "content_density": 0.966,
+        "aspect": 1.188,
+        "tension": 0.0352,
+        "focal_point": 1.447,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#E0E0E0",
+          "#101010",
+          "#909090"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.85,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "text",
+            "balance": "top-heavy"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The design uses large, confident typography with strong contrast to make a bold statement, fitting the brand's industrial and editorial aesthetics.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "confident",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.792
+    },
+    {
+      "index": 1,
+      "name": "band",
+      "bbox": [
+        0,
+        1616,
+        1920,
+        677
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/01-band.png",
+      "heuristic_score": 0.577,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0186,
+        "color_variance": 124.65,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 2.836,
+        "tension": 0.013,
+        "focal_point": 1.713,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#505050",
+          "#303030",
+          "#404040"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.85,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "text",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "This region effectively uses bold typography and high contrast to create a clear focal point, aligning well with the brand's aesthetic of being editorial and minimal.",
+        "avoid": [
+          "pastel palettes",
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.741
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        2293,
+        1920,
+        676
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/02-band.png",
+      "heuristic_score": 0.743,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0578,
+        "color_variance": 115.07,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 2.84,
+        "tension": 0.0416,
+        "focal_point": 2.14,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#101010",
+          "#707070",
+          "#808080"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.78,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "This region effectively combines textual emphasis with visual elements, providing a compelling case for the services offered.",
+        "avoid": [
+          "glassmorphism",
+          "generic saas template",
+          "over-rounded friendly UI"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "b2b",
+          "saas"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.765
+    },
+    {
+      "index": 3,
+      "name": "footer",
+      "bbox": [
+        0,
+        2969,
+        1920,
+        727
+      ],
+      "segment_image": "inspiration/symnera-website/segments/httpster-spaces-by-lovers-magazine-httpster-ca119b25/03-footer.png",
+      "heuristic_score": 0.198,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0379,
+        "color_variance": 121.96,
+        "whitespace_ratio": 0.003,
+        "content_density": 0.997,
+        "aspect": 2.641,
+        "tension": 0.0249,
+        "focal_point": 1.975,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#E0E0E0",
+          "#404040",
+          "#303030"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

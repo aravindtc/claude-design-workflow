@@ -1,0 +1,168 @@
+{
+  "candidate_id": "dribbble-hero-design-concept-for-industrial-engin-fd6c84fa",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27070066-Hero-Design-Concept-for-Industrial-Engineering-Company",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        243,
+        1920,
+        665
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/00-hero.png",
+      "heuristic_score": 0.511,
+      "features": {
+        "contrast_ratio": 18.214,
+        "edge_density": 0.029,
+        "color_variance": 113.35,
+        "whitespace_ratio": 0.004,
+        "content_density": 0.996,
+        "aspect": 2.887,
+        "tension": 0.003,
+        "focal_point": 1.161,
+        "palette_top": [
+          "#F0F0F0",
+          "#101010",
+          "#000000",
+          "#202020",
+          "#E0E0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.95,
+        "signals": {
+          "typography": {
+            "scale": "extreme",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "text",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "The design uses bold typography and a dark, high-contrast theme to create a strong first impression. It effectively conveys precision and expertise, fitting for an industrial SaaS brand.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes",
+          "drone-selfie aesthetic"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "industrial",
+          "confident",
+          "typographic"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.774
+    },
+    {
+      "index": 1,
+      "name": "band",
+      "bbox": [
+        0,
+        1556,
+        1920,
+        338
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/01-band.png",
+      "heuristic_score": 0.703,
+      "features": {
+        "contrast_ratio": 28.333,
+        "edge_density": 0.0648,
+        "color_variance": 83.27,
+        "whitespace_ratio": 0.006,
+        "content_density": 0.994,
+        "aspect": 5.68,
+        "tension": 0.0384,
+        "focal_point": 1.762,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#101010",
+          "#E0E0E0",
+          "#D0D0E0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.75,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "medium",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The region effectively combines both text and visuals, showcasing products or services with structured layout and balanced design.",
+        "avoid": [
+          "playful illustration heavy",
+          "pastel palettes",
+          "generic saas template"
+        ],
+        "tags": [
+          "editorial",
+          "grounded",
+          "b2b",
+          "saas"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.731
+    },
+    {
+      "index": 2,
+      "name": "footer",
+      "bbox": [
+        0,
+        1894,
+        1920,
+        302
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-hero-design-concept-for-industrial-engin-fd6c84fa/02-footer.png",
+      "heuristic_score": 0.253,
+      "features": {
+        "contrast_ratio": 255.0,
+        "edge_density": 0.0981,
+        "color_variance": 96.26,
+        "whitespace_ratio": 0.024,
+        "content_density": 0.976,
+        "aspect": 6.358,
+        "tension": 0.07,
+        "focal_point": 1.958,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#D0D0E0",
+          "#104050",
+          "#C0C0C0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

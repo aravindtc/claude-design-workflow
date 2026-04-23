@@ -1,0 +1,324 @@
+{
+  "candidate_id": "awwwards-catalog-awwwards-fadadcb0",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/catalog-q-industrial",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-catalog-awwwards-fadadcb0/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "nav",
+      "bbox": [
+        0,
+        0,
+        1920,
+        49
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/00-nav.png",
+      "heuristic_score": 0.0,
+      "features": {
+        "contrast_ratio": 1.852,
+        "edge_density": 0.1603,
+        "color_variance": 37.88,
+        "whitespace_ratio": 0.01,
+        "content_density": 0.99,
+        "aspect": 39.184,
+        "tension": 0.024,
+        "focal_point": 1.17,
+        "palette_top": [
+          "#E0E0E0",
+          "#404040",
+          "#202020",
+          "#303030",
+          "#B0B0B0"
+        ],
+        "low_signal_flags": [
+          "nav_like",
+          "footer_like",
+          "too_short"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    },
+    {
+      "index": 1,
+      "name": "hero",
+      "bbox": [
+        0,
+        282,
+        1920,
+        1037
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/01-hero.png",
+      "heuristic_score": 0.52,
+      "features": {
+        "contrast_ratio": 248.0,
+        "edge_density": 0.0286,
+        "color_variance": 109.91,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 1.851,
+        "tension": 0.0062,
+        "focal_point": 1.217,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#E0E0E0",
+          "#D0D0D0",
+          "#A0E0C0"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.7,
+        "signals": {
+          "typography": {
+            "scale": "medium",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "text",
+            "balance": "centered"
+          },
+          "contrast": "medium",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "This region effectively uses a structured layout with filters and product listings, fitting well within an industrial catalog structure.",
+        "avoid": [
+          "glassmorphism",
+          "gradient blobs",
+          "web3 crypto aesthetic"
+        ],
+        "tags": [
+          "editorial",
+          "industrial",
+          "grounded",
+          "organized"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.628
+    },
+    {
+      "index": 2,
+      "name": "band",
+      "bbox": [
+        0,
+        1838,
+        1920,
+        301
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/02-band.png",
+      "heuristic_score": 0.595,
+      "features": {
+        "contrast_ratio": 248.0,
+        "edge_density": 0.0524,
+        "color_variance": 118.69,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 6.379,
+        "tension": 0.017,
+        "focal_point": 1.384,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#102030",
+          "#103040",
+          "#100000"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.75,
+        "signals": {
+          "typography": {
+            "scale": "large",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "symmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "hero",
+        "insight": "This region is visually striking with a dark industrial aesthetic and high contrast, effectively capturing attention.",
+        "avoid": [
+          "glassmorphism",
+          "web3 crypto aesthetic",
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "minimal",
+          "industrial",
+          "confident"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.688
+    },
+    {
+      "index": 3,
+      "name": "band",
+      "bbox": [
+        0,
+        2139,
+        1920,
+        299
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/03-band.png",
+      "heuristic_score": 0.645,
+      "features": {
+        "contrast_ratio": 248.0,
+        "edge_density": 0.0934,
+        "color_variance": 106.94,
+        "whitespace_ratio": 0.0,
+        "content_density": 1.0,
+        "aspect": 6.421,
+        "tension": 0.0189,
+        "focal_point": 1.317,
+        "palette_top": [
+          "#F0F0F0",
+          "#000000",
+          "#101010",
+          "#000010",
+          "#202020"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.85,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "left",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "mixed",
+            "balance": "centered"
+          },
+          "contrast": "high",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The use of dark tones combined with structured layouts suits an industrial vibe, and the mix of text and image provides a dynamic yet grounded feel.",
+        "avoid": [
+          "playful illustration heavy"
+        ],
+        "tags": [
+          "editorial",
+          "dark",
+          "grounded",
+          "industrial"
+        ]
+      },
+      "promoted": true,
+      "weighted_score": 0.768
+    },
+    {
+      "index": 4,
+      "name": "band",
+      "bbox": [
+        0,
+        2901,
+        1920,
+        391
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/04-band.png",
+      "heuristic_score": 0.713,
+      "features": {
+        "contrast_ratio": 28.111,
+        "edge_density": 0.1298,
+        "color_variance": 91.91,
+        "whitespace_ratio": 0.161,
+        "content_density": 0.839,
+        "aspect": 4.91,
+        "tension": 0.0311,
+        "focal_point": 1.237,
+        "palette_top": [
+          "#F0F0F0",
+          "#F0F0E0",
+          "#100000",
+          "#101010",
+          "#100010"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": {
+        "score_vision": 0.6,
+        "signals": {
+          "typography": {
+            "scale": "mixed",
+            "alignment": "centered",
+            "density": "normal"
+          },
+          "composition": {
+            "symmetry": "asymmetrical",
+            "dominant": "image",
+            "balance": "left-heavy"
+          },
+          "contrast": "medium",
+          "rhythm": "structured"
+        },
+        "region_guess": "feature-grid",
+        "insight": "The design effectively showcases visual variety with consistent structure, using a mix of scale and imagery to draw attention.",
+        "avoid": [
+          "header-heavy content",
+          "excessive empty space"
+        ],
+        "tags": [
+          "editorial",
+          "grounded",
+          "structured"
+        ]
+      },
+      "promoted": false,
+      "weighted_score": 0.645
+    },
+    {
+      "index": 5,
+      "name": "footer",
+      "bbox": [
+        0,
+        3292,
+        1920,
+        468
+      ],
+      "segment_image": "inspiration/symnera-website/segments/awwwards-catalog-awwwards-fadadcb0/05-footer.png",
+      "heuristic_score": 0.065,
+      "features": {
+        "contrast_ratio": 1.562,
+        "edge_density": 0.0669,
+        "color_variance": 44.06,
+        "whitespace_ratio": 0.14,
+        "content_density": 0.86,
+        "aspect": 4.103,
+        "tension": 0.014,
+        "focal_point": 1.178,
+        "palette_top": [
+          "#F0F0F0",
+          "#E0E0E0",
+          "#D0D0D0",
+          "#C0C0C0",
+          "#D0D0C0"
+        ],
+        "low_signal_flags": [
+          "footer_like"
+        ]
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}

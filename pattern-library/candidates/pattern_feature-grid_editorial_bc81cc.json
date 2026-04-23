@@ -1,0 +1,69 @@
+{
+  "id": "pattern_feature-grid_editorial_bc81cc",
+  "source": "awwwards",
+  "source_url": "https://www.awwwards.com/inspiration/the-industrial-grade-paper-shredder-shader-development-studio",
+  "source_title": "The Industrial Grade Paper Shredder - Awwwards",
+  "captured_at": "2026-04-23T14:21:21Z",
+  "extracted_at": "2026-04-23T14:23:01Z",
+  "region": "feature-grid",
+  "bbox": [
+    0,
+    2139,
+    1920,
+    433
+  ],
+  "segment_image": "inspiration/symnera-website/segments/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/03-band.png",
+  "raw_screenshot": "inspiration/symnera-website/raw/awwwards-the-industrial-grade-paper-shredder-awww-7a249933/screenshot.png",
+  "pattern_layer": "visual_language",
+  "score": 0.817,
+  "score_breakdown": {
+    "heuristic": 0.767,
+    "vision": 0.85,
+    "weighted": 0.817
+  },
+  "features_heuristic": {
+    "contrast_ratio": 11.273,
+    "edge_density": 0.0485,
+    "color_variance": 76.63,
+    "whitespace_ratio": 0.001,
+    "content_density": 0.999,
+    "aspect": 4.434,
+    "tension": 0.0539,
+    "focal_point": 2.846,
+    "palette_top": [
+      "#F0F0F0",
+      "#101010",
+      "#202020",
+      "#100010",
+      "#000000"
+    ],
+    "low_signal_flags": []
+  },
+  "signals": {
+    "typography": {
+      "scale": "large",
+      "alignment": "left",
+      "density": "normal"
+    },
+    "composition": {
+      "symmetry": "asymmetrical",
+      "dominant": "mixed",
+      "balance": "centered"
+    },
+    "contrast": "high",
+    "rhythm": "loose"
+  },
+  "insight": "The design effectively combines text and images to create a bold yet minimal look, aligning with the brand's industrial and editorial aesthetic.",
+  "avoid": [
+    "glassmorphism",
+    "gradient blobs",
+    "playful illustration heavy"
+  ],
+  "tags": [
+    "editorial",
+    "dark",
+    "grounded",
+    "industrial",
+    "b2b"
+  ]
+}

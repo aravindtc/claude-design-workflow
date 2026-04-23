@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/aravindtc/claude-design-workflow/workflow/inspiration-schema.json",
+  "title": "InspirationBrief",
+  "description": "Brand-level inspiration brief. Drives retrieve_inspiration.py to scrape designer sites and score references against the brand.",
+  "type": "object",
+  "required": ["project", "brand", "aesthetic", "patterns_wanted", "sources"],
+  "properties": {
+    "project": {
+      "type": "string",
+      "description": "Project identifier matching the inspiration/<project>/ folder."
+    },
+    "brand": {
+      "type": "object",
+      "required": ["name", "colors"],
+      "properties": {
+        "name": { "type": "string" },
+        "tagline": { "type": "string" },
+        "industry": {
+          "type": "string",
+          "description": "e.g. 'industrial SaaS', 'B2B platform', 'design agency'."
+        },
+        "colors": {
+          "type": "object",
+          "properties": {
+            "primary": { "type": "string", "description": "Hex, e.g. '#101010'" },
+            "accent": { "type": "string", "description": "Hex, e.g. '#CDF35A'" },
+            "neutral": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "typography": {
+          "type": "object",
+          "properties": {
+            "display": { "type": "string" },
+            "body": { "type": "string" }
+          }
+        }
+      }
+    },
+    "aesthetic": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Short aesthetic tags: 'editorial', 'minimal', 'industrial', 'grounded', 'dark', 'lime-accent', etc. These drive scoring."
+    },
+    "patterns_wanted": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "hero",
+          "feature-grid",
+          "testimonial",
+          "pricing",
+          "cta",
+          "problem-statement",
+          "method-steps",
+          "transition",
+          "footer",
+          "navigation",
+          "case-study",
+          "about",
+          "full-page"
+        ]
+      },
+      "description": "Which section patterns we want inspiration for. Used for pattern-match scoring."
+    },
+    "avoid": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Anti-patterns: 'glassmorphism', 'gradient blobs', 'web3 crypto aesthetic', etc."
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "awwwards",
+          "siteinspire",
+          "land-book",
+          "godly",
+          "httpster",
+          "dribbble",
+          "behance",
+          "mobbin",
+          "open_web"
+        ]
+      },
+      "description": "Priority-ordered list of designer sites to scrape."
+    },
+    "max_candidates_per_source": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 20,
+      "default": 5
+    },
+    "min_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "default": 0.4,
+      "description": "Candidates below this normalized score are discarded."
+    },
+    "approval": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "enum": ["draft", "in_review", "approved", "rejected"],
+          "default": "draft"
+        },
+        "approved_at": { "type": ["string", "null"], "format": "date-time" },
+        "approved_by": { "type": ["string", "null"] },
+        "notes": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

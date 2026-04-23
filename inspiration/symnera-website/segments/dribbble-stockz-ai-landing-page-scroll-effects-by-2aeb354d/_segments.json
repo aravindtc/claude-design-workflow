@@ -1,0 +1,40 @@
+{
+  "candidate_id": "dribbble-stockz-ai-landing-page-scroll-effects-by-2aeb354d",
+  "source": "dribbble",
+  "source_url": "https://dribbble.com/shots/27050364-stockz-ai-Landing-Page-Scroll-Effects",
+  "raw_screenshot": "inspiration/symnera-website/raw/dribbble-stockz-ai-landing-page-scroll-effects-by-2aeb354d/screenshot.png",
+  "segments": [
+    {
+      "index": 0,
+      "name": "hero",
+      "bbox": [
+        0,
+        314,
+        1920,
+        537
+      ],
+      "segment_image": "inspiration/symnera-website/segments/dribbble-stockz-ai-landing-page-scroll-effects-by-2aeb354d/00-hero.png",
+      "heuristic_score": 0.172,
+      "features": {
+        "contrast_ratio": 1.645,
+        "edge_density": 0.042,
+        "color_variance": 47.83,
+        "whitespace_ratio": 0.001,
+        "content_density": 0.999,
+        "aspect": 3.575,
+        "tension": 0.0052,
+        "focal_point": 1.133,
+        "palette_top": [
+          "#F0F0F0",
+          "#20E050",
+          "#00E050",
+          "#90F090",
+          "#B0F090"
+        ],
+        "low_signal_flags": []
+      },
+      "vision": null,
+      "promoted": false
+    }
+  ]
+}
