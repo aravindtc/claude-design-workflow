@@ -1,0 +1,1890 @@
+[
+  {
+    "name": "HUP",
+    "category": "Hotels",
+    "lat": 51.4509576,
+    "lng": 5.6292318,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Sport- en speelhotel met een glijbaan in de lobby. Inclusief gratis toegang tot Monkey Town (indoor speeltuin), een Street Jump park, een eigen bioscoop en interactieve voetbalmuren. Actie gegarandeerd in dit super kidsproof hotel.",
+    "links": []
+  },
+  {
+    "name": "ZAELIG Hotel",
+    "category": "Hotels",
+    "lat": 51.3028101,
+    "lng": 3.2989995,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Kleinschalig boetiekhotel waar 'slow living' centraal staat. Geen schreeuwerige kleuren, wel luxe familiekamers en een heerlijk rustige vibe vlak bij het strand. In de enorme tuin kunnen kids zich uitleven op de trampoline of bij het dierenparkje, terwijl jij aan het verwarmde buitenzwembad ligt. Er is zelfs een zandbak met strandstoelen voor de ouders en een visvijver.",
+    "links": []
+  },
+  {
+    "name": "Upstairs Hotel",
+    "category": "Hotels",
+    "lat": 51.2328575,
+    "lng": 2.9137616,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Hip urban hotel met een rauwe 'New York' vibe en slim ingerichte familiekamers. De absolute eyecatcher is de enorme gele spiraalglijbaan midden in de lobby. Er staan tafelvoetbaltafels in de bar en de hippe sfeer nodigt uit tot ontdekken, midden in de stad en vlak bij het strand.",
+    "links": []
+  },
+  {
+    "name": "De Zes Bochten",
+    "category": "Hotels",
+    "lat": 51.3344268,
+    "lng": 3.2826654,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Kindvriendelijk hotel en restaurant dat volledig gebouwd is rondom het jonge gezin. Beschikt over een legendarische, gigantische binnen- en buitenspeeltuin met aparte veilige zones voor peuters. Terwijl de kinderen veilig spelen, geniet jij op het grote terras van de uitgebreide kaart.",
+    "links": []
+  },
+  {
+    "name": "Marie Siska",
+    "category": "Hotels",
+    "lat": 51.3508162,
+    "lng": 3.3177017,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Iconisch familiehotel met een rijke geschiedenis en klassieke kamers. Wereldberoemd om de hartvormige wafels en de immense speeltuin met doolhof en minigolf. Gasten van het hotel hebben 's ochtends al exclusief toegang tot de reuze speeltuin; een echte traditie aan de kust.",
+    "links": []
+  },
+  {
+    "name": "Van der Valk Hotel Lelystad",
+    "category": "Hotels",
+    "lat": 52.4824129,
+    "lng": 5.5032626,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Modern familiehotel met speciale luxe suites die beschikken over een aparte kinderkamer met stapelbed, eigen tv en zelfs een glijbaan in de kamer. Er is een binnenzwembad, een speelhoek bij het restaurant en de ligging is perfect voor Batavialand.",
+    "links": []
+  },
+  {
+    "name": "GuestHouse Hotel Kaatsheuvel",
+    "category": "Hotels",
+    "lat": 51.6569943,
+    "lng": 5.0404958,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Super informeel hotel op loopafstand van de Efteling. Beschikt over unieke kamers met bedstee-opstellingen (leuk voor de kids!) en een geweldige daktuin vol speeltoestellen, airhockey en zitjes. Een plek waar kinderen écht kind mogen zijn en ouders in de lounge kunnen relaxen.",
+    "links": []
+  },
+  {
+    "name": "Badhotel Rockanje & Brasserie Lodgers",
+    "category": "Hotels",
+    "lat": 51.877239,
+    "lng": 4.0542282,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Sfeervol duinhotel met een gezellige 'beach lodge' vibe. Er is een buitenzwembad, een stoere houten speeltuin in boomhut-stijl en een fijne speelhoek in het restaurant waar kids na het eten mogen grabbelen.",
+    "links": []
+  },
+  {
+    "name": "Hotel Zuiderduin",
+    "category": "Hotels",
+    "lat": 52.6163936,
+    "lng": 4.6251336,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Groot strandhotel direct achter de duinen. Ideaal bij minder weer dankzij het enorme indoor speelparadijs \"Wally de Walvis\", de bowlingbanen en het binnenzwembad. Het strand ligt op een steenworp afstand.",
+    "links": []
+  },
+  {
+    "name": "B&B Hotel",
+    "category": "Hotels",
+    "lat": 50.8281169,
+    "lng": 4.3648727,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Modern budgethotel met ruime, nuchtere familiekamers. Er is een gezellige speelzaal met bordspellen en een binnentuin waar de kinderen even kunnen uitblazen. Een ideale, betaalbare uitvalsbasis voor een Brusselse citytrip.",
+    "links": []
+  },
+  {
+    "name": "Hotel de Blanke Top",
+    "category": "Hotels",
+    "lat": 51.3813039,
+    "lng": 3.3981814,
+    "price_tier": "exclusive",
+    "icon_num": 3,
+    "description": "Luxe designhotel op een duin met verfijnde suites. Voor de kinderen is er de stijlvolle \"Bobbie’s Kidsroom\", een apart kinderbad in de luxe spa en directe toegang tot het strand. Absolute topklasse voor ouders die van luxe en gastronomie houden zonder de kids uit het oog te verliezen.",
+    "links": []
+  },
+  {
+    "name": "Havezate Marveld",
+    "category": "Hotels",
+    "lat": 52.0352249,
+    "lng": 6.6309085,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Luxe appartementencomplex op een groter vakantiepark. Je hebt de rust en luxe van een hotelappartement, maar mag gebruikmaken van alle parkfaciliteiten: een spectaculair zwemparadijs met glijbanen, een kinderboerderij en uitgebreide animatie. Je kan er ook in bungalows slapen.",
+    "links": []
+  },
+  {
+    "name": "Hotel Jerom Kalmthout",
+    "category": "Hotels",
+    "lat": 51.3772398,
+    "lng": 4.4491858,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Designhotel met een warme, familiale sfeer vlak naast de Kalmthoutse Heide. Je verblijft in strakke maar gezellige kamers; de familiekamers hebben slimme stapelbedden voor de kids. Na het ontbijt loop je zo het bos in voor een wandeling door het zand of een bezoek aan het nabijgelegen Suske en Wiske Museum.",
+    "links": []
+  },
+  {
+    "name": "Hotel Bries Den Haag Scheveningen",
+    "category": "Hotels",
+    "lat": 52.0958443,
+    "lng": 4.2740188,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Kleinschalig hotel waar je in luxe familiekamers slaapt op loopafstand van het strand van Scheveningen. Het is de perfecte mix tussen een hippe citytrip en uitwaaien aan zee, met de tram voor de deur die je zo naar Madurodam of het Omniversum brengt.",
+    "links": []
+  },
+  {
+    "name": "Preston Palace",
+    "category": "Hotels",
+    "lat": 52.3517062,
+    "lng": 6.679198,
+    "price_tier": "exclusive",
+    "icon_num": 3,
+    "description": "All-in familiehotel waar echt alles onder één dak zit: van een tropisch zwemparadijs en een indoor kermis tot een bioscoop en diverse restaurants. De kamers zijn functioneel, maar je bent hier vooral voor de non-stop actie en het feit dat je je portemonnee niet meer hoeft te trekken voor ijsjes of activiteiten.",
+    "links": []
+  },
+  {
+    "name": "Fletcher Hotel-Restaurant ByZoo Emmen",
+    "category": "Hotels",
+    "lat": 52.781337,
+    "lng": 6.8924316,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Themahotel pal tegenover Wildlands Adventure Zoo. Je slaapt in hippe familiekamers met een industrieel tintje en de kids kunnen zich uitleven in de speelruimte of op het dakterras. Na het ontbijt loop je in twee minuten de dierentuin in, of ontdek je de hunebedden in de bosrijke omgeving van Emmen.",
+    "links": []
+  },
+  {
+    "name": "Ostend Hotel",
+    "category": "Hotels",
+    "lat": 51.234395,
+    "lng": 2.919729,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Familiehotel in het hart van de stad, volledig ingesteld op kinderen met een grote binnenspeelruimte en een speciaal kinderbuffet. De kamers zijn ruim en praktisch, ideaal na een dagje uitwaaien op de zeedijk die slechts een paar honderd meter verderop ligt.",
+    "links": []
+  },
+  {
+    "name": "Fletcher Hotel-Restaurant Marknesse",
+    "category": "Hotels",
+    "lat": 52.676757,
+    "lng": 5.919688,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Modern hotel in de Noordoostpolder, vaak een slimme budgettip voor gezinnen. Het hotel heeft een informele sfeer en is de perfecte uitvalsbasis voor een bezoek aan het nabijgelegen Netl de Wildste Tuin (modder-speelparadijs) of de Orchideeën Hoeve.",
+    "links": []
+  },
+  {
+    "name": "ibis Styles Nieuwpoort",
+    "category": "Hotels",
+    "lat": 51.1293467,
+    "lng": 2.7665885,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Designhotel dat verrassend kidsproof is met moderne familiekamers (vaak met stapelbed). Je geniet van het binnenzwembad en de wellness, terwijl de kids zich vermaken in de speelhoek. Het ligt op een rustige plek, maar met de kusttram voor de deur ben je zo op het strand of bij de havengeul.\n\nFris en modern hotel nabij de jachthaven van Nieuwpoort in België met vrolijk ingerichte kamers. Er is een binnenzwembad en speelhoek voor kids, en de kusttram brengt je vlot naar Plopsaland.",
+    "links": []
+  },
+  {
+    "name": "Hotel Stayen",
+    "category": "Hotels",
+    "lat": 50.8142141,
+    "lng": 5.166648,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Uniek stadionhotel waar je letterlijk in het voetbalstadion van STVV slaapt. Sommige kamers kijken direct uit op het veld! Er is een zwembad en een binnenspeeltuin aanwezig op de site. Een droom voor kleine voetbalfans, met de bloesems van Haspengouw als prachtige achtertuin voor een fietstocht.",
+    "links": []
+  },
+  {
+    "name": "Van der Valk Hotel Tilburg",
+    "category": "Hotels",
+    "lat": 51.5433948,
+    "lng": 5.1114759,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Luxe hotel met ruime familiekamers en een binnenzwembad op een gunstige locatie nabij de stad. Het hotel biedt uitstekende faciliteiten voor gezinnen en de Beekse Bergen liggen op slechts 15 minuten rijden.",
+    "links": []
+  },
+  {
+    "name": "C-Hotels Zeegalm",
+    "category": "Hotels",
+    "lat": 51.1743164,
+    "lng": 2.7899643,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Hotel in de duinen met kamers en studio's en een natuurlijke zwemvijver op het terrein. De omgeving is rustig en autovrij, ideaal voor veilige strandwandelingen met kinderen tussen Westende en Middelkerke.",
+    "links": []
+  },
+  {
+    "name": "The CORNR Hotel",
+    "category": "Hotels",
+    "lat": 51.1493244,
+    "lng": 2.7220727,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Familiaal hotel in het centrum van Nieuwpoort met praktische familiekamers en persoonlijke service. Het biedt een uitgebreid ontbijt en ligt op loopafstand van de winkels en de havengeul.",
+    "links": []
+  },
+  {
+    "name": "Sandeshoved",
+    "category": "Hotels",
+    "lat": 51.1488971,
+    "lng": 2.7166515,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Klassiek vakantiehotel dat pal aan de zeedijk van Nieuwpoort-Bad ligt met direct zicht op zee. Het beschikt over diverse kamertypes en appartementen voor een zorgeloos verblijf direct aan het strand.",
+    "links": []
+  },
+  {
+    "name": "Parkhotel",
+    "category": "Hotels",
+    "lat": 51.0997366,
+    "lng": 2.5883747,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Charmant hotel in een historisch pand met een grote tuin en familiale sfeer nabij strand en bos. De ligging in een rustige wijk is erg kidsproof en Plopsaland De Panne ligt op een steenworp afstand.",
+    "links": []
+  },
+  {
+    "name": "Hotel De Boskar PELT",
+    "category": "Hotels",
+    "lat": 51.2133598,
+    "lng": 5.423255,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Sfeervol hotel in het hart van Peer met comfortabele kamers en een warme inrichting voor gezinnen. Het is een goede uitvalsbasis voor actieve gezinnen met Snow Valley en diverse wandelpaden in de buurt.",
+    "links": []
+  },
+  {
+    "name": "Van der Valk Hotel Gilze-Tilburg",
+    "category": "Hotels",
+    "lat": 51.5533223,
+    "lng": 4.9444005,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Veelzijdig hotel met unieke familiekamers en een uitgebreid wellnesscentrum met binnenzwembad. Er is een speciale kinderkamer en de Efteling is vanuit dit hotel vlot bereikbaar voor een dagje uit.",
+    "links": []
+  },
+  {
+    "name": "Corendon Amsterdam Schiphol Airport, a Tribute Portfolio Hotel",
+    "category": "Hotels",
+    "lat": 52.3289726,
+    "lng": 4.7856871,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Groot hotel met een echte Boeing 747 in de tuin waar kinderen een tour kunnen krijgen. Het beschikt over een binnenzwembad en bioscoop, en met de shuttlebus ben je zo op Schiphol of in Amsterdam.",
+    "links": []
+  },
+  {
+    "name": "Aparthotel Delden",
+    "category": "Hotels",
+    "lat": 52.2562668,
+    "lng": 6.7296862,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Familiehotel in Twente met zwembad, bowling en indoor speelfaciliteiten in een groene omgeving. Het biedt de ruimte van een appartement met de service van een hotel nabij kasteel Twickel.",
+    "links": []
+  },
+  {
+    "name": "WestCord Strandhotel Seeduyn",
+    "category": "Hotels",
+    "lat": 53.3035863,
+    "lng": 5.0521643,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Hotel direct aan het Noordzeestrand van het autovrije Vlieland met een heerlijk binnenzwembad. Je wandelt vanuit het hotel zo de duinen in voor een ontspannen eilandvakantie met het hele gezin.",
+    "links": []
+  },
+  {
+    "name": "Hotel de Hoeve van Nunspeet",
+    "category": "Hotels",
+    "lat": 52.3674808,
+    "lng": 5.7826549,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "",
+    "links": []
+  },
+  {
+    "name": "Hotel 't Paviljoen",
+    "category": "Hotels",
+    "lat": 51.9559578,
+    "lng": 5.5895018,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Gastvrij hotel dat direct naast Ouwehands Dierenpark op de Grebbeberg ligt. Het beschikt over ruime familiekamers en je wandelt in enkele minuten naar de reuzenpanda's in de dierentuin.",
+    "links": []
+  },
+  {
+    "name": "Hotel de Kroon",
+    "category": "Hotels",
+    "lat": 51.6565818,
+    "lng": 5.0410161,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Echt familiehotel op loopafstand van de hoofdingang van de Efteling met praktische kamers. Er is een leuke speelhoek voor de kids in de lounge, wat het een ideale basis maakt voor een pretparkweekend",
+    "links": []
+  },
+  {
+    "name": "Hotel Restaurant Bowling De Oringer Marke & Stee",
+    "category": "Hotels",
+    "lat": 52.8509485,
+    "lng": 6.8467717,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Gezellig hotel in Drenthe met een bowlingbaan en sfeervol terras nabij de hunebedden. Het is een prima startpunt voor fietstochten, met Wildlands in Emmen op slechts 15 minuten rijden.",
+    "links": []
+  },
+  {
+    "name": "Alpine Hotel Landgraaf",
+    "category": "Hotels",
+    "lat": 50.8743248,
+    "lng": 6.0200486,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Uniek hotel waar je in wintersfeer overnacht direct aan de grootste indoor skibaan van Europa. Naast skiën kun je gebruik maken van het klimpark en de rodelbaan op het terrein in Zuid-Limburg.",
+    "links": []
+  },
+  {
+    "name": "blooming hotel",
+    "category": "Hotels",
+    "lat": 52.6820068,
+    "lng": 4.6961579,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Trendy hotel verscholen in de duinen en bossen van Bergen met een heerlijk binnenzwembad. Voor kinderen zijn er creatieve speelhoeken en ze kunnen eindeloos struinen in de omringende natuur nabij zee.",
+    "links": []
+  },
+  {
+    "name": "The Hoxton, Lloyd Amsterdam",
+    "category": "Hotels",
+    "lat": 52.3742414,
+    "lng": 4.9346601,
+    "price_tier": "average",
+    "icon_num": 2,
+    "description": "Iconisch hotel in een historisch gebouw met origineel ingerichte kamers in het Oostelijk Havengebied. De kamers zijn vaak erg ruim en een ontdekkingstocht voor kids, nabij het NEMO Science Museum.",
+    "links": []
+  },
+  {
+    "name": "Berghotel Vue",
+    "category": "Hotels",
+    "lat": 50.8676089,
+    "lng": 5.7888036,
+    "price_tier": "luxe",
+    "icon_num": 1,
+    "description": "Modern hotel midden in de natuur van het Limburgse heuvelland met een leuke natuurspeeltuin. De sfeer is informeel en hartelijk voor gezinnen, met Valkenburg en Maastricht op korte afstand.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Apeldoorn",
+    "category": "Hostels & budgetproof",
+    "lat": 52.2075903,
+    "lng": 5.9255789,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Bosrijk hostel met een grote eigen tuin, tafeltennis en een leuke speelhoek. Omdat dit hostel wat meer op groepen en scholen is gericht, zijn hun prijzen vaak lager dan die aan de kust. In het laagseizoen kun je hier soms voor een heel scherpe prijs terecht. Ideaal als uitvalsbasis voor de Apenheul.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Texel",
+    "category": "Hostels & budgetproof",
+    "lat": 53.0495821,
+    "lng": 4.8024838,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Modern familiehostel op Texel. Je slaapt in een eigen familiekamer met eigen sanitair. Er is een fantastische speeltuin buiten en een binnenspeelkamer. De sfeer is super losjes en zeer kidsproof.",
+    "links": []
+  },
+  {
+    "name": "Hi Flanders Oostduinkerke - Hostel De Peerdevisser",
+    "category": "Hostels & budgetproof",
+    "lat": 51.1274006,
+    "lng": 2.6825873,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Budgettopper aan de kust. Informele jeugdherberg met een grote afgesloten speeltuin en een heel ongedwongen sfeer. De locatie vlak bij het strand is onverslaanbaar voor deze prijs.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Rotterdam",
+    "category": "Hostels & budgetproof",
+    "lat": 51.9201635,
+    "lng": 4.4907317,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Hostel in de beroemde Kubuswoningen van Piet Blom. Slapen in een schuine paalwoning is een architecturaal avontuur; geen muur is recht! Er zijn speciale familiekamers met stapelbedden. Hoewel er geen klassieke speeltuin is, is de woning zelf één groot ontdekparadijs en sta je midden in de stad bij de Markthal en de Oude Haven. Een betaalbare en iconische ervaring voor stadskinderen.",
+    "links": []
+  },
+  {
+    "name": "Sier aan Zee",
+    "category": "Hostels & budgetproof",
+    "lat": 53.4480727,
+    "lng": 5.6206006,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Modern familiehostel in de duinen, gevestigd in een uniek rond gebouw met een groot speelveld in het midden. Je slaapt in privékamers met eigen sanitair en de kids kunnen veilig buiten spelen op de speeltoestellen of bij de tafeltennistafels. Het strand ligt op een paar minuten lopen en het gezellige dorpje Nes is vlakbij.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Dordrecht",
+    "category": "Hostels & budgetproof",
+    "lat": 51.8103904,
+    "lng": 4.7513732,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Natuurhostel aan de rand van de Biesbosch. Recent volledig gerenoveerd en super modern. Je loopt vanuit het hostel zo de natuur in om bevers te spotten of te gaan varen. Er is een fijne speeltuin met uitzicht over het water en je kunt er ook in een Wikkelhouse slapen. Perfect voor gezinnen die rust en buitenlucht zoeken voor een scherpe prijs.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Utrecht Centrum",
+    "category": "Hostels & budgetproof",
+    "lat": 52.0934463,
+    "lng": 5.1189919,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Stadshostel met de Nijntje-kamer. Midden op de Neude in Utrecht. Ze hebben hier kamers die volledig in thema zijn ingericht (Nijntje of het Spoorwegmuseum). Hoewel het midden in de stad is, is het hostel zeer ingesteld op gezinnen met speelhoeken en een kinderlijk menu. Ideaal voor een culturele citytrip.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Den Haag",
+    "category": "Hostels & budgetproof",
+    "lat": 52.0725729,
+    "lng": 4.3251802,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Stadshostel gevestigd in een prachtig historisch pand aan de gracht. Je verblijft in eenvoudige privékamers; de kids vinden de speelhoek en de centrale lounge met spelletjes fantastisch. Vanaf hier pak je zo de tram naar Scheveningen of Madurodam voor een dagje stad en strand.",
+    "links": []
+  },
+  {
+    "name": "Hi Flanders Gent - Hostel De Draecke",
+    "category": "Hostels & budgetproof",
+    "lat": 51.0579142,
+    "lng": 3.71933,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Stadshostel op een toplocatie midden in het centrum van Gent. Een ideale plek voor een budgetvriendelijke citytrip waarbij de kids zich kunnen wanen als ridders in het Gravensteen dat om de hoek ligt. De kamers zijn sober maar schoon, met een gezellige bar voor een drankje 's avonds.\n\nModern hostel in het historische hart van Gent met ruime privékamers speciaal voor gezinnen. Op wandelafstand ligt de burcht 'Het Gravensteen', wat een absolute hit is voor kleine ridders en prinsessen.",
+    "links": []
+  },
+  {
+    "name": "Hi Flanders Bokrijk - Jeugdherberg De Roerdomp",
+    "category": "Hostels & budgetproof",
+    "lat": 50.9754716,
+    "lng": 5.4250118,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Groen hostel op het domein van Bokrijk met eenvoudige privékamers en directe toegang tot een enorme buitenspeeltuin. Het is de perfecte uitvalsbasis voor 'Fietsen door het Water' en een bezoek aan het Openluchtmuseum.",
+    "links": []
+  },
+  {
+    "name": "Hi Flanders Westerlo - Jeugdherberg Boswachtershuis",
+    "category": "Hostels & budgetproof",
+    "lat": 51.0920639,
+    "lng": 4.9070015,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Gemoedelijk hostel in een oud boswachtershuis in de bossen van Westerlo met een grote speeltuin. Ouders kunnen ontspannen op het terras terwijl de kids ravotten in het omliggende bos nabij de Abdij van Tongerlo.",
+    "links": []
+  },
+  {
+    "name": "Hi Flanders De Haan - Hostel Dunepanne",
+    "category": "Hostels & budgetproof",
+    "lat": 51.2746115,
+    "lng": 3.0332547,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Gastvrij hostel aan de rand van de duinbossen van de charmante badplaats De Haan. Het biedt functionele familiekamers op loopafstand van het strand en de kusttram voor uitstapjes aan zee.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Heemskerk (Slot Assumburg)",
+    "category": "Hostels & budgetproof",
+    "lat": 52.5052176,
+    "lng": 4.6850683,
+    "price_tier": "average",
+    "icon_num": 4,
+    "description": "Uniek hostel in een echt 13e-eeuws kasteel met slotgracht en kasteeltuinen nabij het strand. Kinderen wanen zich ridders of prinsessen in de authentieke kamers en gangen van dit bijzondere gebouw.",
+    "links": []
+  },
+  {
+    "name": "Vakantiedomein Ter Helme",
+    "category": "Vakantiecentra",
+    "lat": 51.138156,
+    "lng": 2.708496,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Familiecentrum en hotel midden in de duinen met comfortabele kamers, appartementen en studio's. Voor de kids is er een reusachtige duinspeeltuin, sportvelden en een binnenspeelhoek. Super ongedwongen sfeer met directe toegang tot het strand; ideaal voor wie ruimte, buitenlucht en bolderkar-avonturen zoekt.",
+    "links": []
+  },
+  {
+    "name": "Vayamundo Oostende",
+    "category": "Vakantiecentra",
+    "lat": 51.2127462,
+    "lng": 2.8720106,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Grootschalig vakantiedomein aan de zeedijk. Dit is de echte vakantieclub-ervaring: een bruisende plek met een enorm binnenspeeldorp, eigen zwembad en een professioneel animatieteam (disco, lasershooting). Je vindt er zowel hotelkamers als appartementen en kunt kiezen voor uitgebreide all-in buffetten.",
+    "links": []
+  },
+  {
+    "name": "Floreal Nieuwpoort",
+    "category": "Vakantiecentra",
+    "lat": 51.148701,
+    "lng": 2.7247413,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Vakantiedomein met hotelservice en praktische appartementen. Het zwembad heeft een grote glijbaan en organiseert op woensdag en zaterdag \"ravotmiddagen\" met opblaasbare stormbanen. Verder zijn er uitgebreide sportterreinen, minigolf en een grote buitenspeeltuin.",
+    "links": []
+  },
+  {
+    "name": "Vayamundo Houffalize",
+    "category": "Vakantiecentra",
+    "lat": 50.131981,
+    "lng": 5.796997,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Grootschalig familiehotel midden in de Ardense bossen, aan de oevers van de Ourthe. Dit is een paradijs voor actieve gezinnen: het beschikt over een groot binnenzwembad met stroomversnellingen en een indrukwekkend indoor speelparadijs van meerdere verdiepingen. Buiten kun je direct op avontuur (wandelen, mountainbiken), en na afloop schuif je aan bij de uitgebreide buffetten. De sfeer is zeer informeel en volledig gericht op kinderen die energie te veel hebben.",
+    "links": []
+  },
+  {
+    "name": "Vakantiecentrum Reigersnest",
+    "category": "Vakantiecentra",
+    "lat": 51.1096833,
+    "lng": 2.6203917,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Vakantiecentrum dat volledig is ingericht op gezinnen, met ruime appartementen en studio's midden in de duinen. Er zijn verschillende binnen- en buitenspeeltuinen voor alle leeftijden en een enthousiast animatieteam tijdens de vakanties. Je wandelt vanaf het domein zo het strand op voor een dagje zandkastelen bouwen.",
+    "links": []
+  },
+  {
+    "name": "Vakantiecentrum De Bosberg",
+    "category": "Vakantiecentra",
+    "lat": 51.025666,
+    "lng": 5.4343384,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Vakantiedomein in de Limburgse bossen met eenvoudige bungalows. Er is een buitenspeeltuin, een sportveld en een gezellig terras. Directe toegang tot het fietsroutenetwerk. Op loopafstand vind je Domein Kelchterhoef met zijn grote zwemvijver en avontuurlijke wandelpaden.",
+    "links": []
+  },
+  {
+    "name": "Floreal Blankenberge",
+    "category": "Vakantiecentra",
+    "lat": 51.3176177,
+    "lng": 3.1482587,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Vakantiecentrum met studio's en appartementen nabij de haven en het brede strand. Er zijn sportvelden en animatieprogramma's, en de bekende Pier van Blankenberge is op loopafstand.",
+    "links": []
+  },
+  {
+    "name": "Domein Westhoek vzw",
+    "category": "Vakantiecentra",
+    "lat": 51.1365674,
+    "lng": 2.7049285,
+    "price_tier": "luxe",
+    "icon_num": 6,
+    "description": "Vakantiedomein in de duinen met hotelkamers, appartementen en een binnenzwembad voor gezinnen. Het ligt op wandelafstand van de zee waar je de bekende garnaalvissers te paard kunt zien.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites Nieuwpoort",
+    "category": "Vakantiecentra",
+    "lat": 51.1291315,
+    "lng": 2.7666859,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Moderne vakantieappartementen nabij de jachthaven met een eigen binnenzwembad voor de gasten. De suites zijn slim ingericht voor gezinnen en bieden alle comfort nabij de winkels van de stad.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites Westende",
+    "category": "Vakantiecentra",
+    "lat": 51.159073,
+    "lng": 2.7622455,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Frisse appartementen op korte wandelafstand van de zeedijk met een speeltuintje voor de deur. De gemoedelijke sfeer past perfect bij een gezinsuitstap aan de rustige Belgische kust.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites Blankenberge",
+    "category": "Vakantiecentra",
+    "lat": 51.3152606,
+    "lng": 3.1239525,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Appartementen pal aan de zeedijk nabij de Pier voor gezinnen die midden in de actie willen zitten. Je bevindt je nabij alle toeristische attracties zoals Sea Life en het strand.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites Zeebrugge",
+    "category": "Vakantiecentra",
+    "lat": 51.3283584,
+    "lng": 3.2021796,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Appartementen met uitzicht op de haven die beschikken over een fijn buitenzwembad op het terrein. Het is een rustiger alternatief aan de kust met Brugge op slechts 15 minuten rijden.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites De Haan",
+    "category": "Vakantiecentra",
+    "lat": 51.2697162,
+    "lng": 3.0263644,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Appartementen verscholen tussen de bossen en duinen van deze pittoreske en authentieke badplaats. De omgeving is ideaal voor rustige wandelingen en fietstochten met het hele gezin.",
+    "links": []
+  },
+  {
+    "name": "Holiday Suites Jabbeke Klein Strand",
+    "category": "Vakantiecentra",
+    "lat": 51.1858196,
+    "lng": 3.1037525,
+    "price_tier": "average",
+    "icon_num": 5,
+    "description": "Vakantieverblijven bij recreatiedomein Klein Strand met een grote zwemvijver en glijbanen. Kinderen kunnen hier de hele dag in het water en op het zandstrand spelen nabij Brugge.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs Erperheide",
+    "category": "Vakantieparken",
+    "lat": 51.1266266,
+    "lng": 5.5056135,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Kindgericht vakantiepark midden in het bos met vernieuwde cottages. Dit park is een paradijs voor de kleinsten dankzij de enorme BALUBA binnenspeelwereld (met schuimkanonnen en klimtoestellen) en de Aqua Mundo met een prachtig Aziatisch vissersdorp-thema en waterspeeltuin. Buiten vind je de Kinderboerderij waar kids de verzorgers mogen helpen en een spectaculaire Adventure Golf. Alles is hier ingericht op maximale speelvrijheid in een autovrije, groene omgeving.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs De Vossemeren",
+    "category": "Vakantieparken",
+    "lat": 51.2557018,
+    "lng": 5.326855,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Actiegericht park met de indrukwekkende Discovery Bay: een enorme indoor piratenwereld met schepen en waterlopen. De Aqua Mundo heeft een koraalbad waar je tussen de vissen kunt snorkelen. Ideaal voor iets oudere kinderen die van avontuur en water houden.",
+    "links": []
+  },
+  {
+    "name": "Familie Resort Molenwaard",
+    "category": "Vakantieparken",
+    "lat": 51.8719793,
+    "lng": 4.8602348,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Thematisch vakantiepark volledig in het teken van Fien & Teun. Kinderen ontdekken op een speelse manier het boerenleven, halen hun boerderijdiploma en mogen knuffelen met de dieren. Elk huisje heeft een eigen bolderkar en er is een grote binnenspeelschuur. Puur Hollands vermaak.",
+    "links": []
+  },
+  {
+    "name": "Strandpark de Zeeuwse Kust",
+    "category": "Vakantieparken",
+    "lat": 51.737083,
+    "lng": 3.8037709,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Familiehotel op een resort op slechts 250 meter van het strand. Alles is op maat van kinderen: van de hippe kindersuites tot het gave indoor spraypark (waterspeeltuin) en de enorme houten buitenspeeltuin in de vorm van een schip. Luxe kamperen of hotelcomfort met alle parkfaciliteiten.",
+    "links": []
+  },
+  {
+    "name": "Hof van Saksen",
+    "category": "Vakantieparken",
+    "lat": 52.9678605,
+    "lng": 6.6809568,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Hét paradepaardje van Landal. Geen gewone huisjes, maar prachtige Saksische boerderijen. De echte trekpleister is het zwemparadijs met de grootste indoor waterglijbanen ter wereld (de Bombo is legendarisch). Voor de kids zijn er diverse 'Academies' (archeologie, mode, techniek) waar ze echt iets leren, naast een enorme indoorspeeltuin en trampolinepark. Luxe en topvermaak gecombineerd.",
+    "links": []
+  },
+  {
+    "name": "Recreatiepark TerSpegelt",
+    "category": "Vakantieparken",
+    "lat": 51.3375,
+    "lng": 5.2933333,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Grootschalig recreatiepark met een enorm aanbod aan accommodaties, van stoere WaterLodges tot luxe bosvilla's. De absolute trekpleister is het 'SterrenStrand': een uniek overdekt zand- en waterspeelparadijs met klimtoestellen en een ondergronds doolhof, waardoor kids altijd kunnen spelen, ongeacht het weer. Daarnaast zijn er drie recreatieplassen (om te zwemmen, surfen of vissen), een spectaculaire pomptrackbaan en een uitgebreid recreatieprogramma voor alle leeftijden. Gelegen in de prachtige Brabantse Kempen. Ontdek de kabouterpaden in het omliggende bos, breng een bezoek aan de abdij van Postel net over de grens, of ga een dagje naar de Efteling (ca. 45 min rijden).",
+    "links": []
+  },
+  {
+    "name": "Landal Het Land van Bartje",
+    "category": "Vakantieparken",
+    "lat": 52.9079499,
+    "lng": 6.8129835,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Dé plek voor paardengekken. Dit park heeft een eigen ponyranch waar kinderen kunnen leren rijden en verzorgen. Daarnaast is er een grote binnenspeeltuin en een zwembad met een dak dat open kan bij mooi weer. Bartje de beer is hier de grote held. Zeer populair bij gezinnen met jonge kinderen die van dieren en buitenlucht houden.",
+    "links": []
+  },
+  {
+    "name": "Landal Coldenhove",
+    "category": "Vakantieparken",
+    "lat": 52.0920887,
+    "lng": 6.0334702,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Midden in het bos op de Veluwe. Hier lopen de eekhoorntjes letterlijk over je terras. Het park heeft een zeer grote binnenspeeltuin, een overdekt zwembad en een gave vlindertuin. De combinatie van de rust van het bos en de enorme hoeveelheid speelfaciliteiten maakt dit een absolute favoriet voor jonge ontdekkers.",
+    "links": []
+  },
+  {
+    "name": "Dormio Resort Maastricht",
+    "category": "Vakantieparken",
+    "lat": 50.8550189,
+    "lng": 5.6451786,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Stijlvol en luxe resort op een steenworp van het Vrijthof. Geen standaard park, maar een 'dorp' met prachtige huizen. Voor de kinderen is er het Kidskwartier (huisjes rond een gedeelde binnentuin met speeltoestellen), een prachtig binnenzwembad en de Mio Kids Club. Ideaal voor ouders die een citytrip Maastricht willen combineren met de luxe en speelfaciliteiten van een topresort.",
+    "links": []
+  },
+  {
+    "name": "Landal Beach Resort Nieuwvliet-Bad",
+    "category": "Vakantieparken",
+    "lat": 51.3826821,
+    "lng": 3.4396987,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Modern en hip resort met prachtige nieuwe lodges op loopafstand van het strand van Zeeuws-Vlaanderen. Het zwemparadijs is gloednieuw en heeft drie glijbanen. De centrale 'Market Dome' sfeer is hier modern en licht. Perfect voor gezinnen die van de Zeeuwse kust houden maar wel luxe en moderne faciliteiten willen.",
+    "links": []
+  },
+  {
+    "name": "Landal Orveltermarke",
+    "category": "Vakantieparken",
+    "lat": 52.8342927,
+    "lng": 6.6670342,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Natuurpark met een prachtig avonturenpad en een natuurlijk speelven. Het heeft een technisch leer- en speelatelier voor kids en een binnenzwembad. De sfeer is rustig en authentiek Drents, maar met meer dan genoeg actie voor ontdekkers.",
+    "links": []
+  },
+  {
+    "name": "Recreatiepark de Leistert",
+    "category": "Vakantieparken",
+    "lat": 51.2747505,
+    "lng": 5.9313582,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Veelzijdig vijfsterrenpark met een unieke keuze tussen moderne bungalows in het 'Buitenhof' of kleurrijke vakantiehuizen in Limburgse boerderijstijl. De faciliteiten zijn ongeëvenaard: een enorm subtropisch zwemparadijs, een grote indoor speelwildernis, een roeivijver met dagstrand en een avontuurlijk fietscross-parcours. De sfeer is ruim opgezet en kindvriendelijk tot in de kleinste details, van de aanwezigheid van mascotte Pien tot de uitgebreide animatie. Ideaal voor gezinnen die alles op één plek willen hebben, maar wel in een sfeervolle, groene omgeving.",
+    "links": []
+  },
+  {
+    "name": "Vakantiepark Beerze Bulten",
+    "category": "Vakantieparken",
+    "lat": 52.5116509,
+    "lng": 6.5455024,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Iconisch familiepark midden in de Overijsselse Vechtstreek. Bekend om het Giga Konijnenhol: een gigantisch ondergronds speelparadijs waar de show van mascotte Bultje centraal staat. Er is een prachtig binnen- en buitenzwembad met avontuurlijke glijbanen, een wellness voor de ouders en een enorm klimpark buiten. Je logeert er in luxe lodges of unieke 'Youpi Lodges' direct in het bos. Een plek waar natuur en top-entertainment voor kinderen naadloos in elkaar overgaan.",
+    "links": []
+  },
+  {
+    "name": "Marveld Recreatie",
+    "category": "Vakantieparken",
+    "lat": 52.036869,
+    "lng": 6.6320801,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Vakantiepark met een enorme keuze uit bungalows en luxe wellness-huisjes in de Achterhoekse natuur. Het is een waar kinderparadijs dankzij het grote subtropische zwemparadijs met spectaculaire glijbanen, de indoor speelhal en de vele buiten-speeltuinen. Ouders genieten van de rust en goede horeca, terwijl de kids de omgeving kunnen ontdekken in de historische vestingstad Groenlo of tijdens een ritje met de nostalgische stoomtrein van de MBS in de buurt.",
+    "links": []
+  },
+  {
+    "name": "Landal Rabbit Hill",
+    "category": "Vakantieparken",
+    "lat": 52.2184692,
+    "lng": 5.7864004,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Vakantiepark verscholen in de bossen van de Veluwe, waar de konijnen letterlijk rond je bungalow huppelen. Het park heeft een groot binnenzwembad, een enorme indoorspeeltuin en een openluchttheater waar de kids de hele middag zoet zijn. In de omgeving liggen de Apenheul en Paleis Het Loo op een steenworp afstand.",
+    "links": []
+  },
+  {
+    "name": "Terhills Resort by Center Parcs",
+    "category": "Vakantieparken",
+    "lat": 51.007443,
+    "lng": 5.68852,
+    "price_tier": "exclusive",
+    "icon_num": 9,
+    "description": "High-end luxe resort met een serene, stijlvolle sfeer aan de rand van Nationaal Park Hoge Kempen. De cottages zijn prachtig modern ingericht en liggen bijna allemaal aan het water. Voor de kids is er een elegante indoor 'Little Farm' speeltuin, een prachtig overloopzwembad en de mogelijkheid om met een elektrisch bootje het meer op te gaan. Een plek waar design en natuurbeleving hand in hand gaan, zonder de drukte van een traditioneel park.",
+    "links": []
+  },
+  {
+    "name": "Landal De Lommerbergen",
+    "category": "Vakantieparken",
+    "lat": 51.2801452,
+    "lng": 6.0541115,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Bruisend gezinspark met een focus op non-stop speelplezier. Dit is een van de meest uitgebreide Landal-parken met een groot subtropisch zwemparadijs (inclusief spectaculaire glijbanen en kids junglepool), een enorme indoor speelplaats en een tof avontureneiland buiten. De sfeer is heel levendig en informeel, met een actief animatieteam en volop kinderboerderij-pret. Echt een park waar kinderen de baas zijn.",
+    "links": []
+  },
+  {
+    "name": "de Gorishoekse Hoeve",
+    "category": "Vakantieparken",
+    "lat": 51.5347837,
+    "lng": 4.0797811,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Gezellig familiepark en camping gelegen aan de Oosterschelde. Het ademt een gemoedelijke, Zeeuwse sfeer met comfortabele vakantiewoningen en lodges. Voor de kids is er een heerlijk buitenzwembad, een grote buitenspeeltuin en een superleuke indoor speelzolder voor mindere dagen. Het animatieteam is erg betrokken en organiseert veel buitenactiviteiten. Een toplocatie voor gezinnen die houden van krabbetjes vangen, fietsen en ongedwongen vakantieplezier.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs Les Ardennes",
+    "category": "Vakantieparken",
+    "lat": 50.2920777,
+    "lng": 5.9128478,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Heuvelachtig park midden in de Ardennen. Na de vernieuwing een echte topper met een spectaculaire Action Factory (indoor) en een prachtig zwembad. Perfect voor actieve gezinnen die wandelen in de natuur willen combineren met volop speelplezier.",
+    "links": []
+  },
+  {
+    "name": "Landal Mooi Zutendaal",
+    "category": "Vakantieparken",
+    "lat": 50.9159634,
+    "lng": 5.597453,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Stijlvol park aan de rand van het Nationaal Park Hoge Kempen. De Jan des Bouvrie huizen bieden luxe voor de ouders, terwijl de grote speeltuin en de nabijheid van het blotevoetenpad in Zutendaal het een droom maken voor natuurminnende kids.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs De Kempervennen",
+    "category": "Vakantieparken",
+    "lat": 51.3258035,
+    "lng": 5.4234777,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Groot en veelzijdig park vlak bij de Belgische grens. Uniek door de indoor skihal (Montana Snowcenter) en de twee grote meren voor watersport. De Aqua Mundo is gigantisch met een spectaculaire wildwaterbaan en de nieuwe \"Looping\" glijbaan.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs Het Meerdal",
+    "category": "Vakantieparken",
+    "lat": 51.4568737,
+    "lng": 5.9531794,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Hét park voor de jongere kids. Het zwembad heeft een zeer lange glijbaan die ook voor kleintjes toegankelijk is en er is een enorme indoor BALUBA speelwereld. Het park ligt midden in de bossen en is zeer overzichtelijk.",
+    "links": []
+  },
+  {
+    "name": "EuroParcs De Zanding",
+    "category": "Vakantieparken",
+    "lat": 52.0927293,
+    "lng": 5.77741,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Modern park pal aan de ingang van Nationaal Park De Hoge Veluwe. Beschikt over een natuurmeer met een strand en een stoer klimtoestel in het water. De sfeer is hip en de ligging voor fietstochten door de heide is onverslaanbaar.",
+    "links": []
+  },
+  {
+    "name": "Landal Beach Resort Kamperland",
+    "category": "Vakantieparken",
+    "lat": 51.589753,
+    "lng": 3.7213454,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Zeeuwse klassieker direct aan de Oosterschelde. Het kindvriendelijke strand (weinig stroming) is perfect voor kleine kinderen. Inclusief subtropisch zwemparadijs en de Koos Kids Club. Vaak zeer scherpe aanbiedingen.",
+    "links": []
+  },
+  {
+    "name": "Landal Kijkduin",
+    "category": "Vakantieparken",
+    "lat": 52.0557674,
+    "lng": 4.2113298,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Gezellig park direct achter de duinen. Een van de weinige grote parken aan de Zuid-Hollandse kust waar je zo naar het strand wandelt. Er is een binnenzwembad, een Koos Kids Club en volop speeltuinen. De sfeer is nuchter en de ligging bij Scheveningen en Den Haag maakt het perfect voor daguitstapjes.",
+    "links": []
+  },
+  {
+    "name": "Roompot Vakantiepark Weerterbergen",
+    "category": "Vakantieparken",
+    "lat": 51.250836,
+    "lng": 5.6491554,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Grootschalig familiepark rondom een groot meer. Het heeft een uitgebreid zwemparadijs, een glow-in-the-dark minigolf en een klimwand. De mascotte Koos is hier overal en de animatie is zeer uitgebreid. Een park waar altijd iets te beleven valt en dat vaak scherp geprijsd is voor de hoeveelheid faciliteiten.",
+    "links": []
+  },
+  {
+    "name": "Vakantiepark Capfun - Stoetenslagh",
+    "category": "Vakantieparken",
+    "lat": 52.5869167,
+    "lng": 6.530836,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Vakantiepark met een uniek indoor strand en een spectaculair zwemparadijs vol glijbanen waar de kids nooit uitgekeken raken. Je verblijft in kleurrijke chalets op een levendig terrein waar altijd wat te beleven is, van de bowlingbaan tot de recreatieplas.",
+    "links": []
+  },
+  {
+    "name": "Hof van Salland",
+    "category": "Vakantieparken",
+    "lat": 52.4331171,
+    "lng": 6.4138799,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Luxe villapark waar rust en comfort centraal staan in ruime, vrijstaande vakantiehuizen (vaak met eigen sauna). Hoewel het park kleinschaliger is qua animatie, biedt het een prachtig zwembad en lig je vlak bij Avonturenpark Hellendoorn voor een dag vol actie.",
+    "links": []
+  },
+  {
+    "name": "Vakantiepark De Kleine Belties",
+    "category": "Vakantieparken",
+    "lat": 52.5628079,
+    "lng": 6.5930544,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Christelijk familierecreatiepark met een gemoedelijke sfeer en een ruim aanbod aan bungalows en chalets. Kids vermaken zich uitstekend in het overdekte zwembad, de recreatieplas of tijdens de bijbelclub-activiteiten, midden in de natuur van het Vechtdal.",
+    "links": []
+  },
+  {
+    "name": "Kampeerdorp de Zandstuve",
+    "category": "Vakantieparken",
+    "lat": 52.5582741,
+    "lng": 6.5876473,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Luxe kampeerdorp waar alles draait om het \"Stuve-gevoel\" met spectaculaire binnenspeeltuinen en een groot zwembad. Je kunt hier overnachten in luxe glamping-tenten of lodges. De omgeving van Hardenberg leent zich perfect voor fietstochten door het bos en langs de rivier.",
+    "links": []
+  },
+  {
+    "name": "Vakantiepark en glamping Mölke - Slow Living a/d Regge",
+    "category": "Vakantieparken",
+    "lat": 52.3268509,
+    "lng": 6.5184007,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "All-round vakantiepark aan de Regge waar je kunt slapen in unieke \"Slow Living\" lodges of stoere boomhutten. Met een binnenzwembad, een indoor speeltuin en de mogelijkheid om een fluisterbootje te huren is het de perfecte mix van actie en Twentse rust.",
+    "links": []
+  },
+  {
+    "name": "Parc Maasresidence Thorn",
+    "category": "Vakantieparken",
+    "lat": 51.1570968,
+    "lng": 5.8542127,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Luxe resort met stijlvolle villa's aan de Maasplassen. Er is een binnenzwembad, een kids club en een eigen recreatiestrand. Huur een sloep om de plassen te verkennen of wandel door het beroemde 'witte stadje' Thorn met zijn gezellige terrasjes en historie.",
+    "links": []
+  },
+  {
+    "name": "Ardoer Vakantiepark 't Akkertien",
+    "category": "Vakantieparken",
+    "lat": 52.674585,
+    "lng": 5.9410165,
+    "price_tier": "average",
+    "icon_num": 8,
+    "description": "Familiepark aan het water met een binnenzwembad en diverse speeltuinen nabij Giethoorn. Het is een goede plek voor watersportliefhebbers en gezinnen die van de buitenlucht en varen houden.\n\nJe kan hier ook spectaculair verblijven in een echte, omgebouwde helikopter! Kinderen kunnen spelen in de cockpit terwijl je ook gebruikmaakt van het zwembad en de faciliteiten van het park.",
+    "links": []
+  },
+  {
+    "name": "Cp Akkertien",
+    "category": "Vakantieparken",
+    "lat": 52.6755767,
+    "lng": 5.9409515,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Camping aan het water met een binnenzwembad en diverse speeltuinen nabij Giethoorn. Het is een goede plek voor watersportliefhebbers en gezinnen die van de buitenlucht en varen houden.",
+    "links": []
+  },
+  {
+    "name": "Center Parcs Port Zélande",
+    "category": "Vakantieparken",
+    "lat": 51.7551221,
+    "lng": 3.8585363,
+    "price_tier": "luxe",
+    "icon_num": 7,
+    "description": "Groot vakantiepark op de Brouwersdam tussen de Noordzee en het Grevelingenmeer. Met de bekende Aqua Mundo en de Adventure Factory verveelt geen enkel kind zich hier aan de Zeeuwse kust.",
+    "links": []
+  },
+  {
+    "name": "Safari Resort Beekse Bergen",
+    "category": "Dierenparken",
+    "lat": 51.5169004,
+    "lng": 5.1211859,
+    "price_tier": "exclusive",
+    "icon_num": 11,
+    "description": "De ultieme safari-ervaring. Je slaapt in luxe lodges, boomhutten of safaritenten die direct uitkijken op de savanne of de leeuwenvlakte. Je wordt letterlijk gewekt door het gebrul van leeuwen of grazende giraffen voor je raam. Inclusief de 'AttractiePas' voor onbeperkt toegang tot het Safaripark, Speelland en de overdekte Maji Springs (zwembad). Een absolute bucketlist-ervaring die aanvoelt als Afrika in Nederland.",
+    "links": []
+  },
+  {
+    "name": "Safari Hotel Beekse Bergen",
+    "category": "Dierenparken",
+    "lat": 51.5189169,
+    "lng": 5.1190321,
+    "price_tier": "exclusive",
+    "icon_num": 11,
+    "description": "Luxe hotelbeleving midden in het safaripark. De hotelkamers zijn prachtig gethematiseerd en bieden vaak een spectaculair uitzicht op de dieren. Je geniet van de faciliteiten van een hotel (zoals ontbijtbuffet en roomservice) maar met de unieke ligging tussen de wilde dieren. Perfect voor gezinnen die de safari-vibe willen met het comfort van een high-end hotel.",
+    "links": []
+  },
+  {
+    "name": "Lake Resort Beekse Bergen",
+    "category": "Dierenparken",
+    "lat": 51.5220251,
+    "lng": 5.1386774,
+    "price_tier": "luxe",
+    "icon_num": 12,
+    "description": "Grootschalig vakantiepark aan het Victoriameer. Dit is de meer budgetvriendelijke optie van Beekse Bergen. Je verblijft in sfeervolle bungalows of jungalows in een bosrijke omgeving. Er is een overdekt zwembad (Etsi Pool), een zandstrand aan het meer en veel speeltuinen. Ook hier zit de AttractiePas meestal inclusief, waardoor je elke dag op safari kunt.",
+    "links": []
+  },
+  {
+    "name": "The Paddling Bear Hotel",
+    "category": "Dierenparken",
+    "lat": 50.5884058,
+    "lng": 3.8819331,
+    "price_tier": "exclusive",
+    "icon_num": 11,
+    "description": "Sfeervol familiehotel in de 'Last Frontier' zone van het park, volledig gebouwd in Canadese blokhutstijl met veel hout en comfort. Hoewel je hier niet direct vanuit je bed naar de beren kijkt, logeer je wel midden in de magie van het park. Het is een iets toegankelijker alternatief voor de lodges, maar wel met dezelfde voordelen: inclusief 2 dagen parktoegang, ontbijt en diner. De familiekamers zijn ruim en ademen een gezellige, warme sfeer uit.",
+    "links": []
+  },
+  {
+    "name": "Pairi Daiza Lodges",
+    "category": "Dierenparken",
+    "lat": 50.5843741,
+    "lng": 3.8871832,
+    "price_tier": "exclusive",
+    "icon_num": 11,
+    "description": "De meest exclusieve overnachting van België. Je slaapt in prachtige lodges (Native Village of The Land of the Cold) die letterlijk uitkijken op de dierenverblijven. Kies voor een kamer met zicht op de beren, wolven, walrussen of zelfs pinguïns. Sommige lodges hebben onderwaterramen! Inclusief 2 dagen toegang tot het park, ontbijt, diner en 24/7 toegang tot bepaalde delen van de zoo. Een absolute droomervaring waarbij je 's nachts de dieren hoort ademen.",
+    "links": []
+  },
+  {
+    "name": "Vakantiepark Dierenbos",
+    "category": "Dierenparken",
+    "lat": 51.704974,
+    "lng": 5.429002,
+    "price_tier": "luxe",
+    "icon_num": 12,
+    "description": "Themapark waar je letterlijk tussen de boerderijdieren slaapt in thematische bungalows. Inclusief de attractiepas die toegang geeft tot o.a. Beekse Bergen en het park zelf heeft een fijn zwemmeer en veel speeltuinen.",
+    "links": []
+  },
+  {
+    "name": "Plopsaland Theater Hotel",
+    "category": "Attractieparken",
+    "lat": 51.0812776,
+    "lng": 2.6014973,
+    "price_tier": "exclusive",
+    "icon_num": 13,
+    "description": "Themahotel bij het pretpark volledig in theaterdecor. Luxe kamers van o.a. K3 en Maya de Bij. Inclusief uitgebreid buffet en onbeperkt toegang tot zowel Plopsaland als Plopsaqua. Pure magie voor de kleinste fans.",
+    "links": []
+  },
+  {
+    "name": "Efteling Grand Hotel",
+    "category": "Attractieparken",
+    "lat": 51.6490848,
+    "lng": 5.0451668,
+    "price_tier": "exclusive",
+    "icon_num": 13,
+    "description": "Sprookjesachtig luxehotel pal aan de parkentree. Je ontwaakt midden in de magie in prachtig gethematiseerde kamers. Er is een souterrain zwembad met speciale effecten en aparte babybaden, plus natuurlijk de exclusieve toegang tot het park.",
+    "links": []
+  },
+  {
+    "name": "Drouwenerzand Hotel",
+    "category": "Attractieparken",
+    "lat": 52.9528428,
+    "lng": 6.7894596,
+    "price_tier": "exclusive",
+    "icon_num": 13,
+    "description": "All-in themahotel met prachtige familiekamers die direct grenzen aan het gelijknamige attractiepark. De kamers zijn luxe en vaak thematisch ingericht. De prijs is inclusief ontbijt, diner én onbeperkt toegang tot het park (waar ook het eten/drinken inclusief is). Een zorgeloze topper in de Drentse natuur.",
+    "links": []
+  },
+  {
+    "name": "Attractie- & Vakantiepark Slagharen",
+    "category": "Attractieparken",
+    "lat": 52.6216487,
+    "lng": 6.5639949,
+    "price_tier": "luxe",
+    "icon_num": 14,
+    "description": "Slapen in het Wilde Westen. Je overnacht in een authentieke Wigwam of een stoere Cowboy Cottage, direct naast de attracties. Inclusief onbeperkt toegang tot het attractiepark en het waterpark Aqua Mexicana met zijn 10 glijbanen en bubbelbad. 's Avonds is er entertainment voor de kids in de Music Hall. Een totale onderdompeling in een westernavontuur waar de kinderen letterlijk vanuit hun bed het reuzenrad in kunnen.",
+    "links": []
+  },
+  {
+    "name": "Duinrell",
+    "category": "Attractieparken",
+    "lat": 52.1465175,
+    "lng": 4.3843588,
+    "price_tier": "luxe",
+    "icon_num": 14,
+    "description": "Attractiepark-resort waar je slaapt in een Duingalow midden in de duinen. Je hebt onbeperkt toegang tot meer dan 40 attracties en het Tikibad met 21 glijbanen. Op het park vind je een supermarkt, restaurants en een gamehal. Fiets in 15 min. naar het strand van Wassenaar of ontdek het Monkeybos in Meijendel voor een avontuurlijke speelwandeling.",
+    "links": []
+  },
+  {
+    "name": "Efteling Wonder Hotel",
+    "category": "Attractieparken",
+    "lat": 51.6531399,
+    "lng": 5.0543922,
+    "price_tier": "exclusive",
+    "icon_num": 13,
+    "description": "Sprookjesachtig themahotel dat volledig in het teken staat van wonderen met prachtig gedecoreerde suites. Gasten hebben via een speciale ingang direct toegang tot de Efteling en verblijven op een steenworp afstand van de Loonse en Drunense Duinen.",
+    "links": []
+  },
+  {
+    "name": "Loonsche Land Hotel",
+    "category": "Attractieparken",
+    "lat": 51.6455215,
+    "lng": 5.0475793,
+    "price_tier": "luxe",
+    "icon_num": 14,
+    "description": "Natuurlijk hotel waar je kunt slapen in kamers die gebouwd zijn met natuurlijke materialen, uitkijkend over een prachtig natuurgebied. Kinderen kunnen heerlijk buiten spelen in de duinen en bossen van het vakantiepark, dat direct aan de Efteling grenst.",
+    "links": []
+  },
+  {
+    "name": "Natuurkampeerterrein De Klashorst",
+    "category": "Campings",
+    "lat": 52.5336356,
+    "lng": 6.5634727,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Natuurkampeerterrein voor gezinnen die van echt 'buiten' houden: kampvuren, hutten bouwen en slapen in een stoere trekkershut of tent. Geen schreeuwerige animatie, wel puur speelplezier in de natuur van het Vechtdal met een focus op bushcraft en avontuur.",
+    "links": []
+  },
+  {
+    "name": "Camping de Tulpenweide",
+    "category": "Campings",
+    "lat": 52.8879369,
+    "lng": 4.8546361,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Kleinschalige camping midden tussen de bloembollenvelden, waar je kunt overnachten in luxe safaritenten of je eigen tent. Kids vermaken zich hier met de skelters, de trampoline en de vele speeltoestellen op het veld, terwijl de omgeving (vlak bij de Noordkop) uitnodigt tot strandbezoekjes en fietstochten door de kleurenpracht.",
+    "links": []
+  },
+  {
+    "name": "Camping Geversduin",
+    "category": "Campings",
+    "lat": 52.5312219,
+    "lng": 4.6449847,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Natuurcamping in de duinen waar je uniek kunt overnachten in een 'Hobbithuisje' of een boomhut. Het park is volledig gericht op natuurbeleving met een waterspeelplaats, een uitkijktoren en veel natuurlijke speelelementen. Het strand van Castricum is via een mooie boswandeling of fietstocht bereikbaar.\n\nDe hobbitwoning is een sprookjesachtige ondergrondse woning met ronde deuren.",
+    "links": []
+  },
+  {
+    "name": "Camping de Lakens",
+    "category": "Campings",
+    "lat": 52.4057387,
+    "lng": 4.55337,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Duincamping waar je slaapt in een retro trailer, een beach lodge of een hippe backpackershut op een steenworp van de zee. Met een geweldige speeltuin in het zand en een relaxte surf-vibe is dit dé plek voor gezinnen die van de buitenlucht houden, vlak bij Bloemendaal aan Zee.",
+    "links": []
+  },
+  {
+    "name": "Capfun de Sprookjescamping",
+    "category": "Campings",
+    "lat": 52.546248,
+    "lng": 6.570958,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Themacamping (Capfun) volledig gericht op gezinnen met kids tot 10 jaar. Met een groot subtropisch zwemparadijs, dagelijks interactief theater en meer dan 20 speeltuintjes verspreid over het park. Je slaapt in een luxe chalet of trekkershut. Verken de zandverstuivingen van de Sahara van Ommen of bezoek Attractiepark Slagharen.\n\nThemacamping in het Overijsselse Vechtdal waar elke dag sprookjesfiguren voorbij komen voor interactief theater. Met een binnenzwembad en talloze kleine speeltuintjes verspreid over de velden is dit een paradijs voor jonge kinderen.",
+    "links": []
+  },
+  {
+    "name": "Camping TerSpegelt",
+    "category": "Campings",
+    "lat": 51.3377428,
+    "lng": 5.2941429,
+    "price_tier": "luxe",
+    "icon_num": 15,
+    "description": "Vijfsterren-recreatiepark met het unieke 'SterrenStrand': een overdekt zand- en waterspeelparadijs voor alle weersomstandigheden. Er zijn diverse zwemplassen, een pomptrackbaan en luxe glamping-lodges aan het water. Omgeving: Ontdek de Brabantse Kempen te voet of bezoek de nabijgelegen abdij van Postel.\n\nVijfsterrenpark in de Brabantse Kempen met het unieke overdekte zandstrand 'SterrenStrand'. Er zijn zwemplassen, een pomptrackbaan en uitgebreide animatie voor kinderen van alle leeftijden.",
+    "links": []
+  },
+  {
+    "name": "Camping Torentjeshoek",
+    "category": "Campings",
+    "lat": 52.8187361,
+    "lng": 6.3607336,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Gezellige familiecamping direct aan de rand van Nationaal Park Dwingelderveld waar kinderen heerlijk kunnen spelen in de natuur. De camping beschikt over een fijn zwembad, diverse speeltuintjes en een animatieteam dat actieve buitenactiviteiten organiseert in de Drentse bossen.\n\nJe hebt hier ook de mogelijkheid om bijzonder te overnachten in een bostruck. Stoer verblijf in een omgebouwde legertruck!",
+    "links": []
+  },
+  {
+    "name": "Cocoon Village",
+    "category": "Campings",
+    "lat": 50.1249985,
+    "lng": 5.1858767,
+    "price_tier": "luxe",
+    "icon_num": 15,
+    "description": "Luxe glamping-ervaring in safaritenten direct naast het Wildpark in een prachtige Ardense vallei. Inclusief toegang tot de Grotten van Han en het wildpark waar je beren en wolven kunt spotten met het hele gezin.",
+    "links": []
+  },
+  {
+    "name": "Glamping Adventure Valley",
+    "category": "Campings",
+    "lat": 50.3459777,
+    "lng": 5.4519762,
+    "price_tier": "luxe",
+    "icon_num": 15,
+    "description": "Avontuurlijk tentenkamp met luxe safaritenten midden in de natuur van Durbuy. Ideaal voor gezinnen die overdag willen klimmen en klauteren in het park en 's avonds sfeervol willen overnachten in het bos.",
+    "links": []
+  },
+  {
+    "name": "New Vennepark nv",
+    "category": "Campings",
+    "lat": 51.3032057,
+    "lng": 3.1073096,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Gezellige familiecamping op loopafstand van de Belgische kust met een fijn openluchtzwembad. Er zijn diverse speeltuinen en sportvelden, en met de kusttram voor de deur verken je eenvoudig alle badplaatsen.",
+    "links": []
+  },
+  {
+    "name": "Camping Zilvermeer",
+    "category": "Campings",
+    "lat": 51.2193435,
+    "lng": 5.1804673,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Grootschalig recreatiedomein met camping, bekend om zijn witte zandstrand en enorme zwemvijver in de Kempen. De speeltuinen zijn hier gigantisch en er zijn tal van watersportmogelijkheden voor actieve gezinnen.",
+    "links": []
+  },
+  {
+    "name": "Kompas Camping",
+    "category": "Campings",
+    "lat": 51.1308476,
+    "lng": 2.772183,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Grote camping aan de IJzermonding met twee verwarmde zwembaden en een binnenspeeltuin voor minder goede dagen. Het is een ideale uitvalsbasis voor strandvakanties en fietstochten langs de Belgische kust.",
+    "links": []
+  },
+  {
+    "name": "Camping De Kleine Wolf",
+    "category": "Campings",
+    "lat": 52.545533,
+    "lng": 6.494396,
+    "price_tier": "luxe",
+    "icon_num": 15,
+    "description": "Luxe gezinscamping in het Overijsselse Vechtdal met een indoor strand, zwembad en recreatievijver met glijbanen. De animatie is van hoog niveau en er zijn dagelijks spectaculaire shows voor het hele gezin.",
+    "links": []
+  },
+  {
+    "name": "Camping Land Uit Zee",
+    "category": "Campings",
+    "lat": 52.8577541,
+    "lng": 5.0241373,
+    "price_tier": "budget",
+    "icon_num": 16,
+    "description": "Kleinschalige gezinscamping in de polder met een natuurlijke zwemvijver en veel ruimte. Er is volop plek voor kinderen om met skelters te rijden en buiten te spelen nabij het IJsselmeer.",
+    "links": []
+  },
+  {
+    "name": "Camping Breehees",
+    "category": "Campings",
+    "lat": 51.5013889,
+    "lng": 5.0641667,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Gezellige vakantieboerderij en camping nabij Tilburg waar alles draait om pony's en het boerenleven. Kinderen mogen ponyrijden en helpen op de boerderij in een omgeving vlak bij de Efteling.",
+    "links": []
+  },
+  {
+    "name": "Stadscamping Tilburg",
+    "category": "Campings",
+    "lat": 51.5608368,
+    "lng": 5.0709354,
+    "price_tier": "budget",
+    "icon_num": 16,
+    "description": "Hippe camping nabij het Tilburgse centrum met een informele sfeer en eenvoudige speelfaciliteiten. Het biedt een leuke combinatie van stadsbezoek en buitenzijn, met de Beekse Bergen op korte rijafstand.",
+    "links": []
+  },
+  {
+    "name": "Netl Park & Netl Camping Kallumaan",
+    "category": "Campings",
+    "lat": 52.6839134,
+    "lng": 5.8820008,
+    "price_tier": "average",
+    "icon_num": 10,
+    "description": "Natuurrijk terrein met modderglijbanen, zwemstranden en uitdagende natuurspeeltuinen in de Noordoostpolder. Je slaapt hier in stoere glamping-tenten of op de camping midden in de aangelegde 'wildernis'.",
+    "links": []
+  },
+  {
+    "name": "Vlotjes kamperen",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.0412654,
+    "lng": 3.9827077,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Drijvende kampeervlotten op het water van het Donkmeer. Je kan met een roeibootje naar je eigen vlot varen, wat voor kinderen direct een groot avontuur is. Het is een back-to-basics ervaring waar je slaapt in een tent op het vlot. Overdag kun je met de roeiboot het meer verkennen of de nabijgelegen speeltuin en de Eendekooi bezoeken. Een unieke 'water-beleving' zonder wifi, maar mét heel veel natuur.",
+    "links": []
+  },
+  {
+    "name": "Treck Hostel",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.061987,
+    "lng": 3.7022704,
+    "price_tier": "budget",
+    "icon_num": 18,
+    "description": "Indoor camping in een oude baksteenfabriek. Je slaapt hier in gethematiseerde retro caravans (zoals 'Jungle', 'Zen' of 'Hawaii') die gewoon binnen staan. Het is er altijd droog en gezellig. Er is een grote speelruimte met een pingpongtafel en gezelschapsspelen. Een unieke en budgetvriendelijke manier om Gent met kids te ontdekken.",
+    "links": []
+  },
+  {
+    "name": "Station Racour - Vakantiewoningen - Logeren in het station, de trein en de spoorweghut",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.7368236,
+    "lng": 5.0463185,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Slapen in een oude treinwagon. Je overnacht in een prachtig gerestaureerde M2-treinwagon op een doodlopend spoor. Compleet met stapelbedden, originele treinbanken en zelfs conducteursattributen. Buiten is er een grote tuin en een speelplek op het oude perron. Een absolute droom voor kleine treinliefhebbers.",
+    "links": []
+  },
+  {
+    "name": "De Alpacaboerderij",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.198735,
+    "lng": 5.506925,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Slapen tussen de alpaca's. Je verblijft in een skybox of een luxe appartement op de boerderij met direct uitzicht op de weides. Kinderen kunnen helpen met voederen en wandelen met de nieuwsgierige alpaca's. Een rustgevende en unieke ervaring voor dierenliefhebbers.",
+    "links": []
+  },
+  {
+    "name": "Warredal",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.0773777,
+    "lng": 5.6889264,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Back-to-nature ervaring in sfeervolle Cosy Cabins of Hobbit-huisjes. Geen wifi of TV, maar wel een houtkachel en kampvuurplekken. Er is een klimpark en een zwemvijver op het domein. Dé plek om echt te deconnecteren en buiten te spelen in de natuur.",
+    "links": []
+  },
+  {
+    "name": "Boomkamp",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.0664699,
+    "lng": 3.2187596,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Avontuurlijk boomhuttenkamp verscholen in het groen van Ryckevelde. Vergeet schreeuwerige animatie; hier slaap je in unieke, architecturale boomhutten hoog tussen de stammen. Het is de ultieme plek voor 'slow adventure' waar kids kunnen kampen bouwen, speuren in het bos en 's avonds marshmallows roosteren bij de gezamenlijke vuurplek. Er is een tof hoogteparcours vlakbij en de sfeer is heerlijk ongedwongen en vrij. Een onvergetelijke nacht midden in de natuur.",
+    "links": []
+  },
+  {
+    "name": "Maïsterplan",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.2528824,
+    "lng": 3.312337,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Glamping bij een gigantisch maïsdoolhof. Je slaapt in sfeervolle luxetenten vlak naast het doolhof. Overdag dwalen de kids door de maïs, spelen ze in de zandbakken of op de houten speeltoestellen van de zomerbar. De sfeer is heerlijk ongedwongen met streekbiertjes voor de ouders en eindeloos speelplezier in de natuur voor de kinderen. Let op: enkel open in de zomermaanden.",
+    "links": []
+  },
+  {
+    "name": "De Vreemde Vogel Vlaardingen",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.9100252,
+    "lng": 4.3099145,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Buitenhotel met bizarre slaapplekken zoals een vliegtuig, een vogelhuisje op palen of een oude tram. Het terrein heeft een eigen kinderboerderij, speeltuin en een waterplas met roeibootjes.",
+    "links": []
+  },
+  {
+    "name": "Sterrenkubus",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.4182667,
+    "lng": 6.9695184,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Vierkante huisjes met een glazen koepel direct boven het bed. Vanuit je bed kijk je met een telescoop naar de sterrenhemel. De kubussen staan op een erf met een boerderijwinkel en veel ruimte om te spelen. Een educatieve en magische ervaring voor kleine astronomen die van de natuur en de ruimte houden.",
+    "links": []
+  },
+  {
+    "name": "Bed & Breakfast Maarle",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.4609334,
+    "lng": 5.0416918,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Slapen in een kleurrijke pipowagen op een rustig erf. Er is een gezamenlijke kampvuurplek en kinderen kunnen vrij spelen op het terrein. Er is ook een sauna en hottub. Vlakbij ligt een klimpark voor extra actie. Een kleinschalig en dromerig avontuur.",
+    "links": []
+  },
+  {
+    "name": "de REUS van Horebeke",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.8279591,
+    "lng": 3.6940854,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Slapen in een windmolen. Een authentieke molen die is omgebouwd tot een uniek vakantiehuis. Met een grote tuin en een magisch uitzicht over de Vlaamse Ardennen. Een plek waar de geschiedenis tot leven komt.",
+    "links": []
+  },
+  {
+    "name": "Windmolen in Horebeke met panoramisch uitzicht- Belvilla by Oyo",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.82831,
+    "lng": 3.694472,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Slapen in een windmolen. Een authentieke molen die is omgebouwd tot een uniek vakantiehuis. De avontuurlijke bovenslaapkamer is leuk voor kinderen. Met een grote tuin en een magisch uitzicht over de Vlaamse Ardennen. Een plek waar de geschiedenis tot leven komt.",
+    "links": []
+  },
+  {
+    "name": "Molen Jan van Arkel",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.8679405,
+    "lng": 4.9950369,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Overnachten in een echte korenmolen uit 1851. Je slaapt tussen de enorme houten tandwielen en balken. Het is een unieke, verticale ervaring (veel trappen!) die indruk maakt op elk kind. Buiten kun je heerlijk wandelen langs het water en de molenaar kan vaak alles vertellen over hoe de molen werkt.",
+    "links": []
+  },
+  {
+    "name": "ss Rotterdam",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.897691,
+    "lng": 4.4733852,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Slapen op een legendarisch cruiseschip dat permanent aan de kade ligt. Je logeert in originele scheepshutten (met patrijspoorten!). Kids kunnen deelnemen aan een speurtocht over het schip, kapitein spelen op de brug en in de zomer pootjebaden in het ondiepe zwembad op het achterdek. Een grootschalig maritiem avontuur waar je de havenvibe echt beleeft.",
+    "links": []
+  },
+  {
+    "name": "d'Ouffenhoff vakantiewoningen, XXL vakantiewoningen, groepsaccommodaties",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.3410645,
+    "lng": 6.1093481,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Historische erfgoed-locatie waar je slaapt in luxe vakantieboerderijen op een prachtig oud landgoed. Kinderen kunnen hier ouderwets buitenspelen op de grote binnenplaats, skelteren of helpen op het erf. Het is een oase van rust aan de Maas, vlak bij Attractiepark Toverland voor een dagje adrenaline.",
+    "links": []
+  },
+  {
+    "name": "Schraevenacker",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.939612,
+    "lng": 2.7508261,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Hoevehotel op een werkende boerderij waar de kids het boerenleven van dichtbij meemaken. Je overnacht in landelijke kamers en mag helpen bij de dieren of spelen op de hooizolder en bij de buitenspeeltoestellen. Plopsaland De Panne ligt om de hoek, wat dit de ideale rustige uitvalsbasis maakt.",
+    "links": []
+  },
+  {
+    "name": "Nutchel forest village Les Ardennes",
+    "category": "Bijzondere overnachtingen",
+    "lat": 49.8357781,
+    "lng": 5.7267546,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Cosy Cabins in het bos waar je de houtkachel zelf moet aansteken voor warmte. Dit 'forest camp' heeft prachtige houten huisjes met grote glazen wanden. Er is een centrale kampvuurplek, een gezamenlijke hottub en een leuke binnenspeelruimte in de 'Cosy Chalet'. Kids vinden het fantastisch om water te pompen, de olielampen aan te steken en echt even terug in de tijd te gaan in het midden van de Ardense bossen.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Dordrecht",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.8103904,
+    "lng": 4.7513732,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Het wikkelhouse is een duurzaam huisje gemaakt van 24 lagen karton. Het is super compact maar geniaal ingericht. Prachtige locatie midden in de natuur. Voor kinderen is het huisje zelf al een puzzel om te ontdekken, en de omliggende natuur biedt alle ruimte voor vlotten bouwen en speuren.",
+    "links": []
+  },
+  {
+    "name": "'t Zeugekot",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.9195161,
+    "lng": 2.6071427,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Boerderijglamping in luxe safaritenten. Kinderen mogen meehelpen op de boerderij, de dieren voederen en spelen in de grote weide. Er is veel ruimte en rust, met de charme van het boerenleven.",
+    "links": []
+  },
+  {
+    "name": "B&B de Slaaptrein",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.3273959,
+    "lng": 5.8017376,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Nostalgische overnachting in prachtig gerestaureerde treinstellen op een echt perron in het Friese landschap. De wagons zijn sfeervol ingericht en geven kinderen het gevoel een verre reis te maken nabij de Friese Waddenkust.",
+    "links": []
+  },
+  {
+    "name": "BoerenBed - Hoeve Brugge",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.1423734,
+    "lng": 3.1835111,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Logeren bij de boer in stoere safaritenten. Kids kunnen helpen met de dieren, spelen in de hooimijt en crossen met de go-karts op het erf. Pure boerderijbeleving op een steenworp van Brugge.\n\nAuthentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Stayokay Hostel Domburg (Kasteel Westhove)",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.5698359,
+    "lng": 3.5217304,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Slapen in een echt 13e-eeuws kasteel (Kasteel Westhove), compleet met torens en een slotgracht. Het ligt in een bosrijk natuurgebied op loopafstand van het strand. Kids voelen zich hier ridders en prinsessen. Er zijn speciale torenkamers, een gezellige binnenplaats en het interactieve museum Terra Maris ligt direct naast de deur. Een koninklijke ervaring voor een hostelprijs.",
+    "links": []
+  },
+  {
+    "name": "Hof ter Lo vakantiewoning en boerderijvakantie",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.9795725,
+    "lng": 2.7410218,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Vakantiewoningen op een sfeervolle, oude hoeve in de Westhoek. Kinderen kunnen hier veilig spelen op het afgesloten erf met de go-karts en trampolines, terwijl jij geniet van de rust. Plopsaland De Panne ligt op 20 min. rijafstand, wat dit een heerlijk rustige tegenpool maakt voor de drukte van het park.",
+    "links": []
+  },
+  {
+    "name": "Stayokay Hostel Gorssel",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.2232318,
+    "lng": 6.2631763,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Een authentiek Noors jachthuis van hout, ooit een geschenk van de Noorse koning. Het gebouw is ontzettend sfeervol en karakteristiek met veel houtsnijwerk. Buiten is er alle ruimte om te spelen in de bossen en er staan ook Wikkelhouses (kartonnen huisjes) op het terrein. Een heel warme, knusse plek die aanvoelt als een vakantie in Scandinavië.",
+    "links": []
+  },
+  {
+    "name": "B&B De Kamelenmelkerij",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.6927614,
+    "lng": 5.4096773,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Bijzondere B&B op de enige kamelenmelkerij van Europa in het Brabantse landschap. Kinderen mogen kalfjes de fles geven, kamelen aaien en alles leren over deze dieren, vlak bij de stad Den Bosch.",
+    "links": []
+  },
+  {
+    "name": "Puur Terschelling",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.4043035,
+    "lng": 5.3792873,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Belevingsboerderij aan de rand van het Europees natuurreservaat De Boschplaat. Je verblijft in sfeervolle appartementen op de boerderij en kunt overdag mee op de paardenkar of een ritje op een Fries paard maken over het strand. Een unieke eilandervaring waar natuur en dieren centraal staan.",
+    "links": []
+  },
+  {
+    "name": "B&B Hoeve de Schapenkop",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.7482185,
+    "lng": 3.6350817,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Kindvriendelijke hoeve-B&B met sfeervolle kamers (bijv. 'Vlaams Kuddeschaap') die elk een apart kindergedeelte hebben. Er is een ruime binnenspeelhoek, een omheinde tuin en na het ontbijt mogen de kids helpen de schapen en geitjes te voederen. Omgeving: gelegen in de glooiende Vlaamse Ardennen, ideaal voor wandeltochten of een dagje Plopsaland De Panne (45 min rijden).",
+    "links": []
+  },
+  {
+    "name": "B&B Herenhuis",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.9206692,
+    "lng": 3.20349,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Boetiek B&B met een spectaculaire familiekamer waar de kids via een glijbaan van hun slaapzolder naar de speelhoek roetsjen (incl. Wii en klimmuur). Er is een privé-wellness met zwembad en een kindvriendelijk restaurant in het statige pand. Bezoek het nabijgelegen schoenenmuseum Eperon d'Or of maak een wandeling langs de Leie.",
+    "links": []
+  },
+  {
+    "name": "Fruitpark Hotel & Spa",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.9150702,
+    "lng": 5.6113376,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Hotel & Spa gelegen op een groot nationaal fruitpark. Je slaapt in luxe kamers tussen de boomgaarden. Faciliteiten omvatten een blotevoetenpad, midgetgolf tussen de fruitbomen en een grote speeltuin met uitkijktoren. Huur een fiets om de Betuwe te verkennen of bezoek Ouwehands Dierenpark in Rhenen, dat op een steenworp afstand ligt.",
+    "links": []
+  },
+  {
+    "name": "Jan Klaassen Dromenland Kindercamping",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.9281145,
+    "lng": 6.2600048,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Themacamping waar je overnacht in een omgebouwde helikopter, brandweerauto of piratenboot. Inclusief ontbijtbuffet en onbeperkt toegang tot het nabijgelegen kinderpretpark 'Het Land van Jan Klaassen'. Elke avond is er een poppenkastvoorstelling en een kampvuur. Gelegen in de Achterhoek, perfect voor een bezoek aan kasteel Huis Bergh.",
+    "links": []
+  },
+  {
+    "name": "La Balade des Gnomes",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.3444095,
+    "lng": 5.5666165,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Fantasiehotel met handgemaakte kamers zoals het 'Houten Paard van Troje' of een kamer in een trollengrot. De inrichting is tot in de kleinste details magisch en artistiek. Gelegen nabij Durbuy, het kleinste stadje ter wereld. Bezoek Adventure Valley voor actie of verken de mysterieuze megalieten van Wéris.",
+    "links": []
+  },
+  {
+    "name": "Archeon Museumpark",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.1138484,
+    "lng": 4.6541758,
+    "price_tier": "luxe",
+    "icon_num": 19,
+    "description": "Historisch verblijf waarbij je slaapt in een authentiek gereconstrueerde middeleeuwse woning midden in het Museumpark Archeon. Je krijgt kleding uit die tijd en mag meehelpen met historische klusjes, wat een unieke en leerzame ervaring is voor kinderen.",
+    "links": []
+  },
+  {
+    "name": "Un Lit au Pré - Rochefort en Ardenne",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.1055605,
+    "lng": 5.2886499,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Het Keelven",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.3803213,
+    "lng": 5.6823957,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Stro-Hotel",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.2842496,
+    "lng": 6.4160059,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Origineel verblijf waarbij je slaapt op een groot bed van stro onder een glazen koepel in de Groningse Ommelanden. De boerderij biedt alle ruimte om te ravotten en na een nachtje in het stro wacht er een heerlijk boerenontbijt.",
+    "links": []
+  },
+  {
+    "name": "BoerenBed De Oude Melkstal",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.2938459,
+    "lng": 5.4530388,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed - Hoeve Den Overdraght",
+    "category": "Bijzondere overnachtingen",
+    "lat": 50.8812957,
+    "lng": 2.7632193,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Boerenbed glamping Landgoed ter Wijnendale",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.0706944,
+    "lng": 3.0639059,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "''t Boshuis\", Camping en Het Betere Boshuis Bed",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.1013091,
+    "lng": 6.2601431,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed Het Wesselink",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.3056313,
+    "lng": 6.2416776,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed - Botterheerd",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.2001272,
+    "lng": 6.4301711,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed De Lange Weide",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.8527841,
+    "lng": 6.4013658,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed De Zeekraal",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.4038606,
+    "lng": 5.3757923,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed De Kalverweide",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.8026445,
+    "lng": 6.1833779,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed Landgoed Volenbeek",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.2807581,
+    "lng": 5.5852531,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed - De Appelsche",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.9649453,
+    "lng": 6.3382547,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed Hoeve Banenburg",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.5388749,
+    "lng": 3.634377,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed Hoeve de Pippert",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.8512332,
+    "lng": 5.3866479,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "BoerenBed - De Brabantse Hei",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.3721545,
+    "lng": 5.1226367,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Boerenbed - Hoeve de Betuwe",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.8432952,
+    "lng": 5.4627481,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "TaarTenTuin",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.1202778,
+    "lng": 4.7519444,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Authentiek glampingconcept van BoerenBed waarbij je slaapt op een werkende boerderij op diverse locaties. Kinderen mogen meehelpen de dieren voeren en hun boerendiploma halen terwijl ze onbeperkt buiten spelen op het erf.\n\nLet op: check https://www.boerenbed.be/onze-boerderijen voor meer info.",
+    "links": [
+      "https://www.boerenbed.be/onze-boerderijen"
+    ]
+  },
+  {
+    "name": "Landgoed Börkerheide",
+    "category": "Bijzondere overnachtingen",
+    "lat": 52.8501335,
+    "lng": 6.5904715,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Avontuurlijk verblijf in een tent die letterlijk tussen de bomen zweeft op een natuurlijke camping in Drenthe. De camping heeft vuurplaatsen en eenvoudige speelfaciliteiten in het bos, ideaal voor gezinnen die van echt back-to-basics houden.",
+    "links": []
+  },
+  {
+    "name": "Stro-Hotel",
+    "category": "Bijzondere overnachtingen",
+    "lat": 53.2842496,
+    "lng": 6.4160059,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Origineel verblijf waarbij je slaapt op een groot bed van stro onder een glazen koepel in de Groningse Ommelanden. De boerderij biedt alle ruimte om te ravotten en na een nachtje in het stro wacht er een heerlijk boerenontbijt.",
+    "links": []
+  },
+  {
+    "name": "Kampeerbos De Simonshoek",
+    "category": "Bijzondere overnachtingen",
+    "lat": 51.3396306,
+    "lng": 5.8706042,
+    "price_tier": "average",
+    "icon_num": 17,
+    "description": "Camping waar je kan slapen in een boomkampeerton. Knusse houten ton die hoog in de bomen staat op een rustige camping in de Limburgse Peel. Het biedt een uniek nestgevoel voor kinderen en ligt op korte afstand van attractiepark Toverland.",
+    "links": []
+  },
+  {
+    "name": "Chalet Du Bois",
+    "category": "Vakantiewoningen en -appartementen + B&B's",
+    "lat": 50.3441249,
+    "lng": 5.4260501,
+    "price_tier": "average",
+    "icon_num": 20,
+    "description": "",
+    "links": []
+  }
+]
