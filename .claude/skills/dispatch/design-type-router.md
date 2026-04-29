@@ -258,6 +258,36 @@ Fix everything before completion
 
 ---
 
+## Design System Governance Routing
+
+After ANY of the following:
+- a new major section is created
+- a new screen is created
+- a new component is introduced
+- inspiration introduces a new visual treatment
+- before final Figma completion
+- before code generation
+
+Then:
+
+1. Load /skills/critique/design-system-governance.md
+2. Run Design System Governance Scan
+3. Compare new work against the current design system
+4. Detect token, typography, component, layout, responsive, and style drift
+5. For each finding, suggest one of:
+   - reuse existing system
+   - update component
+   - add new token/component
+   - reject/simplify
+   - defer decision
+6. PAUSE for user approval before changing the design system
+
+No design system updates happen without user consent.
+
+This routing is mandatory at every checkpoint above. Do not skip it to "save a turn" — drift caught late is far more expensive than drift caught at the section boundary.
+
+---
+
 ## GLOBAL EXECUTION GUARD
 
 No UI should be generated unless ALL are complete:
@@ -266,3 +296,5 @@ No UI should be generated unless ALL are complete:
 2. content is defined
 3. design system is created
 4. responsive logic is applied
+
+No final Figma delivery and no code generation may occur unless the Design System Governance Scan has run on the latest work and any approved updates have been applied.

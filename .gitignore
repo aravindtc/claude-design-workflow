@@ -53,6 +53,7 @@ venv/
 
 # Claude Code local settings (contain per-user allowlist, may include credentials)
 .claude/settings.local.json
+.claude/.governance-counter
 
 # Project-specific: kidsproof-stays lives as its own project
 kidsproof-stays/
